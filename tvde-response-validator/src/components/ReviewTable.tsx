@@ -41,6 +41,7 @@ export function ReviewTable({ questions, userAnswers }: ReviewTableProps) {
           <thead>
             <tr>
               <th scope="col">#</th>
+              <th scope="col">Pergunta</th>
               <th scope="col">Sua Resposta</th>
               <th scope="col">Resposta Correta</th>
               <th scope="col">Estado</th>
@@ -53,10 +54,40 @@ export function ReviewTable({ questions, userAnswers }: ReviewTableProps) {
               const config = STATUS_CONFIG[status];
 
               return (
-                <tr key={question.questionNumber}>
-                  <td>{question.questionNumber}</td>
-                  <td>{userAnswer || '—'}</td>
-                  <td>{question.correctResponseLetter || '—'}</td>
+                <tr
+                  key={question.questionNumber}
+                  className={
+                    status === 'correct'
+                      ? 'review-table__row--correct'
+                      : status === 'wrong'
+                        ? 'review-table__row--wrong'
+                        : ''
+                  }
+                >
+                  <td className="review-table__num">
+                    {question.questionNumber}
+                  </td>
+                  <td className="review-table__question">
+                    {question.question}
+                  </td>
+                  <td className="review-table__answer">
+                    <span
+                      className={`review-table__answer-letter ${
+                        status === 'correct'
+                          ? 'review-table__answer-letter--correct'
+                          : status === 'wrong'
+                            ? 'review-table__answer-letter--wrong'
+                            : ''
+                      }`}
+                    >
+                      {userAnswer || '—'}
+                    </span>
+                  </td>
+                  <td className="review-table__answer">
+                    <span className="review-table__answer-letter review-table__answer-letter--key">
+                      {question.correctResponseLetter || '—'}
+                    </span>
+                  </td>
                   <td>
                     <span className={`status-badge ${config.className}`}>
                       <span aria-hidden="true">{config.icon}</span>

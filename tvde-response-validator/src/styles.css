@@ -363,18 +363,118 @@ button {
    -------------------------------------------------------------------------- */
 .result-summary {
   background: var(--color-surface);
-  border-radius: var(--radius);
-  box-shadow: var(--shadow);
+  border-radius: var(--radius-lg);
+  box-shadow: var(--shadow-lg);
   padding: var(--space-2xl);
   text-align: center;
   margin-bottom: var(--space-xl);
+  animation: fadeInUp 0.5s ease;
+}
+
+@keyframes fadeInUp {
+  from {
+    opacity: 0;
+    transform: translateY(20px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+/* Score Ring */
+.result-summary__ring-container {
+  position: relative;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  margin-bottom: var(--space-lg);
+}
+
+.result-summary__ring {
+  display: block;
+}
+
+.result-summary__ring-progress {
+  transition: stroke-dashoffset 1.2s cubic-bezier(0.25, 0.46, 0.45, 0.94);
+}
+
+.result-summary__ring-content {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
 }
 
 .result-summary__score {
   font-size: var(--font-size-3xl);
   font-weight: 700;
-  color: var(--color-primary);
-  margin-bottom: var(--space-xs);
+  line-height: 1;
+  margin-bottom: 2px;
+}
+
+.result-summary__score-label {
+  font-size: var(--font-size-xs);
+  color: var(--color-text-muted);
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  font-weight: 500;
+}
+
+/* Pass/Fail Badge */
+.result-summary__badge {
+  display: inline-flex;
+  align-items: center;
+  gap: var(--space-sm);
+  padding: var(--space-sm) var(--space-lg);
+  border-radius: 999px;
+  font-size: var(--font-size-sm);
+  font-weight: 700;
+  letter-spacing: 0.08em;
+  margin-bottom: var(--space-md);
+  animation: fadeInUp 0.7s ease;
+}
+
+.result-summary__badge--pass {
+  background: linear-gradient(135deg, rgba(0, 184, 148, 0.15), rgba(0, 184, 148, 0.05));
+  color: var(--color-correct);
+  border: 1px solid rgba(0, 184, 148, 0.3);
+}
+
+.result-summary__badge--fail {
+  background: linear-gradient(135deg, rgba(214, 48, 49, 0.15), rgba(214, 48, 49, 0.05));
+  color: var(--color-wrong);
+  border: 1px solid rgba(214, 48, 49, 0.3);
+}
+
+.result-summary__badge--pending {
+  background: linear-gradient(135deg, rgba(253, 203, 110, 0.2), rgba(253, 203, 110, 0.05));
+  color: var(--color-pending-dark);
+  border: 1px solid rgba(225, 112, 85, 0.3);
+}
+
+.result-summary__badge-emoji {
+  font-size: var(--font-size-lg);
+}
+
+.result-summary__badge-text {
+  font-size: var(--font-size-sm);
+}
+
+.result-summary__message {
+  font-size: var(--font-size-base);
+  color: var(--color-text);
+  margin-bottom: var(--space-sm);
+  font-weight: 500;
+}
+
+.result-summary__threshold {
+  font-size: var(--font-size-xs);
+  color: var(--color-text-muted);
+  margin-bottom: var(--space-xl);
 }
 
 .result-summary__label {
@@ -387,12 +487,19 @@ button {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(120px, 1fr));
   gap: var(--space-md);
+  margin-top: var(--space-lg);
 }
 
 .result-summary__item {
   padding: var(--space-md);
   border-radius: var(--radius-sm);
   background-color: var(--color-bg);
+  transition: transform var(--transition), box-shadow var(--transition);
+}
+
+.result-summary__item:hover {
+  transform: translateY(-2px);
+  box-shadow: var(--shadow);
 }
 
 .result-summary__item-value {
@@ -476,6 +583,57 @@ button {
   border-bottom: none;
 }
 
+.review-table__row--correct {
+  background-color: rgba(0, 184, 148, 0.04);
+}
+
+.review-table__row--wrong {
+  background-color: rgba(214, 48, 49, 0.04);
+}
+
+.review-table__num {
+  font-weight: 600;
+  color: var(--color-text-muted);
+  white-space: nowrap;
+}
+
+.review-table__question {
+  max-width: 320px;
+  line-height: 1.4;
+}
+
+.review-table__answer {
+  text-align: center;
+}
+
+.review-table__answer-letter {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 28px;
+  height: 28px;
+  border-radius: 50%;
+  font-weight: 700;
+  font-size: var(--font-size-xs);
+  background-color: var(--color-bg);
+  color: var(--color-text-muted);
+}
+
+.review-table__answer-letter--correct {
+  background-color: var(--color-correct-light);
+  color: var(--color-correct);
+}
+
+.review-table__answer-letter--wrong {
+  background-color: var(--color-wrong-light);
+  color: var(--color-wrong);
+}
+
+.review-table__answer-letter--key {
+  background-color: var(--color-primary-light);
+  color: var(--color-primary);
+}
+
 /* --------------------------------------------------------------------------
    Status Badge
    -------------------------------------------------------------------------- */
@@ -553,8 +711,21 @@ button {
     padding: var(--space-xl);
   }
 
+  .result-summary__ring-container svg {
+    width: 160px;
+    height: 160px;
+  }
+
+  .result-summary__score {
+    font-size: 1.75rem;
+  }
+
   .result-summary__grid {
     grid-template-columns: repeat(2, 1fr);
+  }
+
+  .review-table__question {
+    max-width: 200px;
   }
 
   .review-table th,

@@ -11,9 +11,9 @@ const STORAGE_KEY = 'tvde-validator-answers';
 /**
  * Determines the result status of a single question based on the user's answer.
  *
- * Updated evaluation order:
+ * Evaluation order:
  * 1. If the user did not answer → "unanswered"
- * 2. If the answer key is missing (empty string) → treat as "wrong" because we cannot confirm correctness.
+ * 2. If the answer key is missing (empty string) → "pending-answer-key"
  * 3. If the answer matches the key → "correct"
  * 4. Otherwise → "wrong"
  */
@@ -25,9 +25,9 @@ export function getResultStatus(
     return 'unanswered';
   }
 
-  // Treat missing answer key as wrong for answered questions.
+  // If no correct answer is defined, mark as pending validation
   if (question.correctResponseLetter === '') {
-    return 'wrong';
+    return 'pending-answer-key';
   }
 
   if (userAnswer === question.correctResponseLetter) {
@@ -40,7 +40,7 @@ export function getResultStatus(
 /**
  * Calculates the overall quiz result from all questions and user answers.
  *
- * Score percentage is based only on valid questions (correct + wrong).
+ * Score percentage is based only on validated questions (correct + wrong).
  * Pending and unanswered questions are excluded from the percentage calculation.
  */
 export function calculateResult(
@@ -49,7 +49,7 @@ export function calculateResult(
 ): QuizResult {
   let correct = 0;
   let wrong = 0;
-  let pending = 0; // kept for type compatibility, always zero after change
+  let pending = 0;
   let unanswered = 0;
 
   for (const question of questions) {
@@ -65,7 +65,9 @@ export function calculateResult(
       case 'wrong':
         wrong++;
         break;
-
+      case 'pending-answer-key':
+        pending++;
+        break;
       case 'unanswered':
         unanswered++;
         break;
@@ -78,9 +80,10 @@ export function calculateResult(
 
   return {
     total: questions.length,
-    answered: correct + wrong,
+    answered: correct + wrong + pending,
     correct,
     wrong,
+    pending,
     unanswered,
     percentage,
   };
