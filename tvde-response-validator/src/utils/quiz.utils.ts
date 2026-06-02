@@ -11,11 +11,11 @@ const STORAGE_KEY = 'tvde-validator-answers';
 /**
  * Determines the result status of a single question based on the user's answer.
  *
- * Evaluation order:
+ * Updated evaluation order:
  * 1. If the user did not answer → "unanswered"
- * 2. If the answer key is empty → "pending-answer-key"
- * 3. If the answer matches → "correct"
- * 4. If the answer differs → "wrong"
+ * 2. If the answer key is missing (empty string) → treat as "wrong" because we cannot confirm correctness.
+ * 3. If the answer matches the key → "correct"
+ * 4. Otherwise → "wrong"
  */
 export function getResultStatus(
   question: Question,
@@ -25,8 +25,9 @@ export function getResultStatus(
     return 'unanswered';
   }
 
+  // Treat missing answer key as wrong for answered questions.
   if (question.correctResponseLetter === '') {
-    return 'pending-answer-key';
+    return 'wrong';
   }
 
   if (userAnswer === question.correctResponseLetter) {
@@ -48,7 +49,7 @@ export function calculateResult(
 ): QuizResult {
   let correct = 0;
   let wrong = 0;
-  let pending = 0;
+  let pending = 0; // kept for type compatibility, always zero after change
   let unanswered = 0;
 
   for (const question of questions) {
@@ -64,9 +65,7 @@ export function calculateResult(
       case 'wrong':
         wrong++;
         break;
-      case 'pending-answer-key':
-        pending++;
-        break;
+
       case 'unanswered':
         unanswered++;
         break;
@@ -79,10 +78,9 @@ export function calculateResult(
 
   return {
     total: questions.length,
-    answered: correct + wrong + pending,
+    answered: correct + wrong,
     correct,
     wrong,
-    pending,
     unanswered,
     percentage,
   };
