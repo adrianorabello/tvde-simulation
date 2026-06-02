@@ -1,0 +1,4418 @@
+[
+  {
+    "questionNumber": 21,
+    "questionId": "677",
+    "page": 5,
+    "group": "Grupo 13021 - Disabled:13210~2A Ultrapassagem",
+    "question": "Nesta situação posso ultrapassar o automóvel de cor preta?",
+    "options": {
+      "A": "Posso pela direita porque a via está livre.",
+      "B": "Não posso.",
+      "C": "Não posso, porque a ultrapassagem faz-se pelo lado esquerdo."
+    },
+    "correctResponseLetter": "",
+    "correctResponseText": "",
+    "imageUrl": "/images/question_021.png"
+  },
+  {
+    "questionNumber": 22,
+    "questionId": "686",
+    "page": 5,
+    "group": "Grupo 13021 - Disabled:13210~2A Ultrapassagem",
+    "question": "Nesta situação, devo aumentar a velocidade?",
+    "options": {
+      "A": "Sim.",
+      "B": "Não."
+    },
+    "correctResponseLetter": "",
+    "correctResponseText": "",
+    "imageUrl": "/images/question_022.png"
+  },
+  {
+    "questionNumber": 23,
+    "questionId": "960",
+    "page": 5,
+    "group": "Grupo 13021 - Disabled:13210~2A Ultrapassagem",
+    "question": "Perante o sinal de informação fico a saber que:",
+    "options": {
+      "A": "Só é permitido o estacionamento de autocarros.",
+      "B": "É permitido o estacionamento a todos os veículos.",
+      "C": "É permitida a paragem, mas não o estacionamento de automóveis."
+    },
+    "correctResponseLetter": "",
+    "correctResponseText": "",
+    "imageUrl": "/images/question_023.png"
+  },
+  {
+    "questionNumber": 24,
+    "questionId": "1133",
+    "page": 5,
+    "group": "Grupo 13021 - Disabled:13210~2A Ultrapassagem",
+    "question": "Neste local é proibido ultrapassar.",
+    "options": {
+      "A": "Certo.",
+      "B": "Errado."
+    },
+    "correctResponseLetter": "",
+    "correctResponseText": "",
+    "imageUrl": "/images/question_024.png"
+  },
+  {
+    "questionNumber": 25,
+    "questionId": "1172",
+    "page": 5,
+    "group": "Grupo 13021 - Disabled:13210~2A Ultrapassagem",
+    "question": "O sinal de mudança de direcção para a esquerda, do veículo que segue à frente, pode indicar-me:",
+    "options": {
+      "A": "Diminuição de velocidade.",
+      "B": "Início de uma ultrapassagem.",
+      "C": "Início de manobra de marcha atrás."
+    },
+    "correctResponseLetter": "",
+    "correctResponseText": "",
+    "imageUrl": "/images/question_025.png"
+  },
+  {
+    "questionNumber": 26,
+    "questionId": "2568",
+    "page": 5,
+    "group": "Grupo 13021 - Disabled:13210~2A Ultrapassagem",
+    "question": "Ao ultrapassar o automóvel pesado, que comportamento devo esperar do seu condutor?",
+    "options": {
+      "A": "Que reduza a sua velocidade.",
+      "B": "Que mantenha a velocidade e se desvie o mais possível para a direita.",
+      "C": "Que aumente a sua velocidade."
+    },
+    "correctResponseLetter": "",
+    "correctResponseText": "",
+    "imageUrl": "/images/question_026.png"
+  },
+  {
+    "questionNumber": 27,
+    "questionId": "2569",
+    "page": 6,
+    "group": "Grupo 13021 - Disabled:13210~2A Ultrapassagem",
+    "question": "Que sinal devo fazer ao iniciar a ultrapassagem do veículo pesado que circula à minha frente?",
+    "options": {
+      "A": "Sinal de mudança de direcção à direita.",
+      "B": "Sinal de luzes.",
+      "C": "Sinal de mudança de direcção à esquerda."
+    },
+    "correctResponseLetter": "",
+    "correctResponseText": "",
+    "imageUrl": "/images/question_027.png"
+  },
+  {
+    "questionNumber": 28,
+    "questionId": "2570",
+    "page": 6,
+    "group": "Grupo 13021 - Disabled:13210~2A Ultrapassagem",
+    "question": "Como devo proceder quando verifico que o condutor do veículo que circula à minha retaguarda me pretende ultrapassar?",
+    "options": {
+      "A": "Reduzir a velocidade.",
+      "B": "Desviar-me o mais possível para a esquerda.",
+      "C": "Não aumentar a velocidade e desviar-me o mais possível para a direita."
+    },
+    "correctResponseLetter": "",
+    "correctResponseText": "",
+    "imageUrl": "/images/question_028.png"
+  },
+  {
+    "questionNumber": 29,
+    "questionId": "2571",
+    "page": 6,
+    "group": "Grupo 13021 - Disabled:13210~2A Ultrapassagem",
+    "question": "Na via em que me encontro é permitido realizar a manobra de ultrapassagem pela direita?",
+    "options": {
+      "A": "Sim, visto tratar-se de uma auto-estrada.",
+      "B": "Sim, caso o condutor da frente mude de direcção à esquerda.",
+      "C": "Não, em circunstância alguma."
+    },
+    "correctResponseLetter": "",
+    "correctResponseText": "",
+    "imageUrl": "/images/question_029.png"
+  },
+  {
+    "questionNumber": 30,
+    "questionId": "2572",
+    "page": 6,
+    "group": "Grupo 13021 - Disabled:13210~2A Ultrapassagem",
+    "question": "Posso ultrapassar o veículo que circula à minha frente?",
+    "options": {
+      "A": "Sim, a manobra é permitida.",
+      "B": "Não, devo aguardar que termine a manobra."
+    },
+    "correctResponseLetter": "",
+    "correctResponseText": "",
+    "imageUrl": "/images/question_030.png"
+  },
+  {
+    "questionNumber": 31,
+    "questionId": "5016",
+    "page": 6,
+    "group": "Grupo 13021 - Disabled:13210~2A Ultrapassagem",
+    "question": "Posso ultrapassar pela direita o veículo de mercadorias?",
+    "options": {
+      "A": "Sim, posso.",
+      "B": "Não, a ultrapassagem pela direita é proibida."
+    },
+    "correctResponseLetter": "",
+    "correctResponseText": "",
+    "imageUrl": "/images/question_031.png"
+  },
+  {
+    "questionNumber": 32,
+    "questionId": "5057",
+    "page": 6,
+    "group": "Grupo 13021 - Disabled:13210~2A Ultrapassagem",
+    "question": "Posso ultrapassar?",
+    "options": {
+      "A": "Sim, porque o local tem pouca intensidade de trânsito.",
+      "B": "Sim, porque o local tem dois sentidos de trânsito.",
+      "C": "Sim, porque existem duas vias de trânsito no mesmo sentido."
+    },
+    "correctResponseLetter": "",
+    "correctResponseText": "",
+    "imageUrl": "/images/question_032.png"
+  },
+  {
+    "questionNumber": 33,
+    "questionId": "6037",
+    "page": 7,
+    "group": "Grupo 13021 - Disabled:13210~2A Ultrapassagem",
+    "question": "Pretendo ultrapassar. Posso fazê-lo?",
+    "options": {
+      "A": "Sim, desde que o faça pela direita.",
+      "B": "Sim, desde que o faça pela esquerda e não circulem veículos em sentido contrário.",
+      "C": "Não, porque a sinalização existente no local proíbe-me."
+    },
+    "correctResponseLetter": "",
+    "correctResponseText": "",
+    "imageUrl": "/images/question_033.png"
+  },
+  {
+    "questionNumber": 34,
+    "questionId": "6042",
+    "page": 7,
+    "group": "Grupo 13021 - Disabled:13210~2A Ultrapassagem",
+    "question": "Posso ultrapassar, pela direita, o motociclo que circula a 60 Km/h?",
+    "options": {
+      "A": "Sim, desde que sinalize devidamente a manobra.",
+      "B": "Não, porque é proibido.",
+      "C": "Sim, porque existem duas filas de trânsito no mesmo sentido."
+    },
+    "correctResponseLetter": "",
+    "correctResponseText": "",
+    "imageUrl": "/images/question_034.png"
+  },
+  {
+    "questionNumber": 35,
+    "questionId": "6064",
+    "page": 7,
+    "group": "Grupo 13021 - Disabled:13210~2A Ultrapassagem",
+    "question": "Nesta situação devo:",
+    "options": {
+      "A": "Desviar-me o mais possível para a direita e manter a velocidade.",
+      "B": "Buzinar para advertir o condutor que é proibido ultrapassar em pontes.",
+      "C": "Travar bruscamente para facilitar a ultrapassagem."
+    },
+    "correctResponseLetter": "",
+    "correctResponseText": "",
+    "imageUrl": "/images/question_035.png"
+  },
+  {
+    "questionNumber": 36,
+    "questionId": "6910",
+    "page": 7,
+    "group": "Grupo 13021 - Disabled:13210~2A Ultrapassagem",
+    "question": "Perante o sinal vertical só os automóveis pesados de mercadorias estão proibidos de ultrapassar.",
+    "options": {
+      "A": "Certo.",
+      "B": "Errado."
+    },
+    "correctResponseLetter": "",
+    "correctResponseText": "",
+    "imageUrl": "/images/question_036.png"
+  },
+  {
+    "questionNumber": 37,
+    "questionId": "6949",
+    "page": 7,
+    "group": "Grupo 13021 - Disabled:13210~2A Ultrapassagem",
+    "question": "A faixa de rodagem está dividida por uma linha descontínua. Estou correctamente posicionado se estiver a efectuar uma  ultrapassagem.",
+    "options": {
+      "A": "Certo.",
+      "B": "Errado."
+    },
+    "correctResponseLetter": "",
+    "correctResponseText": "",
+    "imageUrl": "/images/question_037.png"
+  },
+  {
+    "questionNumber": 38,
+    "questionId": "6959",
+    "page": 7,
+    "group": "Grupo 13021 - Disabled:13210~2A Ultrapassagem",
+    "question": "A faixa de rodagem está dividida por uma linha descontínua. Estou correctamente posicionado se:",
+    "options": {
+      "A": "Pretender ultrapassar o veículo da frente.",
+      "B": "Estiver a efectuar uma ultrapassagem.",
+      "C": "Pretender estacionar do lado esquerdo da faixa de rodagem."
+    },
+    "correctResponseLetter": "",
+    "correctResponseText": "",
+    "imageUrl": "/images/question_038.png"
+  },
+  {
+    "questionNumber": 39,
+    "questionId": "7144",
+    "page": 8,
+    "group": "Grupo 13021 - Disabled:13210~2A Ultrapassagem",
+    "question": "Estou a ser correctamente ultrapassado?",
+    "options": {
+      "A": "Sim, estou.",
+      "B": "Não, porque a realização da manobra pode provocar embaraço para o trânsito.",
+      "C": "Não, porque é proibido ultrapassar nas pontes."
+    },
+    "correctResponseLetter": "",
+    "correctResponseText": "",
+    "imageUrl": "/images/question_039.png"
+  },
+  {
+    "questionNumber": 40,
+    "questionId": "7633",
+    "page": 8,
+    "group": "Grupo 13021 - Disabled:13210~2A Ultrapassagem",
+    "question": "Posso ultrapassar neste local?",
+    "options": {
+      "A": "Sim, desde que não aumente a velocidade.",
+      "B": "Não.",
+      "C": "Sim, desde que ocupe apenas uma faixa de rodagem."
+    },
+    "correctResponseLetter": "",
+    "correctResponseText": "",
+    "imageUrl": "/images/question_040.png"
+  },
+  {
+    "questionNumber": 41,
+    "questionId": "130021",
+    "page": 8,
+    "group": "Grupo 13021 - Disabled:13210~2A Ultrapassagem",
+    "question": "O sinal de mudança de direção para a esquerda, do veículo que segue à frente, pode indicar-me:",
+    "options": {
+      "A": "Diminuição de velocidade.",
+      "B": "Início de uma ultrapassagem.",
+      "C": "Início de manobra de marcha atrás."
+    },
+    "correctResponseLetter": "",
+    "correctResponseText": "",
+    "imageUrl": "/images/question_041.png"
+  },
+  {
+    "questionNumber": 42,
+    "questionId": "130022",
+    "page": 8,
+    "group": "Grupo 13021 - Disabled:13210~2A Ultrapassagem",
+    "question": "Que sinal devo fazer ao iniciar a ultrapassagem do veículo pesado que circula à minha frente?",
+    "options": {
+      "A": "Sinal de mudança de direção à direita.",
+      "B": "Sinal de luzes.",
+      "C": "Sinal de mudança de direção à esquerda."
+    },
+    "correctResponseLetter": "",
+    "correctResponseText": "",
+    "imageUrl": "/images/question_042.png"
+  },
+  {
+    "questionNumber": 43,
+    "questionId": "130023",
+    "page": 8,
+    "group": "Grupo 13021 - Disabled:13210~2A Ultrapassagem",
+    "question": "Na via em que me encontro é permitido realizar a manobra de ultrapassagem pela direita?",
+    "options": {
+      "A": "Sim, visto tratar-se de uma auto-estrada.",
+      "B": "Sim, caso o condutor da frente mude de direção à esquerda.",
+      "C": "Não, em circunstância alguma."
+    },
+    "correctResponseLetter": "",
+    "correctResponseText": "",
+    "imageUrl": "/images/question_043.png"
+  },
+  {
+    "questionNumber": 44,
+    "questionId": "130024",
+    "page": 9,
+    "group": "Grupo 13021 - Disabled:13210~2A Ultrapassagem",
+    "question": "A faixa de rodagem está dividida por uma linha descontínua. Estou corretamente posicionado se estiver a efectuar uma  ultrapassagem.",
+    "options": {
+      "A": "Certo.",
+      "B": "Errado."
+    },
+    "correctResponseLetter": "",
+    "correctResponseText": "",
+    "imageUrl": "/images/question_044.png"
+  },
+  {
+    "questionNumber": 45,
+    "questionId": "130025",
+    "page": 9,
+    "group": "Grupo 13021 - Disabled:13210~2A Ultrapassagem",
+    "question": "A faixa de rodagem está dividida por uma linha descontínua. Estou corretamente posicionado se:",
+    "options": {
+      "A": "Pretender ultrapassar o veículo da frente.",
+      "B": "Estiver a efetuar uma ultrapassagem.",
+      "C": "Pretender estacionar do lado esquerdo da faixa de rodagem."
+    },
+    "correctResponseLetter": "",
+    "correctResponseText": "",
+    "imageUrl": "/images/question_045.png"
+  },
+  {
+    "questionNumber": 46,
+    "questionId": "130026",
+    "page": 9,
+    "group": "Grupo 13021 - Disabled:13210~2A Ultrapassagem",
+    "question": "Estou a ser corretamente ultrapassado?",
+    "options": {
+      "A": "Sim, estou.",
+      "B": "Não, porque a realização da manobra pode provocar embaraço para o trânsito.",
+      "C": "Não, porque é proibido ultrapassar nas pontes."
+    },
+    "correctResponseLetter": "",
+    "correctResponseText": "",
+    "imageUrl": "/images/question_046.png"
+  },
+  {
+    "questionNumber": 47,
+    "questionId": "2329",
+    "page": 9,
+    "group": "Grupo 13021 - Disabled:13210~2A Ultrapassagem",
+    "question": "O dever de ceder a passagem é:",
+    "options": {
+      "A": "Do condutor do velocípede, porque conduz um veículo sem motor.",
+      "B": "Meu, porque vou entrar numa rotunda ."
+    },
+    "correctResponseLetter": "",
+    "correctResponseText": "",
+    "imageUrl": "/images/question_047.png"
+  },
+  {
+    "questionNumber": 48,
+    "questionId": "2330",
+    "page": 9,
+    "group": "Grupo 13021 - Disabled:13210~2A Ultrapassagem",
+    "question": "O condutor do velocípede deve ceder a passagem?",
+    "options": {
+      "A": "Não, porque o velocípede circula na rotunda",
+      "B": "Sim, porque o velocípede se apresenta à minha esquerda.",
+      "C": "Não, porque o velocípede é um veículo sem motor."
+    },
+    "correctResponseLetter": "",
+    "correctResponseText": "",
+    "imageUrl": "/images/question_048.png"
+  },
+  {
+    "questionNumber": 49,
+    "questionId": "2992",
+    "page": 9,
+    "group": "Grupo 13021 - Disabled:13210~2A Ultrapassagem",
+    "question": "Como devo proceder ao entrar nesta rotunda?",
+    "options": {
+      "A": "Tenho prioridade de passagem em relação aos veículos que circulam na rotunda.",
+      "B": "Devo ceder a passagem aos veículos que circulam na rotunda."
+    },
+    "correctResponseLetter": "",
+    "correctResponseText": "",
+    "imageUrl": "/images/question_049.png"
+  },
+  {
+    "questionNumber": 50,
+    "questionId": "2993",
+    "page": 10,
+    "group": "Grupo 13022 - Disabled:13220~2B Circulação em rotundas",
+    "question": "Ao circular numa rotunda devo saber que:",
+    "options": {
+      "A": "Os veículos em serviço de urgência tem prioridade ao entrar na rotunda.",
+      "B": "Os veículos em serviço de urgência não tem prioridade ao entrar na rotunda."
+    },
+    "correctResponseLetter": "",
+    "correctResponseText": "",
+    "imageUrl": "/images/question_050.png"
+  },
+  {
+    "questionNumber": 51,
+    "questionId": "3151",
+    "page": 10,
+    "group": "Grupo 13022 - Disabled:13220~2B Circulação em rotundas",
+    "question": "Ao entrar nesta rotunda estou obrigado a ceder a passagem a uma escolta policial que nela circule?",
+    "options": {
+      "A": "Sim, sempre.",
+      "B": "Sim, mas apenas se os veículos circularem em marcha de urgência.",
+      "C": "Não, dado que me apresento à direita dos veículos da escolta."
+    },
+    "correctResponseLetter": "",
+    "correctResponseText": "",
+    "imageUrl": "/images/question_051.png"
+  },
+  {
+    "questionNumber": 52,
+    "questionId": "3159",
+    "page": 10,
+    "group": "Grupo 13022 - Disabled:13220~2B Circulação em rotundas",
+    "question": "Quem tem prioridade de passagem na rotunda?",
+    "options": {
+      "A": "O condutor do veículo de cor preta porque vai entrar na rotunda.",
+      "B": "O condutor do veículo de cor cinzenta porque circula na rotunda."
+    },
+    "correctResponseLetter": "",
+    "correctResponseText": "",
+    "imageUrl": "/images/question_052.png"
+  },
+  {
+    "questionNumber": 53,
+    "questionId": "3161",
+    "page": 10,
+    "group": "Grupo 13022 - Disabled:13220~2B Circulação em rotundas",
+    "question": "Ao entrar nesta rotunda tenho prioridade de passagem?",
+    "options": {
+      "A": "Sim, mas apenas porque circulo dentro de uma localidade.",
+      "B": "Não, excepto se circular fora de uma localidade.",
+      "C": "Não."
+    },
+    "correctResponseLetter": "",
+    "correctResponseText": "",
+    "imageUrl": "/images/question_053.png"
+  },
+  {
+    "questionNumber": 54,
+    "questionId": "3172",
+    "page": 10,
+    "group": "Grupo 13022 - Disabled:13220~2B Circulação em rotundas",
+    "question": "O ciclista que circula nesta rotunda deve ceder a passagem a todos os veículos a motor que nela pretendam entrar?",
+    "options": {
+      "A": "Sim.",
+      "B": "Sim, mas apenas aos veículos automóveis ligeiros e pesados.",
+      "C": "Não."
+    },
+    "correctResponseLetter": "",
+    "correctResponseText": "",
+    "imageUrl": "/images/question_054.png"
+  },
+  {
+    "questionNumber": 55,
+    "questionId": "3173",
+    "page": 10,
+    "group": "Grupo 13022 - Disabled:13220~2B Circulação em rotundas",
+    "question": "Ao circular numa rotunda o condutor de um velocípede deve ceder a passagem:",
+    "options": {
+      "A": "A todos os veículos.",
+      "B": "Apenas aos veículos a motor.",
+      "C": "Apenas aos veículos que transitem em serviço de urgência."
+    },
+    "correctResponseLetter": "",
+    "correctResponseText": "",
+    "imageUrl": "/images/question_055.png"
+  },
+  {
+    "questionNumber": 56,
+    "questionId": "3177",
+    "page": 11,
+    "group": "Grupo 13022 - Disabled:13220~2B Circulação em rotundas",
+    "question": "Ao circular nesta rotunda, o condutor do velocípede:",
+    "options": {
+      "A": "Deve ceder a passagem a todos os veículos a motor.",
+      "B": "Deve ceder a passagem aos veículos que circulem em serviço de urgência."
+    },
+    "correctResponseLetter": "",
+    "correctResponseText": "",
+    "imageUrl": "/images/question_056.png"
+  },
+  {
+    "questionNumber": 57,
+    "questionId": "3183",
+    "page": 11,
+    "group": "Grupo 13022 - Disabled:13220~2B Circulação em rotundas",
+    "question": "Em regra, ao circular numa rotunda, tenho prioridade de passagem sobre os veículos que nela pretendam entrar?",
+    "options": {
+      "A": "Sim.",
+      "B": "Não."
+    },
+    "correctResponseLetter": "",
+    "correctResponseText": "",
+    "imageUrl": "/images/question_057.png"
+  },
+  {
+    "questionNumber": 58,
+    "questionId": "3184",
+    "page": 11,
+    "group": "Grupo 13022 - Disabled:13220~2B Circulação em rotundas",
+    "question": "Os condutores que circulam numa rotunda devem ceder a passagem aos que nela vão entrar.",
+    "options": {
+      "A": "A afirmação é verdadeira.",
+      "B": "A afirmação é falsa."
+    },
+    "correctResponseLetter": "",
+    "correctResponseText": "",
+    "imageUrl": "/images/question_058.png"
+  },
+  {
+    "questionNumber": 59,
+    "questionId": "3190",
+    "page": 11,
+    "group": "Grupo 13022 - Disabled:13220~2B Circulação em rotundas",
+    "question": "Os veículos prioritários têm prioridade de passagem quando circulam numa rotunda?",
+    "options": {
+      "A": "Sim, têm sempre prioridade de passagem, mesmo que não transitem em missão urgente de socorro.",
+      "B": "Não, apenas têm prioridade de passagem sobre os veículos sem motor.",
+      "C": "Não, apenas têm prioridade se transitarem em missão urgente de socorro."
+    },
+    "correctResponseLetter": "",
+    "correctResponseText": "",
+    "imageUrl": "/images/question_059.png"
+  },
+  {
+    "questionNumber": 60,
+    "questionId": "7692",
+    "page": 11,
+    "group": "Grupo 13022 - Disabled:13220~2B Circulação em rotundas",
+    "question": "O veículo de duas rodas que transita na rotunda:",
+    "options": {
+      "A": "Deve parar obrigatoriamente para me ceder a passagem.",
+      "B": "Não deve embaraçar o trânsito.",
+      "C": "Deve ceder a passagem ao meu veículo."
+    },
+    "correctResponseLetter": "",
+    "correctResponseText": "",
+    "imageUrl": "/images/question_060.png"
+  },
+  {
+    "questionNumber": 61,
+    "questionId": "8790",
+    "page": 11,
+    "group": "Grupo 13022 - Disabled:13220~2B Circulação em rotundas",
+    "question": "O que devo fazer nesta situação?",
+    "options": {
+      "A": "Ceder a passagem ao veículo cinzento.",
+      "B": "Avançar em primeiro lugar, porque me apresento pela direita.",
+      "C": "Parar obrigatoriamente, porque pretendo entrar na rotunda."
+    },
+    "correctResponseLetter": "",
+    "correctResponseText": "",
+    "imageUrl": "/images/question_061.png"
+  },
+  {
+    "questionNumber": 62,
+    "questionId": "8800",
+    "page": 12,
+    "group": "Grupo 13022 - Disabled:13220~2B Circulação em rotundas",
+    "question": "Ao circular na rotunda:",
+    "options": {
+      "A": "Fico obrigado a ceder a passagem ao automóvel ligeiro.",
+      "B": "Devo estar atento ao automóvel ligeiro.",
+      "C": "Devo parar, para ceder a passagem ao automóvel ligeiro."
+    },
+    "correctResponseLetter": "",
+    "correctResponseText": "",
+    "imageUrl": "/images/question_062.png"
+  },
+  {
+    "questionNumber": 63,
+    "questionId": "8880",
+    "page": 12,
+    "group": "Grupo 13022 - Disabled:13220~2B Circulação em rotundas",
+    "question": "Um dos factores que deve influenciar a velocidade a que transito é a visibilidade do local.",
+    "options": {
+      "A": "Certo.",
+      "B": "Errado."
+    },
+    "correctResponseLetter": "",
+    "correctResponseText": "",
+    "imageUrl": "/images/question_063.png"
+  },
+  {
+    "questionNumber": 64,
+    "questionId": "8882",
+    "page": 12,
+    "group": "Grupo 13022 - Disabled:13220~2B Circulação em rotundas",
+    "question": "Ao circular neste local devo:",
+    "options": {
+      "A": "Moderar a velocidade e parar se necessário.",
+      "B": "Moderar a velocidade e utilizar os sinais sonoros.",
+      "C": "Aumentar um pouco a velocidade para não ter necessidade de parar."
+    },
+    "correctResponseLetter": "",
+    "correctResponseText": "",
+    "imageUrl": "/images/question_064.png"
+  },
+  {
+    "questionNumber": 65,
+    "questionId": "8883",
+    "page": 12,
+    "group": "Grupo 13022 - Disabled:13220~2B Circulação em rotundas",
+    "question": "A velocidade neste local deve ser:",
+    "options": {
+      "A": "Obrigatoriamente de 50 Km/h.",
+      "B": "A que cada condutor considerar adequada desde que não seja inferior a 50 Km/h.",
+      "C": "Adaptada às condições existentes."
+    },
+    "correctResponseLetter": "",
+    "correctResponseText": "",
+    "imageUrl": "/images/question_065.png"
+  },
+  {
+    "questionNumber": 66,
+    "questionId": "8888",
+    "page": 12,
+    "group": "Grupo 13022 - Disabled:13220~2B Circulação em rotundas",
+    "question": "Neste local é obrigatório moderar a velocidade?",
+    "options": {
+      "A": "Sim porque as condições atmosféricas são desfavoráveis.",
+      "B": "Sim, sempre.",
+      "C": "Não nunca. Esse comportamento iria originar embaraço para o trânsito."
+    },
+    "correctResponseLetter": "",
+    "correctResponseText": "",
+    "imageUrl": "/images/question_066.png"
+  },
+  {
+    "questionNumber": 67,
+    "questionId": "8889",
+    "page": 13,
+    "group": "Grupo 13023 - Disabled:13230~2C Velocidade",
+    "question": "Nesta situação, a velocidade deve ser moderada. Devido ao local?",
+    "options": {
+      "A": "Sim, neste local é sempre obrigatório moderar a velocidade.",
+      "B": "Não, devido às condições atmosféricas do momento.",
+      "C": "Não, porque neste local nunca devo moderar a velocidade."
+    },
+    "correctResponseLetter": "",
+    "correctResponseText": "",
+    "imageUrl": "/images/question_067.png"
+  },
+  {
+    "questionNumber": 68,
+    "questionId": "8893",
+    "page": 13,
+    "group": "Grupo 13023 - Disabled:13230~2C Velocidade",
+    "question": "Nesta situação para além de moderar a velocidade, pode tornar-se necessário:",
+    "options": {
+      "A": "Ligar as luzes de estrada.",
+      "B": "Ligar as luzes de cruzamento e as luzes de estrada em simultâneo.",
+      "C": "Ligar as luzes de cruzamento."
+    },
+    "correctResponseLetter": "",
+    "correctResponseText": "",
+    "imageUrl": "/images/question_068.png"
+  },
+  {
+    "questionNumber": 69,
+    "questionId": "8895",
+    "page": 13,
+    "group": "Grupo 13023 - Disabled:13230~2C Velocidade",
+    "question": "Perante o sinal vertical:",
+    "options": {
+      "A": "A velocidade máxima permitida é de 100 km/h.",
+      "B": "A velocidade mínima permitida é de 100 km/h.",
+      "C": "A velocidade obrigatória é de 100 km/h."
+    },
+    "correctResponseLetter": "",
+    "correctResponseText": "",
+    "imageUrl": "/images/question_069.png"
+  },
+  {
+    "questionNumber": 70,
+    "questionId": "8897",
+    "page": 13,
+    "group": "Grupo 13023 - Disabled:13230~2C Velocidade",
+    "question": "Quando a aderência ao piso é menor a distância de paragem aumenta. Logo devo:",
+    "options": {
+      "A": "Diminuir a velocidade.",
+      "B": "Manter a velocidade.",
+      "C": "Aumentar a velocidade."
+    },
+    "correctResponseLetter": "",
+    "correctResponseText": "",
+    "imageUrl": "/images/question_070.png"
+  },
+  {
+    "questionNumber": 71,
+    "questionId": "8898",
+    "page": 13,
+    "group": "Grupo 13023 - Disabled:13230~2C Velocidade",
+    "question": "Neste momento, o piso está escorregadio, devo:",
+    "options": {
+      "A": "Ligar as luzes de cruzamento.",
+      "B": "Aumentar a distância de segurança, adaptando a velocidade.",
+      "C": "Diminuir a distância de segurança, moderando a velocidade."
+    },
+    "correctResponseLetter": "",
+    "correctResponseText": "",
+    "imageUrl": "/images/question_071.png"
+  },
+  {
+    "questionNumber": 72,
+    "questionId": "8900",
+    "page": 14,
+    "group": "Grupo 13023 - Disabled:13230~2C Velocidade",
+    "question": "Ao circular neste local, devo:",
+    "options": {
+      "A": "Aumentar a distância de segurança.",
+      "B": "Aumentar a velocidade.",
+      "C": "Aumentar a distância de paragem."
+    },
+    "correctResponseLetter": "",
+    "correctResponseText": "",
+    "imageUrl": "/images/question_072.png"
+  },
+  {
+    "questionNumber": 73,
+    "questionId": "9153",
+    "page": 14,
+    "group": "Grupo 13023 - Disabled:13230~2C Velocidade",
+    "question": "O que devo fazer relativamente ao veículo que segue à minha frente?",
+    "options": {
+      "A": "Manter uma distância que me permita parar em segurança.",
+      "B": "Diminuir a distância de segurança.",
+      "C": "Aumentar a distância de segurança, para iniciar a ultrapassagem."
+    },
+    "correctResponseLetter": "",
+    "correctResponseText": "",
+    "imageUrl": "/images/question_073.png"
+  },
+  {
+    "questionNumber": 74,
+    "questionId": "9155",
+    "page": 14,
+    "group": "Grupo 13023 - Disabled:13230~2C Velocidade",
+    "question": "O que devo fazer nesta situação?",
+    "options": {
+      "A": "Parar, porque circula um veículo em sentido contrário.",
+      "B": "Fazer sinais de luzes se pretender ultrapassar.",
+      "C": "Manter o veículo na mesma via de trânsito."
+    },
+    "correctResponseLetter": "",
+    "correctResponseText": "",
+    "imageUrl": "/images/question_074.png"
+  },
+  {
+    "questionNumber": 75,
+    "questionId": "9156",
+    "page": 14,
+    "group": "Grupo 13023 - Disabled:13230~2C Velocidade",
+    "question": "Quando a aderência ao piso é menor a velocidade deve ser moderada, porque:",
+    "options": {
+      "A": "A distância de paragem aumenta.",
+      "B": "A distância de travagem diminui.",
+      "C": "A distância de paragem diminui."
+    },
+    "correctResponseLetter": "",
+    "correctResponseText": "",
+    "imageUrl": "/images/question_075.png"
+  },
+  {
+    "questionNumber": 76,
+    "questionId": "9160",
+    "page": 14,
+    "group": "Grupo 13023 - Disabled:13230~2C Velocidade",
+    "question": "Quando o piso está escorregadio, devo utilizar o motor como auxiliar do travão?",
+    "options": {
+      "A": "Não, devo utilizar apenas o travão de serviço.",
+      "B": "Sim e também devo evitar travagens bruscas.",
+      "C": "Sim, apesar de ser mais seguro o travão de estacionamento."
+    },
+    "correctResponseLetter": "",
+    "correctResponseText": "",
+    "imageUrl": "/images/question_076.png"
+  },
+  {
+    "questionNumber": 77,
+    "questionId": "9161",
+    "page": 15,
+    "group": "Grupo 13023 - Disabled:13230~2C Velocidade",
+    "question": "Nesta situação, em que a aderência ao piso é reduzida, devo:",
+    "options": {
+      "A": "Manter a velocidade.",
+      "B": "Reduzir a velocidade.",
+      "C": "Aumentar a velocidade."
+    },
+    "correctResponseLetter": "",
+    "correctResponseText": "",
+    "imageUrl": "/images/question_077.png"
+  },
+  {
+    "questionNumber": 78,
+    "questionId": "9162",
+    "page": 15,
+    "group": "Grupo 13023 - Disabled:13230~2C Velocidade",
+    "question": "Quando a visibilidade é insuficiente, para além da utilização das luzes, devo:",
+    "options": {
+      "A": "Adaptar a velocidade.",
+      "B": "Utilizar sempre os sinais sonoros.",
+      "C": "Moderar a velocidade e utilizar os sinais sonoros."
+    },
+    "correctResponseLetter": "",
+    "correctResponseText": "",
+    "imageUrl": "/images/question_078.png"
+  },
+  {
+    "questionNumber": 79,
+    "questionId": "9164",
+    "page": 15,
+    "group": "Grupo 13023 - Disabled:13230~2C Velocidade",
+    "question": "O que devo fazer nesta situação?",
+    "options": {
+      "A": "Parar, porque a visibilidade do local é insuficiente.",
+      "B": "Adaptar a velocidade às condições de visibilidade.",
+      "C": "Aumentar a velocidade e se necessário ligar os máximos."
+    },
+    "correctResponseLetter": "",
+    "correctResponseText": "",
+    "imageUrl": "/images/question_079.png"
+  },
+  {
+    "questionNumber": 80,
+    "questionId": "9165",
+    "page": 15,
+    "group": "Grupo 13023 - Disabled:13230~2C Velocidade",
+    "question": "Nesta situação devo:",
+    "options": {
+      "A": "Moderar a velocidade.",
+      "B": "Utilizar as luzes de estrada.",
+      "C": "Aumentar a distância de segurança e utilizar as luzes de estrada."
+    },
+    "correctResponseLetter": "",
+    "correctResponseText": "",
+    "imageUrl": "/images/question_080.png"
+  },
+  {
+    "questionNumber": 81,
+    "questionId": "9166",
+    "page": 15,
+    "group": "Grupo 13023 - Disabled:13230~2C Velocidade",
+    "question": "Quando a intensidade de trânsito aumenta, a velocidade deve:",
+    "options": {
+      "A": "Diminuir.",
+      "B": "Aumentar.",
+      "C": "Diminuir, apenas se circular em auto-estrada."
+    },
+    "correctResponseLetter": "",
+    "correctResponseText": "",
+    "imageUrl": "/images/question_081.png"
+  },
+  {
+    "questionNumber": 82,
+    "questionId": "9167",
+    "page": 16,
+    "group": "Grupo 13023 - Disabled:13230~2C Velocidade",
+    "question": "Nesta situação, um dos principais aspectos a considerar é:",
+    "options": {
+      "A": "O dever de utilizar as luzes de estrada.",
+      "B": "A proibição de circular com as luzes de cruzamento acesas.",
+      "C": "Manter uma velocidade adequada."
+    },
+    "correctResponseLetter": "",
+    "correctResponseText": "",
+    "imageUrl": "/images/question_082.png"
+  },
+  {
+    "questionNumber": 83,
+    "questionId": "130027",
+    "page": 16,
+    "group": "Grupo 13023 - Disabled:13230~2C Velocidade",
+    "question": "Um dos fatores que deve influenciar a velocidade a que transito é a visibilidade do local.",
+    "options": {
+      "A": "Certo.",
+      "B": "Errado."
+    },
+    "correctResponseLetter": "",
+    "correctResponseText": "",
+    "imageUrl": "/images/question_083.png"
+  },
+  {
+    "questionNumber": 84,
+    "questionId": "130028",
+    "page": 16,
+    "group": "Grupo 13023 - Disabled:13230~2C Velocidade",
+    "question": "Neste local é obrigatório moderar a velocidade?",
+    "options": {
+      "A": "Sim, porque as condições atmosféricas são desfavoráveis.",
+      "B": "Sim, sempre.",
+      "C": "Não, nunca. Esse comportamento iria originar embaraço para o trânsito."
+    },
+    "correctResponseLetter": "",
+    "correctResponseText": "",
+    "imageUrl": "/images/question_084.png"
+  },
+  {
+    "questionNumber": 85,
+    "questionId": "2255",
+    "page": 16,
+    "group": "Grupo 13023 - Disabled:13230~2C Velocidade",
+    "question": "Ao circular nesta via pública, devo saber que:",
+    "options": {
+      "A": "No próximo entroncamento, estou obrigado a ceder a passagem apenas aos automóveis.",
+      "B": "Tenho prioridade de passagem sobre os veículos sem motor que circulam na via que se aproxima.",
+      "C": "Devo ceder a passagem a todos e quaisquer veículos que transitem na via que se aproxima."
+    },
+    "correctResponseLetter": "",
+    "correctResponseText": "",
+    "imageUrl": "/images/question_085.png"
+  },
+  {
+    "questionNumber": 86,
+    "questionId": "2256",
+    "page": 16,
+    "group": "Grupo 13023 - Disabled:13230~2C Velocidade",
+    "question": "Como devo proceder perante o sinal vertical de cedência de passagem?",
+    "options": {
+      "A": "Ceder a passagem apenas aos veículos vindos da direita.",
+      "B": "Ceder a passagem apenas aos veículos vindos da esquerda.",
+      "C": "Ceder a passagem a todos os veículos."
+    },
+    "correctResponseLetter": "",
+    "correctResponseText": "",
+    "imageUrl": "/images/question_086.png"
+  },
+  {
+    "questionNumber": 87,
+    "questionId": "2257",
+    "page": 16,
+    "group": "Grupo 13023 - Disabled:13230~2C Velocidade",
+    "question": "Na presença destes sinais verticais, sou sempre obrigado a parar o meu veículo. A afirmação é:",
+    "options": {
+      "A": "Verdadeira.",
+      "B": "Falsa."
+    },
+    "correctResponseLetter": "",
+    "correctResponseText": "",
+    "imageUrl": "/images/question_087.png"
+  },
+  {
+    "questionNumber": 88,
+    "questionId": "2258",
+    "page": 17,
+    "group": "Grupo 13024 - Disabled:13240~2D Sinalização",
+    "question": "Como devo proceder face ao sinal vertical triangular?",
+    "options": {
+      "A": "Ceder a passagem aos veículos que se apresentem pela direita.",
+      "B": "Ceder a passagem a todos os veículos.",
+      "C": "Avançar com cuidado, apesar de ter prioridade de passagem."
+    },
+    "correctResponseLetter": "",
+    "correctResponseText": "",
+    "imageUrl": "/images/question_088.png"
+  },
+  {
+    "questionNumber": 89,
+    "questionId": "2259",
+    "page": 17,
+    "group": "Grupo 13024 - Disabled:13240~2D Sinalização",
+    "question": "O que significa o sinal vertical triangular?",
+    "options": {
+      "A": "Entroncamento com via com prioridade.",
+      "B": "Cruzamento com via sem prioridade.",
+      "C": "Cruzamento com via com prioridade."
+    },
+    "correctResponseLetter": "",
+    "correctResponseText": "",
+    "imageUrl": "/images/question_089.png"
+  },
+  {
+    "questionNumber": 90,
+    "questionId": "2260",
+    "page": 17,
+    "group": "Grupo 13024 - Disabled:13240~2D Sinalização",
+    "question": "Como devo proceder no entroncamento de que me aproximo?",
+    "options": {
+      "A": "Ceder a passagem aos veículos que se apresentem pela direita.",
+      "B": "Ceder a passagem a todos os veículos motorizados.",
+      "C": "Avançar, verificando se os condutores que circulam na via com que me cruzo me cedem a passagem.",
+      "D": "Avançar sem precauções dado ter o direito de passar em primeiro lugar."
+    },
+    "correctResponseLetter": "",
+    "correctResponseText": "",
+    "imageUrl": "/images/question_090.png"
+  },
+  {
+    "questionNumber": 91,
+    "questionId": "2261",
+    "page": 17,
+    "group": "Grupo 13024 - Disabled:13240~2D Sinalização",
+    "question": "Perante o sinal vertical de forma triangular sei que no próximo entroncamento devo ceder a passagem aos veículos que se apresentem pela direita.",
+    "options": {
+      "A": "A afirmação é verdadeira.",
+      "B": "A afirmação é falsa."
+    },
+    "correctResponseLetter": "",
+    "correctResponseText": "",
+    "imageUrl": "/images/question_091.png"
+  },
+  {
+    "questionNumber": 92,
+    "questionId": "2262",
+    "page": 17,
+    "group": "Grupo 13024 - Disabled:13240~2D Sinalização",
+    "question": "Qual o significado do sinal de cedência de passagem?",
+    "options": {
+      "A": "Obrigatoriedade de ceder a passagem aos veículos que entram na rotunda.",
+      "B": "Aproximação de rotunda onde o trânsito se processa em sentido giratório.",
+      "C": "Aproximação de praça onde a velocidade é limitada a 70 km/h."
+    },
+    "correctResponseLetter": "",
+    "correctResponseText": "",
+    "imageUrl": "/images/question_092.png"
+  },
+  {
+    "questionNumber": 93,
+    "questionId": "2263",
+    "page": 18,
+    "group": "Grupo 13024 - Disabled:13240~2D Sinalização",
+    "question": "O que significa o sinal vertical?",
+    "options": {
+      "A": "Entrada numa zona em que apenas o estacionamento é proibido.",
+      "B": "Entrada numa zona em que apenas a paragem é proibida.",
+      "C": "Entrada numa zona em que a paragem e o estacionamento são proibidos."
+    },
+    "correctResponseLetter": "",
+    "correctResponseText": "",
+    "imageUrl": "/images/question_093.png"
+  },
+  {
+    "questionNumber": 94,
+    "questionId": "2264",
+    "page": 18,
+    "group": "Grupo 13024 - Disabled:13240~2D Sinalização",
+    "question": "O sinal que se encontra na via pública:",
+    "options": {
+      "A": "Proíbe apenas o estacionamento a veículos pesados de mercadorias.",
+      "B": "Proíbe apenas a paragem a todos os veículos.",
+      "C": "Proíbe a paragem e o estacionamento."
+    },
+    "correctResponseLetter": "",
+    "correctResponseText": "",
+    "imageUrl": "/images/question_094.png"
+  },
+  {
+    "questionNumber": 95,
+    "questionId": "2265",
+    "page": 18,
+    "group": "Grupo 13024 - Disabled:13240~2D Sinalização",
+    "question": "O sinal vertical indica-me que:",
+    "options": {
+      "A": "O trânsito passa a fazer-se apenas num sentido.",
+      "B": "A via pública passa a ter trânsito nos dois sentidos.",
+      "C": "Não tenho prioridade no próximo estreitamento da faixa de rodagem."
+    },
+    "correctResponseLetter": "",
+    "correctResponseText": "",
+    "imageUrl": "/images/question_095.png"
+  },
+  {
+    "questionNumber": 96,
+    "questionId": "2266",
+    "page": 18,
+    "group": "Grupo 13024 - Disabled:13240~2D Sinalização",
+    "question": "Como devo proceder perante o sinal vertical?",
+    "options": {
+      "A": "Manter a velocidade porque o trânsito passa a fazer-se apenas num só sentido.",
+      "B": "Moderar a velocidade porque a circulação passa a ser feita nos dois sentidos.",
+      "C": "Manter a velocidade porque tenho prioridade no próximo estreitamento da via pública."
+    },
+    "correctResponseLetter": "",
+    "correctResponseText": "",
+    "imageUrl": "/images/question_096.png"
+  },
+  {
+    "questionNumber": 97,
+    "questionId": "2268",
+    "page": 18,
+    "group": "Grupo 13024 - Disabled:13240~2D Sinalização",
+    "question": "Perante o sinal vertical devo saber que:",
+    "options": {
+      "A": "O trânsito apenas se faz num só sentido.",
+      "B": "Aproxima-se uma curva perigosa à esquerda.",
+      "C": "Tenho prioridade de passagem no próximo entroncamento ou cruzamento."
+    },
+    "correctResponseLetter": "",
+    "correctResponseText": "",
+    "imageUrl": "/images/question_097.png"
+  },
+  {
+    "questionNumber": 98,
+    "questionId": "2271",
+    "page": 19,
+    "group": "Grupo 13024 - Disabled:13240~2D Sinalização",
+    "question": "De acordo com a sinalização vertical, devem ceder a passagem os condutores que circulam na via de trânsito:",
+    "options": {
+      "A": "Da esquerda.",
+      "B": "Do centro.",
+      "C": "Da direita."
+    },
+    "correctResponseLetter": "",
+    "correctResponseText": "",
+    "imageUrl": "/images/question_098.png"
+  },
+  {
+    "questionNumber": 99,
+    "questionId": "5062",
+    "page": 19,
+    "group": "Grupo 13024 - Disabled:13240~2D Sinalização",
+    "question": "O sinal vertical indica:",
+    "options": {
+      "A": "Obrigação de seguir em frente na próxima intersecção.",
+      "B": "Via com uma só fila de trânsito.",
+      "C": "Via com trânsito de sentido único."
+    },
+    "correctResponseLetter": "",
+    "correctResponseText": "",
+    "imageUrl": "/images/question_099.png"
+  },
+  {
+    "questionNumber": 100,
+    "questionId": "6121",
+    "page": 19,
+    "group": "Grupo 13024 - Disabled:13240~2D Sinalização",
+    "question": "O sinal colocado mais à direita é de:",
+    "options": {
+      "A": "Indicação.",
+      "B": "Obrigação.",
+      "C": "Perigo."
+    },
+    "correctResponseLetter": "",
+    "correctResponseText": "",
+    "imageUrl": "/images/question_100.png"
+  },
+  {
+    "questionNumber": 101,
+    "questionId": "6137",
+    "page": 19,
+    "group": "Grupo 13024 - Disabled:13240~2D Sinalização",
+    "question": "Este sinal indica que a 300 metros existe:",
+    "options": {
+      "A": "Um telefone de utilização pública.",
+      "B": "Um telefone para utilização em caso de emergência.",
+      "C": "Uma área de serviço."
+    },
+    "correctResponseLetter": "",
+    "correctResponseText": "",
+    "imageUrl": "/images/question_101.png"
+  },
+  {
+    "questionNumber": 102,
+    "questionId": "6139",
+    "page": 19,
+    "group": "Grupo 13024 - Disabled:13240~2D Sinalização",
+    "question": "O telefone disponível nesta via deve ser utilizado:",
+    "options": {
+      "A": "Em caso de acidente ou avaria.",
+      "B": "Em qualquer situação.",
+      "C": "Quando existe congestionamento de trânsito."
+    },
+    "correctResponseLetter": "",
+    "correctResponseText": "",
+    "imageUrl": "/images/question_102.png"
+  },
+  {
+    "questionNumber": 103,
+    "questionId": "6140",
+    "page": 20,
+    "group": "Grupo 13024 - Disabled:13240~2D Sinalização",
+    "question": "Este sinal é de:",
+    "options": {
+      "A": "Pré-sinalização.",
+      "B": "Indicação.",
+      "C": "Perigo."
+    },
+    "correctResponseLetter": "",
+    "correctResponseText": "",
+    "imageUrl": "/images/question_103.png"
+  },
+  {
+    "questionNumber": 104,
+    "questionId": "6144",
+    "page": 20,
+    "group": "Grupo 13024 - Disabled:13240~2D Sinalização",
+    "question": "O sinal de informação indica:",
+    "options": {
+      "A": "Oficina de reparações de caravanas.",
+      "B": "Entreposto comercial de campismo e reboques de campismo.",
+      "C": "Parque misto para campismo e reboques de campismo."
+    },
+    "correctResponseLetter": "",
+    "correctResponseText": "",
+    "imageUrl": "/images/question_104.png"
+  },
+  {
+    "questionNumber": 105,
+    "questionId": "130029",
+    "page": 20,
+    "group": "Grupo 13024 - Disabled:13240~2D Sinalização",
+    "question": "O sinal vertical indica:",
+    "options": {
+      "A": "Obrigação de seguir em frente na próxima interseção.",
+      "B": "Via com uma só fila de trânsito.",
+      "C": "Via com trânsito de sentido único."
+    },
+    "correctResponseLetter": "",
+    "correctResponseText": "",
+    "imageUrl": "/images/question_105.png"
+  },
+  {
+    "questionNumber": 106,
+    "questionId": "707",
+    "page": 20,
+    "group": "Grupo 13024 - Disabled:13240~2D Sinalização",
+    "question": "Devo ceder a passagem?",
+    "options": {
+      "A": "Sim, porque aquele veículo se apresenta pela direita.",
+      "B": "Não, porque sai de uma propriedade."
+    },
+    "correctResponseLetter": "",
+    "correctResponseText": "",
+    "imageUrl": "/images/question_106.png"
+  },
+  {
+    "questionNumber": 107,
+    "questionId": "769",
+    "page": 20,
+    "group": "Grupo 13024 - Disabled:13240~2D Sinalização",
+    "question": "Perante este sinal devo:",
+    "options": {
+      "A": "Avançar em primeiro lugar.",
+      "B": "Ceder a passagem."
+    },
+    "correctResponseLetter": "",
+    "correctResponseText": "",
+    "imageUrl": "/images/question_107.png"
+  },
+  {
+    "questionNumber": 108,
+    "questionId": "964",
+    "page": 20,
+    "group": "Grupo 13024 - Disabled:13240~2D Sinalização",
+    "question": "Nesta intersecção pretendo seguir em frente.",
+    "options": {
+      "A": "Posso avançar.",
+      "B": "Devo ceder a passagem ao veículo de tracção animal.",
+      "C": "Posso avançar, depois de ceder a passagem ao motociclo."
+    },
+    "correctResponseLetter": "",
+    "correctResponseText": "",
+    "imageUrl": "/images/question_108.png"
+  },
+  {
+    "questionNumber": 109,
+    "questionId": "976",
+    "page": 21,
+    "group": "Grupo 13025 - Disabled:13250~2E Cedência de passagem",
+    "question": "Pretendo mudar de direcção à direita. Devo ceder passagem?",
+    "options": {
+      "A": "Sim.",
+      "B": "Não."
+    },
+    "correctResponseLetter": "",
+    "correctResponseText": "",
+    "imageUrl": "/images/question_109.png"
+  },
+  {
+    "questionNumber": 110,
+    "questionId": "992",
+    "page": 21,
+    "group": "Grupo 13025 - Disabled:13250~2E Cedência de passagem",
+    "question": "Posso avançar:",
+    "options": {
+      "A": "Antes do velocípede, mas depois de ceder a passagem ao veículo de tracção animal.",
+      "B": "Em simultâneo com o veículo de tracção animal.",
+      "C": "Antes do velocípede e do veículo de tracção animal."
+    },
+    "correctResponseLetter": "",
+    "correctResponseText": "",
+    "imageUrl": "/images/question_110.png"
+  },
+  {
+    "questionNumber": 111,
+    "questionId": "994",
+    "page": 21,
+    "group": "Grupo 13025 - Disabled:13250~2E Cedência de passagem",
+    "question": "Qual deve ser a ordem de passagem nesta intersecção?",
+    "options": {
+      "A": "Ambulância, veículo pesado, veículo verde e por último o meu veículo.",
+      "B": "Ambulância, o meu veículo, o veículo verde e por último o veículo pesado."
+    },
+    "correctResponseLetter": "",
+    "correctResponseText": "",
+    "imageUrl": "/images/question_111.png"
+  },
+  {
+    "questionNumber": 112,
+    "questionId": "998",
+    "page": 21,
+    "group": "Grupo 13025 - Disabled:13250~2E Cedência de passagem",
+    "question": "Qualquer veículo que saia de uma passagem de nível:",
+    "options": {
+      "A": "Não tem que ceder passagem.",
+      "B": "Deve ceder passagem."
+    },
+    "correctResponseLetter": "",
+    "correctResponseText": "",
+    "imageUrl": "/images/question_112.png"
+  },
+  {
+    "questionNumber": 113,
+    "questionId": "1002",
+    "page": 21,
+    "group": "Grupo 13025 - Disabled:13250~2E Cedência de passagem",
+    "question": "Perante esta situação em que o veículo da direita sai de um parque de estacionamento, o que devo fazer?",
+    "options": {
+      "A": "Avançar.",
+      "B": "Parar.",
+      "C": "Ceder passagem."
+    },
+    "correctResponseLetter": "",
+    "correctResponseText": "",
+    "imageUrl": "/images/question_113.png"
+  },
+  {
+    "questionNumber": 114,
+    "questionId": "1007",
+    "page": 21,
+    "group": "Grupo 13025 - Disabled:13250~2E Cedência de passagem",
+    "question": "Ao sair de um prédio particular:",
+    "options": {
+      "A": "Devo ceder a passagem aos veículos sem motor.",
+      "B": "Devo ceder a passagem só aos veículos a motor.",
+      "C": "Posso avançar."
+    },
+    "correctResponseLetter": "",
+    "correctResponseText": "",
+    "imageUrl": "/images/question_114.png"
+  },
+  {
+    "questionNumber": 115,
+    "questionId": "1008",
+    "page": 22,
+    "group": "Grupo 13025 - Disabled:13250~2E Cedência de passagem",
+    "question": "Nesta situação em que saio de um prédio particular:",
+    "options": {
+      "A": "Posso avançar, porque o outro veículo não tem motor.",
+      "B": "Devo parar.",
+      "C": "Devo ceder a passagem ao velocípede."
+    },
+    "correctResponseLetter": "",
+    "correctResponseText": "",
+    "imageUrl": "/images/question_115.png"
+  },
+  {
+    "questionNumber": 116,
+    "questionId": "1009",
+    "page": 22,
+    "group": "Grupo 13025 - Disabled:13250~2E Cedência de passagem",
+    "question": "Perante este sinal devo ceder passagem:",
+    "options": {
+      "A": "Só aos veículos que se apresentam pela direita.",
+      "B": "Só aos veículos com motor que se apresentem pela direita.",
+      "C": "A todos os veículos que circulem na via de que me aproximo."
+    },
+    "correctResponseLetter": "",
+    "correctResponseText": "",
+    "imageUrl": "/images/question_116.png"
+  },
+  {
+    "questionNumber": 117,
+    "questionId": "1076",
+    "page": 22,
+    "group": "Grupo 13025 - Disabled:13250~2E Cedência de passagem",
+    "question": "Nesta situação devo:",
+    "options": {
+      "A": "Prosseguir a marcha, com precaução.",
+      "B": "Ceder a passagem porque o veículo sai de um caminho particular."
+    },
+    "correctResponseLetter": "",
+    "correctResponseText": "",
+    "imageUrl": "/images/question_117.png"
+  },
+  {
+    "questionNumber": 118,
+    "questionId": "1077",
+    "page": 22,
+    "group": "Grupo 13025 - Disabled:13250~2E Cedência de passagem",
+    "question": "Devido à impossibilidade de cruzamento de automóveis, devo:",
+    "options": {
+      "A": "Prosseguir normalmente a marcha.",
+      "B": "Parar e ceder a passagem ao automóvel pesado.",
+      "C": "Passar o mais rapidamente possível."
+    },
+    "correctResponseLetter": "",
+    "correctResponseText": "",
+    "imageUrl": "/images/question_118.png"
+  },
+  {
+    "questionNumber": 119,
+    "questionId": "1078",
+    "page": 22,
+    "group": "Grupo 13025 - Disabled:13250~2E Cedência de passagem",
+    "question": "Nesta situação, circulando o outro veículo em sentido oposto, posso prosseguir a marcha?",
+    "options": {
+      "A": "Não, devo reduzir a velocidade e ceder a passagem.",
+      "B": "Sim, o outro condutor deve ceder-me a passagem.",
+      "C": "Sim, porque desço."
+    },
+    "correctResponseLetter": "",
+    "correctResponseText": "",
+    "imageUrl": "/images/question_119.png"
+  },
+  {
+    "questionNumber": 120,
+    "questionId": "1079",
+    "page": 23,
+    "group": "Grupo 13025 - Disabled:13250~2E Cedência de passagem",
+    "question": "Posso passar:",
+    "options": {
+      "A": "Depois do veículo da direita e antes do velocípede.",
+      "B": "Depois do velocípede e antes do veículo da direita.",
+      "C": "Depois de ceder a passagem a todos os veículos."
+    },
+    "correctResponseLetter": "",
+    "correctResponseText": "",
+    "imageUrl": "/images/question_120.png"
+  },
+  {
+    "questionNumber": 121,
+    "questionId": "1080",
+    "page": 23,
+    "group": "Grupo 13025 - Disabled:13250~2E Cedência de passagem",
+    "question": "Nesta situação:",
+    "options": {
+      "A": "Devo reduzir a velocidade e ceder a passagem ao condutor da frente.",
+      "B": "Posso prosseguir, pois o condutor da frente tem o dever de me ceder a passagem.",
+      "C": "Devo buzinar, para o informar que lhe estou a ceder a passagem."
+    },
+    "correctResponseLetter": "",
+    "correctResponseText": "",
+    "imageUrl": "/images/question_121.png"
+  },
+  {
+    "questionNumber": 122,
+    "questionId": "1081",
+    "page": 23,
+    "group": "Grupo 13025 - Disabled:13250~2E Cedência de passagem",
+    "question": "Pretendo seguir em frente.",
+    "options": {
+      "A": "Devo ceder a passagem ao veículo da frente, porque está a dificultar a circulação.",
+      "B": "Devo ceder a passagem ao veículo da frente, porque vai mudar de direcção.",
+      "C": "Posso prosseguir a marcha."
+    },
+    "correctResponseLetter": "",
+    "correctResponseText": "",
+    "imageUrl": "/images/question_122.png"
+  },
+  {
+    "questionNumber": 123,
+    "questionId": "1175",
+    "page": 23,
+    "group": "Grupo 13025 - Disabled:13250~2E Cedência de passagem",
+    "question": "Neste cruzamento, avanço:",
+    "options": {
+      "A": "Antes dos outros dois veículos.",
+      "B": "Depois dos outros dois veículos.",
+      "C": "Depois do veículo ligeiro e antes do velocípede."
+    },
+    "correctResponseLetter": "",
+    "correctResponseText": "",
+    "imageUrl": "/images/question_123.png"
+  },
+  {
+    "questionNumber": 124,
+    "questionId": "1358",
+    "page": 23,
+    "group": "Grupo 13025 - Disabled:13250~2E Cedência de passagem",
+    "question": "Ao encontrar este sinal, como devo proceder?",
+    "options": {
+      "A": "Ceder a passagem a todos os veículos que circulem na via em que vou entrar.",
+      "B": "Ceder a passagem apenas aos veículos vindos da direita.",
+      "C": "Ceder a passagem apenas aos veículos vindos da esquerda."
+    },
+    "correctResponseLetter": "",
+    "correctResponseText": "",
+    "imageUrl": "/images/question_124.png"
+  },
+  {
+    "questionNumber": 125,
+    "questionId": "1428",
+    "page": 24,
+    "group": "Grupo 13025 - Disabled:13250~2E Cedência de passagem",
+    "question": "Nesta situação, devo:",
+    "options": {
+      "A": "Ceder a passagem.",
+      "B": "Passar em primeiro lugar.",
+      "C": "Parar."
+    },
+    "correctResponseLetter": "",
+    "correctResponseText": "",
+    "imageUrl": "/images/question_125.png"
+  },
+  {
+    "questionNumber": 126,
+    "questionId": "130030",
+    "page": 24,
+    "group": "Grupo 13025 - Disabled:13250~2E Cedência de passagem",
+    "question": "Nesta interseção pretendo seguir em frente.",
+    "options": {
+      "A": "Posso avançar.",
+      "B": "Devo ceder a passagem ao veículo de tração animal.",
+      "C": "Posso avançar, depois de ceder a passagem ao motociclo."
+    },
+    "correctResponseLetter": "",
+    "correctResponseText": "",
+    "imageUrl": "/images/question_126.png"
+  },
+  {
+    "questionNumber": 127,
+    "questionId": "130031",
+    "page": 24,
+    "group": "Grupo 13025 - Disabled:13250~2E Cedência de passagem",
+    "question": "Um condutor ecológico deve:",
+    "options": {
+      "A": "Evitar colocar muita bagagem no porta bagagens.",
+      "B": "Evitar conduzir veículos com motores híbridos.",
+      "C": "Evitar usar o ar condicionado do veículo, especialmente em percursos curtos.",
+      "D": "As afirmações de R:1 e R:3 estão corretas."
+    },
+    "correctResponseLetter": "",
+    "correctResponseText": "",
+    "imageUrl": "/images/question_127.png"
+  },
+  {
+    "questionNumber": 128,
+    "questionId": "133326",
+    "page": 24,
+    "group": "Grupo 13025 - Disabled:13250~2E Cedência de passagem",
+    "question": "Uma das formas de praticar uma condução mais ecológica é:",
+    "options": {
+      "A": "Verificar regularmente a pressão dos pneus.",
+      "B": "Não conduzir com pesos desnecessários no veículo.",
+      "C": "Conduzir com o veículo desembraiado nas descidas ingremes.",
+      "D": "As afirmações de R:1 e R:2 estão corretas."
+    },
+    "correctResponseLetter": "",
+    "correctResponseText": "",
+    "imageUrl": "/images/question_128.png"
+  },
+  {
+    "questionNumber": 129,
+    "questionId": "133327",
+    "page": 24,
+    "group": "Grupo 13025 - Disabled:13250~2E Cedência de passagem",
+    "question": "O condutor contribui para uma maior proteção do ambiente:",
+    "options": {
+      "A": "Utilizando o ar condicionado só em situações de necessidade.",
+      "B": "Usando sempre a relação de caixa de velocidades o mais alto possível, independentemente da velocidade a que circular.",
+      "C": "Fazendo uso de acessórios que provoquem o aumento da resistência aerodinâmica do veículo."
+    },
+    "correctResponseLetter": "",
+    "correctResponseText": "",
+    "imageUrl": "/images/question_129.png"
+  },
+  {
+    "questionNumber": 130,
+    "questionId": "133328",
+    "page": 25,
+    "group": "Grupo 13030 - Disabled:13300~Técnicas de condução",
+    "question": "Quais são os benefícios da prática generalizada da eco condução?",
+    "options": {
+      "A": "Contribui para o aumento da emissão de gases com efeito de estufa para o arrefecimento global da atmosfera.",
+      "B": "Leva a um aumento significativo do número de veículos em circulação.",
+      "C": "Contribui para o aumento do uso de energias renováveis no uso dos transportes rodoviários."
+    },
+    "correctResponseLetter": "",
+    "correctResponseText": "",
+    "imageUrl": "/images/question_130.png"
+  },
+  {
+    "questionNumber": 131,
+    "questionId": "133329",
+    "page": 25,
+    "group": "Grupo 13030 - Disabled:13300~Técnicas de condução",
+    "question": "Um condutor que apresente resultado positivo no exame de pesquisa de álcool no ar expirado, mediante a utilização de aparelho aprovado para o efeito, fica impedido de conduzir pelo período de:",
+    "options": {
+      "A": "6 horas.",
+      "B": "8 horas.",
+      "C": "12 horas."
+    },
+    "correctResponseLetter": "",
+    "correctResponseText": "",
+    "imageUrl": "/images/question_131.png"
+  },
+  {
+    "questionNumber": 132,
+    "questionId": "133330",
+    "page": 25,
+    "group": "Grupo 13030 - Disabled:13300~Técnicas de condução",
+    "question": "Um condutor ecológico deve:",
+    "options": {
+      "A": "Evitar colocar muita bagagem no porta bagagens.",
+      "B": "Evitar conduzir veículos com motores híbridos.",
+      "C": "Evitar usar o ar condicionada do veículo, especialmente em percursos curtos.",
+      "D": "As afirmações de R:1 e R:3 estão corretas."
+    },
+    "correctResponseLetter": "",
+    "correctResponseText": "",
+    "imageUrl": "/images/question_132.png"
+  },
+  {
+    "questionNumber": 133,
+    "questionId": "133331",
+    "page": 25,
+    "group": "Grupo 13030 - Disabled:13300~Técnicas de condução",
+    "question": "Um aumento de 10% na velocidade pode provocar um aumento de 15% no consumo de combustível.",
+    "options": {
+      "A": "A afirmação é verdadeira.",
+      "B": "A afirmação é falsa."
+    },
+    "correctResponseLetter": "",
+    "correctResponseText": "",
+    "imageUrl": "/images/question_133.png"
+  },
+  {
+    "questionNumber": 134,
+    "questionId": "133332",
+    "page": 25,
+    "group": "Grupo 13030 - Disabled:13300~Técnicas de condução",
+    "question": "A eco condução é uma forma de condução eficiente, menos poluente e mais segura.",
+    "options": {
+      "A": "A afirmação é verdadeira.",
+      "B": "A afirmação é falsa."
+    },
+    "correctResponseLetter": "",
+    "correctResponseText": "",
+    "imageUrl": "/images/question_134.png"
+  },
+  {
+    "questionNumber": 135,
+    "questionId": "133333",
+    "page": 26,
+    "group": "Grupo 13030 - Disabled:13300~Técnicas de condução",
+    "question": "Quais são as vantagens da prática de uma eco condução?",
+    "options": {
+      "A": "Contribui para a diminuição do nível de dióxido de carbono na atmosfera e de outros gases com efeito de estufa.",
+      "B": "Aumenta o conforto dos ocupantes do veículo.",
+      "C": "Contribui para uma menor poluição sonora.",
+      "D": "Todas as afirmações anteriores são verdadeiras."
+    },
+    "correctResponseLetter": "",
+    "correctResponseText": "",
+    "imageUrl": "/images/question_135.png"
+  },
+  {
+    "questionNumber": 136,
+    "questionId": "133334",
+    "page": 26,
+    "group": "Grupo 13030 - Disabled:13300~Técnicas de condução",
+    "question": "A prática da eco condução contribui para:",
+    "options": {
+      "A": "A otimização do consumo de combustível e a redução da poluição ambiental.",
+      "B": "O aumento da sinistralidade rodoviária, embora possa causar embaraço no trânsito.",
+      "C": "Um melhor planeamento das viagens, de forma a evitar os congestionamentos de trânsito.",
+      "D": "As afirmações de R:1 e R:3 estão corretas."
+    },
+    "correctResponseLetter": "",
+    "correctResponseText": "",
+    "imageUrl": "/images/question_136.png"
+  },
+  {
+    "questionNumber": 137,
+    "questionId": "133335",
+    "page": 26,
+    "group": "Grupo 13030 - Disabled:13300~Técnicas de condução",
+    "question": "Um condutor faz uma condução ecológica, se ao conduzir a uma determinada velocidade:",
+    "options": {
+      "A": "Utilizar uma rotação constante do motor, engrenando a mudança adequada a esta rotação.",
+      "B": "Utilizar uma rotação do motor alta, engrenando mudanças mais baixas.",
+      "C": "Utilizar uma rotação do motor baixa, engrenando mudanças mais altas."
+    },
+    "correctResponseLetter": "",
+    "correctResponseText": "",
+    "imageUrl": "/images/question_137.png"
+  },
+  {
+    "questionNumber": 138,
+    "questionId": "133336",
+    "page": 26,
+    "group": "Grupo 13030 - Disabled:13300~Técnicas de condução",
+    "question": "Como deve proceder o condutor em descidas de inclinação acentuada?",
+    "options": {
+      "A": "Deve colocar o veículo em ponto morto, de forma a manter o motor liberto.",
+      "B": "Deve manter o veículo engrenado numa mudança compatível, ajudando a travagem com o motor.",
+      "C": "nenhuma das afirmações está correta."
+    },
+    "correctResponseLetter": "",
+    "correctResponseText": "",
+    "imageUrl": "/images/question_138.png"
+  },
+  {
+    "questionNumber": 139,
+    "questionId": "133337",
+    "page": 26,
+    "group": "Grupo 13030 - Disabled:13300~Técnicas de condução",
+    "question": "A prática da eco condução também contribui para a diminuição da sinistralidade rodoviária?",
+    "options": {
+      "A": "Sim, contribui.",
+      "B": "Não, apenas contribui para a redução do consumo de combustível e da poluição ambiental.",
+      "C": "Não, apenas contribui para a diminuição das emissões de gases com efeito de estufa."
+    },
+    "correctResponseLetter": "",
+    "correctResponseText": "",
+    "imageUrl": "/images/question_139.png"
+  },
+  {
+    "questionNumber": 140,
+    "questionId": "133338",
+    "page": 27,
+    "group": "Grupo 13030 - Disabled:13300~Técnicas de condução",
+    "question": "O que é o consumo médio de um veículo?",
+    "options": {
+      "A": "É o volume final consumido, em litros, após percorrida uma certa distância.",
+      "B": "É o volume de combustível, em litros, dividido pela distância percorrida, em km.",
+      "C": "É a medida do consumo num determinado instante de tempo."
+    },
+    "correctResponseLetter": "",
+    "correctResponseText": "",
+    "imageUrl": "/images/question_140.png"
+  },
+  {
+    "questionNumber": 141,
+    "questionId": "133339",
+    "page": 27,
+    "group": "Grupo 13030 - Disabled:13300~Técnicas de condução",
+    "question": "Para que serve o conta-rotações?",
+    "options": {
+      "A": "Para controlar a velocidade do motor.",
+      "B": "Para indicar a rotação do motor do veículo.",
+      "C": "Ambas as afirmações são verdadeiras."
+    },
+    "correctResponseLetter": "",
+    "correctResponseText": "",
+    "imageUrl": "/images/question_141.png"
+  },
+  {
+    "questionNumber": 142,
+    "questionId": "133340",
+    "page": 27,
+    "group": "Grupo 13030 - Disabled:13300~Técnicas de condução",
+    "question": "A correta pressão dos pneus contribui para uma condução mais económica?",
+    "options": {
+      "A": "Sim, contribui.",
+      "B": "Não, apenas contribui para uma melhor estabilidade do veículo.",
+      "C": "Não, apenas contribui para a manutenção do sistema de suspensão do veículo."
+    },
+    "correctResponseLetter": "",
+    "correctResponseText": "",
+    "imageUrl": "/images/question_142.png"
+  },
+  {
+    "questionNumber": 143,
+    "questionId": "133341",
+    "page": 27,
+    "group": "Grupo 13030 - Disabled:13300~Técnicas de condução",
+    "question": "Entende-se por ´condução defensiva´:",
+    "options": {
+      "A": "Não efetuar ultrapassagens em vias com duas vias de trânsito.",
+      "B": "Conduzir de forma a prevenir, evitar e não provocar acidentes, sejam quais forem as condições de circulação, da via, do veículo e meteorológicas, e quaisquer que sejam os comportamentos dos outros utentes da via.",
+      "C": "Efetuar constantes travagens"
+    },
+    "correctResponseLetter": "",
+    "correctResponseText": "",
+    "imageUrl": "/images/question_143.png"
+  },
+  {
+    "questionNumber": 144,
+    "questionId": "133342",
+    "page": 27,
+    "group": "Grupo 13030 - Disabled:13300~Técnicas de condução",
+    "question": "O veículo deve ser apreendido numa ação de fiscalização, sempre que:",
+    "options": {
+      "A": "Sejam desrespeitadas as regras relativas à poluição sonora do solo e do ar.",
+      "B": "Não tenha sido efetuado o seguro de responsabilidade civil nos termos da lei.",
+      "C": "Se suspeite de viciação fraudulenta no documento de identificação do veículo."
+    },
+    "correctResponseLetter": "",
+    "correctResponseText": "",
+    "imageUrl": "/images/question_144.png"
+  },
+  {
+    "questionNumber": 145,
+    "questionId": "133343",
+    "page": 28,
+    "group": "Grupo 13030 - Disabled:13300~Técnicas de condução",
+    "question": "A segurança rodoviária depende:",
+    "options": {
+      "A": "Exclusivamente da sinalização.",
+      "B": "Unicamente do comportamento do utente, enquanto peão.",
+      "C": "Do equilíbrio que deve existir entre vários elementos que fazem parte do sistema de circulação."
+    },
+    "correctResponseLetter": "",
+    "correctResponseText": "",
+    "imageUrl": "/images/question_145.png"
+  },
+  {
+    "questionNumber": 146,
+    "questionId": "133344",
+    "page": 28,
+    "group": "Grupo 13030 - Disabled:13300~Técnicas de condução",
+    "question": "O acidente continua a ter como principal causa:",
+    "options": {
+      "A": "A má sinalização de obras na via pública.",
+      "B": "A falha humana, pela não adaptação às condições do ambiente rodoviário.",
+      "C": "Os limites de velocidade impostos quando existem obras no pavimento."
+    },
+    "correctResponseLetter": "",
+    "correctResponseText": "",
+    "imageUrl": "/images/question_146.png"
+  },
+  {
+    "questionNumber": 147,
+    "questionId": "133345",
+    "page": 28,
+    "group": "Grupo 13030 - Disabled:13300~Técnicas de condução",
+    "question": "A avaliação que cada condutor faz de uma situação, depende muito da sua experiência na condução.",
+    "options": {
+      "A": "Certo.",
+      "B": "Errado."
+    },
+    "correctResponseLetter": "",
+    "correctResponseText": "",
+    "imageUrl": "/images/question_147.png"
+  },
+  {
+    "questionNumber": 148,
+    "questionId": "133346",
+    "page": 28,
+    "group": "Grupo 13030 - Disabled:13300~Técnicas de condução",
+    "question": "Se aumentar a velocidade, a distância de segurança, deve:",
+    "options": {
+      "A": "Aumentar.",
+      "B": "Diminuir.",
+      "C": "Manter-se."
+    },
+    "correctResponseLetter": "",
+    "correctResponseText": "",
+    "imageUrl": "/images/question_148.png"
+  },
+  {
+    "questionNumber": 149,
+    "questionId": "133348",
+    "page": 28,
+    "group": "Grupo 13030 - Disabled:13300~Técnicas de condução",
+    "question": "Conduzir com chuva tem como resultado:",
+    "options": {
+      "A": "O aumento de aderência ao piso.",
+      "B": "A diminuição da distância de paragem.",
+      "C": "A redução da visibilidade."
+    },
+    "correctResponseLetter": "",
+    "correctResponseText": "",
+    "imageUrl": "/images/question_149.png"
+  },
+  {
+    "questionNumber": 150,
+    "questionId": "133349",
+    "page": 29,
+    "group": "Grupo 13030 - Disabled:13300~Técnicas de condução",
+    "question": "A condução sob a influência do álcool provoca no condutor:",
+    "options": {
+      "A": "O aumento do tempo de reação.",
+      "B": "A diminuição do tempo de reação.",
+      "C": "O aumento dos seus reflexos."
+    },
+    "correctResponseLetter": "",
+    "correctResponseText": "",
+    "imageUrl": "/images/question_150.png"
+  },
+  {
+    "questionNumber": 151,
+    "questionId": "133350",
+    "page": 29,
+    "group": "Grupo 13030 - Disabled:13300~Técnicas de condução",
+    "question": "A capacidade de prever e antecipar enquanto condutor defensivo aumenta:",
+    "options": {
+      "A": "Com a idade.",
+      "B": "Com a experiência de condução."
+    },
+    "correctResponseLetter": "",
+    "correctResponseText": "",
+    "imageUrl": "/images/question_151.png"
+  },
+  {
+    "questionNumber": 152,
+    "questionId": "133351",
+    "page": 29,
+    "group": "Grupo 13030 - Disabled:13300~Técnicas de condução",
+    "question": "Dos seguintes fatores, qual considera mais importante na prevenção de acidentes rodoviários?",
+    "options": {
+      "A": "Ter um automóvel novo.",
+      "B": "Obter a carta de condução em idade avançada.",
+      "C": "Praticar uma condução defensiva."
+    },
+    "correctResponseLetter": "",
+    "correctResponseText": "",
+    "imageUrl": "/images/question_152.png"
+  },
+  {
+    "questionNumber": 153,
+    "questionId": "133352",
+    "page": 29,
+    "group": "Grupo 13030 - Disabled:13300~Técnicas de condução",
+    "question": "Se a velocidade aumentar, a distância de segurança:",
+    "options": {
+      "A": "Não se altera.",
+      "B": "Deve ser menor.",
+      "C": "Deve também aumentar."
+    },
+    "correctResponseLetter": "",
+    "correctResponseText": "",
+    "imageUrl": "/images/question_153.png"
+  },
+  {
+    "questionNumber": 154,
+    "questionId": "133353",
+    "page": 29,
+    "group": "Grupo 13030 - Disabled:13300~Técnicas de condução",
+    "question": "Um dos efeitos da fadiga na condução traduz-se na diminuição:",
+    "options": {
+      "A": "Da rapidez dos reflexos.",
+      "B": "Do tempo de reação.",
+      "C": "Da distância de paragem."
+    },
+    "correctResponseLetter": "",
+    "correctResponseText": "",
+    "imageUrl": "/images/question_154.png"
+  },
+  {
+    "questionNumber": 155,
+    "questionId": "133354",
+    "page": 30,
+    "group": "Grupo 13030 - Disabled:13300~Técnicas de condução",
+    "question": "Numa viagem longa, para evitar a fadiga, é aconselhável:",
+    "options": {
+      "A": "Fumar e ouvir musica muito alta.",
+      "B": "Parar, sair do veículo e descansar.",
+      "C": "Aumentar a velocidade."
+    },
+    "correctResponseLetter": "",
+    "correctResponseText": "",
+    "imageUrl": "/images/question_155.png"
+  },
+  {
+    "questionNumber": 156,
+    "questionId": "133355",
+    "page": 30,
+    "group": "Grupo 13030 - Disabled:13300~Técnicas de condução",
+    "question": "Numa viagem longa é aconselhável o condutor descansar:",
+    "options": {
+      "A": "Apenas de 5 em 5 horas.",
+      "B": "De 2 em 2 horas.",
+      "C": "Só depois de ter percorrido os primeiros 500 km/h."
+    },
+    "correctResponseLetter": "",
+    "correctResponseText": "",
+    "imageUrl": "/images/question_156.png"
+  },
+  {
+    "questionNumber": 157,
+    "questionId": "133356",
+    "page": 30,
+    "group": "Grupo 13030 - Disabled:13300~Técnicas de condução",
+    "question": "Regra geral, um condutor distraído tem:",
+    "options": {
+      "A": "Um tempo de reação mais reduzido.",
+      "B": "Um tempo de reação mais longo.",
+      "C": "O mesmo tempo de reação que qualquer outro condutor."
+    },
+    "correctResponseLetter": "",
+    "correctResponseText": "",
+    "imageUrl": "/images/question_157.png"
+  },
+  {
+    "questionNumber": 158,
+    "questionId": "133357",
+    "page": 30,
+    "group": "Grupo 13030 - Disabled:13300~Técnicas de condução",
+    "question": "A ingestão de bebidas alcoólicas:",
+    "options": {
+      "A": "Diminui o campo visual.",
+      "B": "Alarga o campo visual.",
+      "C": "Não afeta o campo visual."
+    },
+    "correctResponseLetter": "",
+    "correctResponseText": "",
+    "imageUrl": "/images/question_158.png"
+  },
+  {
+    "questionNumber": 159,
+    "questionId": "133358",
+    "page": 30,
+    "group": "Grupo 13030 - Disabled:13300~Técnicas de condução",
+    "question": "Após ingerir bebidas alcoólicas, os obstáculos que o condutor avista à sua frente na via pública, parecem-lhe:",
+    "options": {
+      "A": "Mais próximos.",
+      "B": "Mais longe.",
+      "C": "À distância real."
+    },
+    "correctResponseLetter": "",
+    "correctResponseText": "",
+    "imageUrl": "/images/question_159.png"
+  },
+  {
+    "questionNumber": 160,
+    "questionId": "133359",
+    "page": 31,
+    "group": "Grupo 13030 - Disabled:13300~Técnicas de condução",
+    "question": "Dos seguintes combustíveis, qual é o menos poluente?",
+    "options": {
+      "A": "Gasolina sem chumbo.",
+      "B": "Gás.",
+      "C": "Gasolina com chumbo."
+    },
+    "correctResponseLetter": "",
+    "correctResponseText": "",
+    "imageUrl": "/images/question_160.png"
+  },
+  {
+    "questionNumber": 161,
+    "questionId": "130032",
+    "page": 31,
+    "group": "Grupo 13030 - Disabled:13300~Técnicas de condução",
+    "question": "Qual é a idade máxima permitida para veículos utilizados no serviço TVDE?",
+    "options": {
+      "A": "5 anos",
+      "B": "7 anos",
+      "C": "10 anos"
+    },
+    "correctResponseLetter": "",
+    "correctResponseText": "",
+    "imageUrl": "/images/question_161.png"
+  },
+  {
+    "questionNumber": 162,
+    "questionId": "130033",
+    "page": 31,
+    "group": "Grupo 13030 - Disabled:13300~Técnicas de condução",
+    "question": "Para se tornar motorista TVDE, tem que ter carta de condução da categoria B há mais de:",
+    "options": {
+      "A": "1 ano",
+      "B": "2 anos",
+      "C": "3 anos"
+    },
+    "correctResponseLetter": "",
+    "correctResponseText": "",
+    "imageUrl": "/images/question_162.png"
+  },
+  {
+    "questionNumber": 163,
+    "questionId": "130034",
+    "page": 31,
+    "group": "Grupo 13030 - Disabled:13300~Técnicas de condução",
+    "question": "Os motoristas TVDE estão autorizados a recolher passageiros diretamente na via pública?",
+    "options": {
+      "A": "Sim, em qualquer situação",
+      "B": "Não, apenas mediante reserva na plataforma eletrónica",
+      "C": "Sim, exceto em praças de táxis"
+    },
+    "correctResponseLetter": "",
+    "correctResponseText": "",
+    "imageUrl": "/images/question_163.png"
+  },
+  {
+    "questionNumber": 164,
+    "questionId": "130035",
+    "page": 31,
+    "group": "Grupo 13030 - Disabled:13300~Técnicas de condução",
+    "question": "Os veículos TVDE podem ter publicidade no exterior?",
+    "options": {
+      "A": "Sim, sem restrições",
+      "B": "Sim, desde que seja aprovada pelo IMT",
+      "C": "Não, é proibido"
+    },
+    "correctResponseLetter": "",
+    "correctResponseText": "",
+    "imageUrl": "/images/question_164.png"
+  },
+  {
+    "questionNumber": 165,
+    "questionId": "130036",
+    "page": 32,
+    "group": "Grupo 13040 - Disabled:13400~Regulamentação da atividade",
+    "question": "Qual é o tempo máximo de condução permitido para motoristas TVDE num período de 24 horas?",
+    "options": {
+      "A": "8 horas",
+      "B": "10 horas",
+      "C": "12 horas"
+    },
+    "correctResponseLetter": "",
+    "correctResponseText": "",
+    "imageUrl": "/images/question_165.png"
+  },
+  {
+    "questionNumber": 166,
+    "questionId": "130038",
+    "page": 32,
+    "group": "Grupo 13040 - Disabled:13400~Regulamentação da atividade",
+    "question": "Em que situação é permitido utilizar veículos com matrícula estrangeira no serviço TVDE?",
+    "options": {
+      "A": "Em nenhum caso",
+      "B": "Somente para viagens internacionais",
+      "C": "Com autorização do IMT"
+    },
+    "correctResponseLetter": "",
+    "correctResponseText": "",
+    "imageUrl": "/images/question_166.png"
+  },
+  {
+    "questionNumber": 167,
+    "questionId": "130040",
+    "page": 32,
+    "group": "Grupo 13040 - Disabled:13400~Regulamentação da atividade",
+    "question": "Qual destes requisitos é obrigatório para obter o certificado de motorista TVDE?",
+    "options": {
+      "A": "Frequência de um curso de formação rodoviária específico",
+      "B": "Possuir seguro automóvel",
+      "C": "Participação em seminários de segurança"
+    },
+    "correctResponseLetter": "",
+    "correctResponseText": "",
+    "imageUrl": "/images/question_167.png"
+  },
+  {
+    "questionNumber": 168,
+    "questionId": "130042",
+    "page": 32,
+    "group": "Grupo 13040 - Disabled:13400~Regulamentação da atividade",
+    "question": "Quem é responsável pela fiscalização do cumprimento das normas no serviço TVDE?",
+    "options": {
+      "A": "GNR e IMT",
+      "B": "PSP, GNR e IMT",
+      "C": "GNR e PSP"
+    },
+    "correctResponseLetter": "",
+    "correctResponseText": "",
+    "imageUrl": "/images/question_168.png"
+  },
+  {
+    "questionNumber": 169,
+    "questionId": "130043",
+    "page": 32,
+    "group": "Grupo 13040 - Disabled:13400~Regulamentação da atividade",
+    "question": "Qual é a duração mínima do curso de formação inicial rodoviária para motoristas TVDE?",
+    "options": {
+      "A": "20 horas",
+      "B": "30 horas",
+      "C": "50 horas"
+    },
+    "correctResponseLetter": "",
+    "correctResponseText": "",
+    "imageUrl": "/images/question_169.png"
+  },
+  {
+    "questionNumber": 170,
+    "questionId": "130044",
+    "page": 33,
+    "group": "Grupo 13040 - Disabled:13400~Regulamentação da atividade",
+    "question": "Qual é o tempo máximo permitido para veículos TVDE operarem antes de passar por uma inspeção técnica?",
+    "options": {
+      "A": "1 ano após a matrícula e, depois, anualmente",
+      "B": "2 anos após a matrícula e, depois, bienalmente",
+      "C": "Apenas no prazo estipulado pelo IMT"
+    },
+    "correctResponseLetter": "",
+    "correctResponseText": "",
+    "imageUrl": "/images/question_170.png"
+  },
+  {
+    "questionNumber": 171,
+    "questionId": "130045",
+    "page": 33,
+    "group": "Grupo 13040 - Disabled:13400~Regulamentação da atividade",
+    "question": "A via reservada a veículos de transporte público, por veículos TVDE é:",
+    "options": {
+      "A": "Permitido em vias de trânsito rápidas",
+      "B": "Proibida a circulação",
+      "C": "Permitido apenas em algumas cidades"
+    },
+    "correctResponseLetter": "",
+    "correctResponseText": "",
+    "imageUrl": "/images/question_171.png"
+  },
+  {
+    "questionNumber": 172,
+    "questionId": "130046",
+    "page": 33,
+    "group": "Grupo 13040 - Disabled:13400~Regulamentação da atividade",
+    "question": "Para ser motorista de TVDE tenho de ter carta de condução da categoria B há mais de 3 anos.",
+    "options": {
+      "A": "Falso",
+      "B": "Verdadeiro"
+    },
+    "correctResponseLetter": "",
+    "correctResponseText": "",
+    "imageUrl": "/images/question_172.png"
+  },
+  {
+    "questionNumber": 173,
+    "questionId": "130047",
+    "page": 33,
+    "group": "Grupo 13040 - Disabled:13400~Regulamentação da atividade",
+    "question": "Os motoristas TVDE podem recolher passageiros diretamente na via pública sem reserva prévia.",
+    "options": {
+      "A": "Falso",
+      "B": "Verdadeiro"
+    },
+    "correctResponseLetter": "",
+    "correctResponseText": "",
+    "imageUrl": "/images/question_173.png"
+  },
+  {
+    "questionNumber": 174,
+    "questionId": "130048",
+    "page": 33,
+    "group": "Grupo 13040 - Disabled:13400~Regulamentação da atividade",
+    "question": "Os veículos utilizados no serviço TVDE devem ter idade inferior a 7 anos a partir da primeira matrícula.",
+    "options": {
+      "A": "Falso",
+      "B": "Verdadeiro"
+    },
+    "correctResponseLetter": "",
+    "correctResponseText": "",
+    "imageUrl": "/images/question_174.png"
+  },
+  {
+    "questionNumber": 175,
+    "questionId": "130049",
+    "page": 33,
+    "group": "Grupo 13040 - Disabled:13400~Regulamentação da atividade",
+    "question": "O certificado de motorista TVDE é válido por 10 anos.",
+    "options": {
+      "A": "Falso",
+      "B": "Verdadeiro"
+    },
+    "correctResponseLetter": "",
+    "correctResponseText": "",
+    "imageUrl": "/images/question_175.png"
+  },
+  {
+    "questionNumber": 176,
+    "questionId": "130050",
+    "page": 34,
+    "group": "Grupo 13040 - Disabled:13400~Regulamentação da atividade",
+    "question": "É permitido ter publicidade no exterior dos veículos TVDE, desde que aprovada pelo IMT.",
+    "options": {
+      "A": "Falso",
+      "B": "Verdadeiro"
+    },
+    "correctResponseLetter": "",
+    "correctResponseText": "",
+    "imageUrl": "/images/question_176.png"
+  },
+  {
+    "questionNumber": 177,
+    "questionId": "130052",
+    "page": 34,
+    "group": "Grupo 13040 - Disabled:13400~Regulamentação da atividade",
+    "question": "Veículos usados no serviço TVDE podem ser de matrícula estrangeira, desde que sejam autorizados pelo IMT.",
+    "options": {
+      "A": "Falso",
+      "B": "Verdadeiro"
+    },
+    "correctResponseLetter": "",
+    "correctResponseText": "",
+    "imageUrl": "/images/question_177.png"
+  },
+  {
+    "questionNumber": 178,
+    "questionId": "130053",
+    "page": 34,
+    "group": "Grupo 13040 - Disabled:13400~Regulamentação da atividade",
+    "question": "Motoristas TVDE devem possuir um curso de formação rodoviária inicial de 50 horas para exercerem a atividade.",
+    "options": {
+      "A": "Verdadeiro",
+      "B": "Falso"
+    },
+    "correctResponseLetter": "",
+    "correctResponseText": "",
+    "imageUrl": "/images/question_178.png"
+  },
+  {
+    "questionNumber": 179,
+    "questionId": "130055",
+    "page": 34,
+    "group": "Grupo 13040 - Disabled:13400~Regulamentação da atividade",
+    "question": "O serviço de TVDE só pode ser contratado através de plataforma eletrónica:",
+    "options": {
+      "A": "Verdadeiro",
+      "B": "Falso"
+    },
+    "correctResponseLetter": "",
+    "correctResponseText": "",
+    "imageUrl": "/images/question_179.png"
+  },
+  {
+    "questionNumber": 180,
+    "questionId": "130056",
+    "page": 34,
+    "group": "Grupo 13040 - Disabled:13400~Regulamentação da atividade",
+    "question": "As regras gerais de atuação em caso de acidente são:",
+    "options": {
+      "A": "Sinalizar o veículo, alertar as autoridades e parar o motor do veículo",
+      "B": "Alertar as autoridades, sinalizar o veículo e parar o veículo",
+      "C": "Parar o motor do veículo, sinalizar o veículo e alertar as autoridades",
+      "D": "Nenhuma das respostas anteriores está correta"
+    },
+    "correctResponseLetter": "",
+    "correctResponseText": "",
+    "imageUrl": "/images/question_180.png"
+  },
+  {
+    "questionNumber": 181,
+    "questionId": "130057",
+    "page": 34,
+    "group": "Grupo 13040 - Disabled:13400~Regulamentação da atividade",
+    "question": "Fogo é uma reação química:",
+    "options": {
+      "A": "Que ocorre num determinado local, sempre que o calor seja em excesso",
+      "B": "Entre o combustível e o oxigénio do ar (comburente), face a uma fonte de calor",
+      "C": "Provocada por uma fonte de energia",
+      "D": "Que ocorre em determinados materiais provocado pelo aumento da temperatura"
+    },
+    "correctResponseLetter": "",
+    "correctResponseText": "",
+    "imageUrl": "/images/question_181.png"
+  },
+  {
+    "questionNumber": 182,
+    "questionId": "130058",
+    "page": 35,
+    "group": "Grupo 13050 - Disabled:13500~Situações de emergência e primeiros socorros",
+    "question": "Perante uma ferida simples numa zona sem fraturas:",
+    "options": {
+      "A": "O melhor método é fazer compressão directa",
+      "B": "Deve-se aplicar sempre um garrote",
+      "C": "Deve-se ligar imediatamente 112 e não fazer nada",
+      "D": "Uma hemorragia não é grave e por isso não é necessário fazer nada"
+    },
+    "correctResponseLetter": "",
+    "correctResponseText": "",
+    "imageUrl": "/images/question_182.png"
+  },
+  {
+    "questionNumber": 183,
+    "questionId": "130059",
+    "page": 35,
+    "group": "Grupo 13050 - Disabled:13500~Situações de emergência e primeiros socorros",
+    "question": "Numa situação de queimadura, os cuidados de emergência visam:",
+    "options": {
+      "A": "Aliviar a dor",
+      "B": "Prevenir o choque",
+      "C": "Prevenir a infecção",
+      "D": "Todas as respostas anteriores estão corretas"
+    },
+    "correctResponseLetter": "",
+    "correctResponseText": "",
+    "imageUrl": "/images/question_183.png"
+  },
+  {
+    "questionNumber": 184,
+    "questionId": "130060",
+    "page": 35,
+    "group": "Grupo 13050 - Disabled:13500~Situações de emergência e primeiros socorros",
+    "question": "Em caso de incêndio, um motorista:",
+    "options": {
+      "A": "Tem de conseguir extinguir o incêndio antes de garantir a evacuação dos ocupantes do veículo",
+      "B": "Não deve parar, excepto se o incêndio for no motor",
+      "C": "Deve garantir a evacuação dos ocupantes do&nbsp;veículo para uma zona segura",
+      "D": "Todas as respostas anteriores estão corretas"
+    },
+    "correctResponseLetter": "",
+    "correctResponseText": "",
+    "imageUrl": "/images/question_184.png"
+  },
+  {
+    "questionNumber": 185,
+    "questionId": "130061",
+    "page": 35,
+    "group": "Grupo 13050 - Disabled:13500~Situações de emergência e primeiros socorros",
+    "question": "Em caso de tentativa de agressão ou agressão ao motorista:",
+    "options": {
+      "A": "Não deve ser contatada a autoridade para evitar problemas",
+      "B": "Deve adotar-se uma atitude de confronto",
+      "C": "Os atos do motorista devem basear-se em evitar sempre o confronto",
+      "D": "O motorista deve reagir violentamente e se possível imobilizar o agressor"
+    },
+    "correctResponseLetter": "",
+    "correctResponseText": "",
+    "imageUrl": "/images/question_185.png"
+  },
+  {
+    "questionNumber": 186,
+    "questionId": "130062",
+    "page": 35,
+    "group": "Grupo 13050 - Disabled:13500~Situações de emergência e primeiros socorros",
+    "question": "Um condutor que assista a um acidente no qual existam pessoas ou haja veículos danificados tem o dever de prestar o auxílio. Indique o comportamento que não deve ser adoptado:",
+    "options": {
+      "A": "Antes de sair do veículo para prestar auxílio, deve assegurar-se de que o próprio, os seus passageiros e o seu veículo estão em segurança",
+      "B": "Manter a calma",
+      "C": "Descrever correctamente qual a situação e responder às perguntas que a central de emergência faz",
+      "D": "Não desligar a ignição dos veículos acidentados"
+    },
+    "correctResponseLetter": "",
+    "correctResponseText": "",
+    "imageUrl": "/images/question_186.png"
+  },
+  {
+    "questionNumber": 187,
+    "questionId": "130063",
+    "page": 36,
+    "group": "Grupo 13050 - Disabled:13500~Situações de emergência e primeiros socorros",
+    "question": "Em caso de acidente com a sua viatura, qual o procedimento que não deve ser adotado:",
+    "options": {
+      "A": "Manter a calma",
+      "B": "Avaliar a segurança do local",
+      "C": "Efetuar uma rápida avaliação da vítima",
+      "D": "Abandonar o local"
+    },
+    "correctResponseLetter": "",
+    "correctResponseText": "",
+    "imageUrl": "/images/question_187.png"
+  },
+  {
+    "questionNumber": 188,
+    "questionId": "130064",
+    "page": 36,
+    "group": "Grupo 13050 - Disabled:13500~Situações de emergência e primeiros socorros",
+    "question": "Quando ocorre um incêndio num veículo, o motorista deve adotar certos procedimentos. Das seguintes hipóteses, qual é aquela que não deve ser adotada:",
+    "options": {
+      "A": "Ligar os 4 indicadores de mudança de direcção",
+      "B": "Encostar à berma",
+      "C": "Chamar socorro",
+      "D": "Manter o veículo em funcionamento"
+    },
+    "correctResponseLetter": "",
+    "correctResponseText": "",
+    "imageUrl": "/images/question_188.png"
+  },
+  {
+    "questionNumber": 189,
+    "questionId": "130065",
+    "page": 36,
+    "group": "Grupo 13050 - Disabled:13500~Situações de emergência e primeiros socorros",
+    "question": "No contexto do transporte rodoviário os riscos de agressão e violência aos motoristas e respetivos veículos tem vindo a aumentar. Em situações de agressão deve:",
+    "options": {
+      "A": "Tentar prever potenciais situações de conflito e identificar potenciais agressores",
+      "B": "Saber controlar as emoções e tomar decisões",
+      "C": "Saber identificar potencias agressores perante a autoridade",
+      "D": "Tentar prever potenciais situações de conflito e identificar potenciais agressores, assim como controlar as emoções e tomar decisões"
+    },
+    "correctResponseLetter": "",
+    "correctResponseText": "",
+    "imageUrl": "/images/question_189.png"
+  },
+  {
+    "questionNumber": 190,
+    "questionId": "131859",
+    "page": 36,
+    "group": "Grupo 13050 - Disabled:13500~Situações de emergência e primeiros socorros",
+    "question": "As regras gerais de actuação em caso de acidente são:",
+    "options": {
+      "A": "Sinalizar o veículo, alertar as autoridades e parar o motor do veículo",
+      "B": "Alertar as autoridades, sinalizar o veículo e parar o veículo",
+      "C": "Parar o motor do veículo, sinalizar o veículo e alertar as autoridades",
+      "D": "Nenhuma das respostas anteriores está correcta"
+    },
+    "correctResponseLetter": "",
+    "correctResponseText": "",
+    "imageUrl": "/images/question_190.png"
+  },
+  {
+    "questionNumber": 191,
+    "questionId": "131860",
+    "page": 36,
+    "group": "Grupo 13050 - Disabled:13500~Situações de emergência e primeiros socorros",
+    "question": "Em caso de acidente e suspeita de vítimas acidentadas com lesões deverá ligar para o:",
+    "options": {
+      "A": "113",
+      "B": "112",
+      "C": "116"
+    },
+    "correctResponseLetter": "",
+    "correctResponseText": "",
+    "imageUrl": "/images/question_191.png"
+  },
+  {
+    "questionNumber": 192,
+    "questionId": "131861",
+    "page": 38,
+    "group": "Grupo 13050 - Disabled:13500~Situações de emergência e primeiros socorros",
+    "question": "Fogo é uma reacção química:",
+    "options": {
+      "A": "Que ocorre num determinado local, sempre que o calor seja em excesso",
+      "B": "Entre o combustível e o oxigénio do ar (comburente), face a uma fonte de calor",
+      "C": "Provocada por uma fonte de energia",
+      "D": "Que ocorre em determinados materiais provocado pelo aumento da temperatura"
+    },
+    "correctResponseLetter": "",
+    "correctResponseText": "",
+    "imageUrl": "/images/question_192.png"
+  },
+  {
+    "questionNumber": 193,
+    "questionId": "131862",
+    "page": 38,
+    "group": "Grupo 13050 - Disabled:13500~Situações de emergência e primeiros socorros",
+    "question": "O 1º Socorro é a primeira assistência ou ajuda prestada a qualquer indivíduo vítima de acidente ou doença súbita, com o fim de evitar que o seu estado se agrave, e melhore se possível, até à chegada da ambulância, ou de socorros especializados. Os seus ob",
+    "options": {
+      "A": "Manter a vida",
+      "B": "Prevenir o aparecimento de novas lesões",
+      "C": "Promover a recuperação",
+      "D": "Todas as respostas anteriores estão correctas"
+    },
+    "correctResponseLetter": "",
+    "correctResponseText": "",
+    "imageUrl": "/images/question_193.png"
+  },
+  {
+    "questionNumber": 194,
+    "questionId": "131867",
+    "page": 38,
+    "group": "Grupo 13050 - Disabled:13500~Situações de emergência e primeiros socorros",
+    "question": "Na Reanimação Cardio-Respiratória, a razão entre as compressões torácicas e as insuflações é:",
+    "options": {
+      "A": "15 compressões para 3 insuflações (15:3)",
+      "B": "20 compressões para 5 insuflações (20:5)",
+      "C": "30 compressões para 2 insuflações (30:2)",
+      "D": "10 compressões para 1 insuflação (10:1)"
+    },
+    "correctResponseLetter": "",
+    "correctResponseText": "",
+    "imageUrl": "/images/question_194.png"
+  },
+  {
+    "questionNumber": 195,
+    "questionId": "131868",
+    "page": 38,
+    "group": "Grupo 13050 - Disabled:13500~Situações de emergência e primeiros socorros",
+    "question": "Não devem ser aplicadas compressões abdominais em:",
+    "options": {
+      "A": "Mulheres grávidas",
+      "B": "Crianças com mais de 5 anos",
+      "C": "Crianças com mais de 1 ano",
+      "D": "Idosos com mais de 70 anos"
+    },
+    "correctResponseLetter": "",
+    "correctResponseText": "",
+    "imageUrl": "/images/question_195.png"
+  },
+  {
+    "questionNumber": 196,
+    "questionId": "131870",
+    "page": 38,
+    "group": "Grupo 13050 - Disabled:13500~Situações de emergência e primeiros socorros",
+    "question": "A posição lateral de segurança:",
+    "options": {
+      "A": "Deve ser provocada nas vítimas que respiram normalmente",
+      "B": "Deve ser provocada nas vítimas que não respiram",
+      "C": "Não é necessário confirmar regularmente a eficácia da respiração para provocar a posição referida"
+    },
+    "correctResponseLetter": "",
+    "correctResponseText": "",
+    "imageUrl": "/images/question_196.png"
+  },
+  {
+    "questionNumber": 197,
+    "questionId": "131871",
+    "page": 40,
+    "group": "Grupo 13050 - Disabled:13500~Situações de emergência e primeiros socorros",
+    "question": "Em caso de queimadura deve-se:",
+    "options": {
+      "A": "Lavar o local com água quente durante aproximadamente 15 minutos",
+      "B": "Não tocar na lesão",
+      "C": "Furar as bolhas existentes",
+      "D": "Colocar sobre a lesão soluções ou pomadas"
+    },
+    "correctResponseLetter": "",
+    "correctResponseText": "",
+    "imageUrl": "/images/question_197.png"
+  },
+  {
+    "questionNumber": 198,
+    "questionId": "131872",
+    "page": 40,
+    "group": "Grupo 13050 - Disabled:13500~Situações de emergência e primeiros socorros",
+    "question": "Em caso de intoxicação:",
+    "options": {
+      "A": "A vítima não deve ser retirada do local",
+      "B": "Se a vítima estiver contaminada com tóxicos ou venenos o socorrista deve usar protecções do corpo e da roupa (luvas e avental)",
+      "C": "Nunca é necessário retirar as peças de vestuário da vítima",
+      "D": "Deve ser fornecido álcool à vítima"
+    },
+    "correctResponseLetter": "",
+    "correctResponseText": "",
+    "imageUrl": "/images/question_198.png"
+  },
+  {
+    "questionNumber": 199,
+    "questionId": "131874",
+    "page": 40,
+    "group": "Grupo 13050 - Disabled:13500~Situações de emergência e primeiros socorros",
+    "question": "O exame primário da vítima consiste na:",
+    "options": {
+      "A": "Observação do diâmetro das pupilas, da coloração, temperatura e grau de humidade da pele.",
+      "B": "Verificação em primeiro lugar da existência de ventilação.",
+      "C": "Avaliação em primeiro lugar da existência de pulsação.",
+      "D": "Avaliação em primeiro lugar do estado de consciência da vítima"
+    },
+    "correctResponseLetter": "",
+    "correctResponseText": "",
+    "imageUrl": "/images/question_199.png"
+  },
+  {
+    "questionNumber": 200,
+    "questionId": "131876",
+    "page": 40,
+    "group": "Grupo 13050 - Disabled:13500~Situações de emergência e primeiros socorros",
+    "question": "Perante uma vítima de acidente o procedimento adequado é:",
+    "options": {
+      "A": "Remover de imediato a vítima do veículo",
+      "B": "Não movimentar a vítima, excepto se existir perigo iminente de incêndio, explosão ou qualquer outra situação que ponha em risco a vida da vítima",
+      "C": "Não retirar em caso algum a vítima do veículo",
+      "D": "Ajudar a vítima a sair do veículo"
+    },
+    "correctResponseLetter": "",
+    "correctResponseText": "",
+    "imageUrl": "/images/question_200.png"
+  },
+  {
+    "questionNumber": 201,
+    "questionId": "131877",
+    "page": 40,
+    "group": "Grupo 13050 - Disabled:13500~Situações de emergência e primeiros socorros",
+    "question": "Os princípios gerais de socorrismo são:",
+    "options": {
+      "A": "Prever, ajudar e socorrer",
+      "B": "Parar, socorrer e alertar",
+      "C": "Socorrer e ligar 112",
+      "D": "Prevenir, alertar e socorrer"
+    },
+    "correctResponseLetter": "",
+    "correctResponseText": "",
+    "imageUrl": "/images/question_201.png"
+  },
+  {
+    "questionNumber": 202,
+    "questionId": "131878",
+    "page": 41,
+    "group": "Grupo 13050 - Disabled:13500~Situações de emergência e primeiros socorros",
+    "question": "Uma vítima de asfixia por obstrução das vias respiratórias devido à presença de um corpo estranho deve ser socorrida:",
+    "options": {
+      "A": "Com reanimação cárdio-pulmonar",
+      "B": "Através da colocação em posição lateral de segurança",
+      "C": "Com realização de pancadas interescapulares ou manobra de Heimlich",
+      "D": "Através da colocação em decúbito dorsal"
+    },
+    "correctResponseLetter": "",
+    "correctResponseText": "",
+    "imageUrl": "/images/question_202.png"
+  },
+  {
+    "questionNumber": 203,
+    "questionId": "131879",
+    "page": 41,
+    "group": "Grupo 13050 - Disabled:13500~Situações de emergência e primeiros socorros",
+    "question": "Para sinalizar correctamente o local do acidente o motorista deve:",
+    "options": {
+      "A": "Estacionar o veículo antes do local do acidente, ligar as luzes de perigo, vestir o colete e colocar o sinal de pré-sinalização de perigo a pelo menos 30m da retaguarda do veículo ou da carga a sinalizar.",
+      "B": "Estacionar o veículo depois do local do acidente, ligar as luzes de perigo, vestir o colete e colocar o sinal de pré-sinalização de perigo a pelo menos 30m da retaguarda do veículo ou da carga a sinalizar.",
+      "C": "Estacionar o veículo antes do local do acidente, ligar as luzes de perigo, vestir o colete e colocar o sinal de pré-sinalização de perigo a pelo menos 50m da retaguarda do veículo ou da carga a sinalizar.",
+      "D": "Estacionar o veículo antes do local do acidente, ligar as luzes de perigo, vestir o colete e colocar o sinal de pré-sinalização de perigo a pelo menos 100m da retaguarda do veículo ou da carga a sinalizar."
+    },
+    "correctResponseLetter": "",
+    "correctResponseText": "",
+    "imageUrl": "/images/question_203.png"
+  },
+  {
+    "questionNumber": 204,
+    "questionId": "131880",
+    "page": 41,
+    "group": "Grupo 13050 - Disabled:13500~Situações de emergência e primeiros socorros",
+    "question": "No caso da vítima não responder aos estímulos do socorrista, o procedimento correcto é:",
+    "options": {
+      "A": "Colocar de imediato em posição lateral de segurança",
+      "B": "Iniciar logo as manobras de reanimação cárdio-pulmonar",
+      "C": "Desobstruir as vias aéreas, fazer a extensão da cabeça, pedir ajuda e verificar se está a respirar",
+      "D": "Colocar em decúbito dorsal"
+    },
+    "correctResponseLetter": "",
+    "correctResponseText": "",
+    "imageUrl": "/images/question_204.png"
+  },
+  {
+    "questionNumber": 205,
+    "questionId": "131881",
+    "page": 41,
+    "group": "Grupo 13050 - Disabled:13500~Situações de emergência e primeiros socorros",
+    "question": "Em caso de incêndio, o jacto do extintor deve ser direccionado para:",
+    "options": {
+      "A": "A base das chamas",
+      "B": "O meio das chamas",
+      "C": "O topo das chamas",
+      "D": "O topo e o meio das chamas alternadamente"
+    },
+    "correctResponseLetter": "",
+    "correctResponseText": "",
+    "imageUrl": "/images/question_205.png"
+  },
+  {
+    "questionNumber": 206,
+    "questionId": "131882",
+    "page": 41,
+    "group": "Grupo 13050 - Disabled:13500~Situações de emergência e primeiros socorros",
+    "question": "Numa situação de epistaxis (hemorragia pelo nariz), o socorrista deve:",
+    "options": {},
+    "correctResponseLetter": "",
+    "correctResponseText": "",
+    "imageUrl": "/images/question_206.png"
+  },
+  {
+    "questionNumber": 207,
+    "questionId": "131883",
+    "page": 43,
+    "group": "Grupo 13050 - Disabled:13500~Situações de emergência e primeiros socorros",
+    "question": "Quando se liga 112:",
+    "options": {
+      "A": "A chamada é atendida automaticamente pelo INEM",
+      "B": "Quem atende é um agente de autoridade",
+      "C": "Estamos a ligar directamente para os bombeiros",
+      "D": "Todas as respostas anteriores estão correctas"
+    },
+    "correctResponseLetter": "",
+    "correctResponseText": "",
+    "imageUrl": "/images/question_207.png"
+  },
+  {
+    "questionNumber": 208,
+    "questionId": "131884",
+    "page": 43,
+    "group": "Grupo 13050 - Disabled:13500~Situações de emergência e primeiros socorros",
+    "question": "Ao ligar 112, o mais importante é:",
+    "options": {
+      "A": "Indicar o local da ocorrência",
+      "B": "Explicar o que se passa com a vítima",
+      "C": "Fornecer o número de telefone de onde se está a efectuar o pedido de socorro",
+      "D": "Devem ser referidas todas as informações anteriores"
+    },
+    "correctResponseLetter": "",
+    "correctResponseText": "",
+    "imageUrl": "/images/question_208.png"
+  },
+  {
+    "questionNumber": 209,
+    "questionId": "131885",
+    "page": 43,
+    "group": "Grupo 13050 - Disabled:13500~Situações de emergência e primeiros socorros",
+    "question": "Para perceber se alguém está em paragem cárdio-respiratória:",
+    "options": {
+      "A": "Não se deve fazer nada até que a vítima responda",
+      "B": "Se a vítima não nos responde, está de certeza em paragem cárdio-respiratória",
+      "C": "Deve-se esperar durante 10 segundos para ver se a vítima respira ou não",
+      "D": "Nenhuma das respostas anteriores está correcta"
+    },
+    "correctResponseLetter": "",
+    "correctResponseText": "",
+    "imageUrl": "/images/question_209.png"
+  },
+  {
+    "questionNumber": 210,
+    "questionId": "131886",
+    "page": 43,
+    "group": "Grupo 13050 - Disabled:13500~Situações de emergência e primeiros socorros",
+    "question": "Perante uma ferida simples numa zona sem fracturas:",
+    "options": {
+      "A": "O melhor método é fazer compressão directa",
+      "B": "Deve-se aplicar sempre um garrote",
+      "C": "Deve-se ligar imediatamente 112 e não fazer nada",
+      "D": "Uma hemorragia não é grave e por isso não é necessário fazer nada"
+    },
+    "correctResponseLetter": "",
+    "correctResponseText": "",
+    "imageUrl": "/images/question_210.png"
+  },
+  {
+    "questionNumber": 211,
+    "questionId": "131887",
+    "page": 43,
+    "group": "Grupo 13050 - Disabled:13500~Situações de emergência e primeiros socorros",
+    "question": "Numa situação de queimadura, os cuidados de emergência visam:",
+    "options": {
+      "A": "Aliviar a dor",
+      "B": "Prevenir o choque",
+      "C": "Prevenir a infecção",
+      "D": "Todas as respostas anteriores estão correctas"
+    },
+    "correctResponseLetter": "",
+    "correctResponseText": "",
+    "imageUrl": "/images/question_211.png"
+  },
+  {
+    "questionNumber": 212,
+    "questionId": "131888",
+    "page": 44,
+    "group": "Grupo 13050 - Disabled:13500~Situações de emergência e primeiros socorros",
+    "question": "Em caso de incêndio, um motorista:",
+    "options": {
+      "A": "Tem de conseguir extinguir o incêndio antes de garantir a evacuação dos ocupantes do veículo",
+      "B": "Não deve parar, excepto se o incêndio for no motor",
+      "C": "Deve garantir a evacuação dos ocupantes do&nbsp;veículo para uma zona segura",
+      "D": "Todas as respostas anteriores estão correctas"
+    },
+    "correctResponseLetter": "",
+    "correctResponseText": "",
+    "imageUrl": "/images/question_212.png"
+  },
+  {
+    "questionNumber": 213,
+    "questionId": "131889",
+    "page": 44,
+    "group": "Grupo 13050 - Disabled:13500~Situações de emergência e primeiros socorros",
+    "question": "Em caso de tentativa de agressão ou agressão ao motorista:",
+    "options": {
+      "A": "&shy;Não deve ser contactada a autoridade para evitar problemas",
+      "B": "Deve adoptar-se uma atitude de confronto",
+      "C": "Os actos do motorista devem basear-se em evitar sempre o confronto",
+      "D": "O motorista deve reagir violentamente e se possível imobilizar o agressor"
+    },
+    "correctResponseLetter": "",
+    "correctResponseText": "",
+    "imageUrl": "/images/question_213.png"
+  },
+  {
+    "questionNumber": 214,
+    "questionId": "131890",
+    "page": 44,
+    "group": "Grupo 13050 - Disabled:13500~Situações de emergência e primeiros socorros",
+    "question": "Um condutor que assista a um acidente no qual existam pessoas ou haja veículos danificados tem o dever de prestar o auxílio. Indique o comportamento que não deve ser adoptado:",
+    "options": {
+      "A": "Antes de sair do veículo para prestar auxílio, deve assegurar-se de que o próprio, os seus passageiros e o seu veículo estão em segurança",
+      "B": "Manter a calma",
+      "C": "Descrever correctamente qual a situação e responder às perguntas que a central de emergência faz",
+      "D": "Não desligar a ignição dos veículos acidentados"
+    },
+    "correctResponseLetter": "",
+    "correctResponseText": "",
+    "imageUrl": "/images/question_214.png"
+  },
+  {
+    "questionNumber": 215,
+    "questionId": "131892",
+    "page": 44,
+    "group": "Grupo 13050 - Disabled:13500~Situações de emergência e primeiros socorros",
+    "question": "Em caso de acidente com a sua viatura, qual o procedimento que não deve ser adoptado:",
+    "options": {
+      "A": "Manter a calma",
+      "B": "Avaliar a segurança do local",
+      "C": "Efectuar uma rápida avaliação da vítima",
+      "D": "Abandonar o local"
+    },
+    "correctResponseLetter": "",
+    "correctResponseText": "",
+    "imageUrl": "/images/question_215.png"
+  },
+  {
+    "questionNumber": 216,
+    "questionId": "131893",
+    "page": 44,
+    "group": "Grupo 13050 - Disabled:13500~Situações de emergência e primeiros socorros",
+    "question": "Quando ocorre um incêndio num veículo, o motorista deve adoptar certos procedimentos. Das seguintes hipóteses, qual é aquela que não deve ser adoptada:",
+    "options": {
+      "A": "Ligar os 4 indicadores de mudança de direcção"
+    },
+    "correctResponseLetter": "",
+    "correctResponseText": "",
+    "imageUrl": "/images/question_216.png"
+  },
+  {
+    "questionNumber": 217,
+    "questionId": "131896",
+    "page": 46,
+    "group": "Grupo 13050 - Disabled:13500~Situações de emergência e primeiros socorros",
+    "question": "Para iniciar o socorro das vítimas é necessária a avaliação desta, através do exame primário, o qual consiste em:",
+    "options": {
+      "A": "Avaliar se a vítima está consciente/inconsciente",
+      "B": "Avaliar somente a ventilação",
+      "C": "Observar mais detalhadamente e em interroga-la",
+      "D": "Avaliar somente a circulação e temperatura"
+    },
+    "correctResponseLetter": "",
+    "correctResponseText": "",
+    "imageUrl": "/images/question_217.png"
+  },
+  {
+    "questionNumber": 218,
+    "questionId": "131897",
+    "page": 46,
+    "group": "Grupo 13050 - Disabled:13500~Situações de emergência e primeiros socorros",
+    "question": "No contexto do transporte rodoviário os riscos de agressão e violência aos motoristas e respectivos veículos tem vindo a aumentar. Em situações de agressão deve:",
+    "options": {
+      "A": "Tentar prever potenciais situações de conflito e identificar potenciais agressores",
+      "B": "Saber controlar as emoções e tomar decisões",
+      "C": "Saber identificar potencias agressores perante a autoridade",
+      "D": "Tentar prever potenciais situações de conflito e identificar potenciais agressores, assim como controlar as emoções e tomar decisões"
+    },
+    "correctResponseLetter": "",
+    "correctResponseText": "",
+    "imageUrl": "/images/question_218.png"
+  },
+  {
+    "questionNumber": 219,
+    "questionId": "131898",
+    "page": 46,
+    "group": "Grupo 13050 - Disabled:13500~Situações de emergência e primeiros socorros",
+    "question": "O exame primário da vítima consiste:",
+    "options": {
+      "A": "Na observação do diâmetro das pupilas, da coloração, temperatura e grau de humidade da pele",
+      "B": "Na verificação em primeiro lugar da existência de ventilação",
+      "C": "Na avaliação em primeiro lugar da existência de pulsação",
+      "D": "Na avaliação em primeiro lugar do estado de consciência da vítima"
+    },
+    "correctResponseLetter": "",
+    "correctResponseText": "",
+    "imageUrl": "/images/question_219.png"
+  },
+  {
+    "questionNumber": 220,
+    "questionId": "131899",
+    "page": 46,
+    "group": "Grupo 13050 - Disabled:13500~Situações de emergência e primeiros socorros",
+    "question": "Perante uma situação de acidente, a sequência adequada na aplicação nas diversas fases do Sistema Integrado de Emergência Médica será:",
+    "options": {
+      "A": "Pré-socorro, Socorro e Alerta",
+      "B": "Detecção, Pré socorro e Transporte",
+      "C": "Alerta, Transporte e Socorro",
+      "D": "Detecção Alerta e Pré-socorro"
+    },
+    "correctResponseLetter": "",
+    "correctResponseText": "",
+    "imageUrl": "/images/question_220.png"
+  },
+  {
+    "questionNumber": 221,
+    "questionId": "131900",
+    "page": 46,
+    "group": "Grupo 13050 - Disabled:13500~Situações de emergência e primeiros socorros",
+    "question": "Se um produto tóxico atingir o condutor nos olhos, este deverá imediatamente:",
+    "options": {
+      "A": "Proteger os olhos do sol com recurso a óculos escuros",
+      "B": "Utilizar água para lavar os olhos",
+      "C": "Dirigir-se à localidade mais próxima para consultar o médico"
+    },
+    "correctResponseLetter": "",
+    "correctResponseText": "",
+    "imageUrl": "/images/question_221.png"
+  },
+  {
+    "questionNumber": 222,
+    "questionId": "131901",
+    "page": 48,
+    "group": "Grupo 13050 - Disabled:13500~Situações de emergência e primeiros socorros",
+    "question": "Se numa situação de incêndio a roupa da vítima estiver a arder deve-se:",
+    "options": {
+      "A": "Tirar rapidamente a roupa que estiver a arder",
+      "B": "Apagar o fogo com extintor de pó químico",
+      "C": "Envolver a vítima com um cobertor ou rolá-la pelo chão",
+      "D": "Chamar de imediato o 112"
+    },
+    "correctResponseLetter": "",
+    "correctResponseText": "",
+    "imageUrl": "/images/question_222.png"
+  },
+  {
+    "questionNumber": 223,
+    "questionId": "130066",
+    "page": 48,
+    "group": "Grupo 13050 - Disabled:13500~Situações de emergência e primeiros socorros",
+    "question": "O primeiro contacto com o motorista ajuda a criar uma boa impressão sobre o serviço.",
+    "options": {
+      "A": "Verdadeiro",
+      "B": "Falso"
+    },
+    "correctResponseLetter": "",
+    "correctResponseText": "",
+    "imageUrl": "/images/question_223.png"
+  },
+  {
+    "questionNumber": 224,
+    "questionId": "130067",
+    "page": 48,
+    "group": "Grupo 13050 - Disabled:13500~Situações de emergência e primeiros socorros",
+    "question": "O processo de comunicação requer, no mínimo:",
+    "options": {
+      "A": "Um emissor.",
+      "B": "Um recetor.",
+      "C": "Um emissor e um recetor."
+    },
+    "correctResponseLetter": "",
+    "correctResponseText": "",
+    "imageUrl": "/images/question_224.png"
+  },
+  {
+    "questionNumber": 225,
+    "questionId": "130068",
+    "page": 48,
+    "group": "Grupo 13050 - Disabled:13500~Situações de emergência e primeiros socorros",
+    "question": "Como agir com um passageiro impaciente ou agressivo?",
+    "options": {
+      "A": "Responder com a mesma agressividade.",
+      "B": "Manter a calma, ser cordial e evitar o conflito.",
+      "C": "Ignorar o passageiro e continuar a viagem."
+    },
+    "correctResponseLetter": "",
+    "correctResponseText": "",
+    "imageUrl": "/images/question_225.png"
+  },
+  {
+    "questionNumber": 226,
+    "questionId": "130069",
+    "page": 48,
+    "group": "Grupo 13050 - Disabled:13500~Situações de emergência e primeiros socorros",
+    "question": "O que é o ´ruído´ na comunicação?",
+    "options": {
+      "A": "Uma conversa entre duas pessoas.",
+      "B": "Algo que dificulta a compreensão da mensagem.",
+      "C": "O som do rádio."
+    },
+    "correctResponseLetter": "",
+    "correctResponseText": "",
+    "imageUrl": "/images/question_226.png"
+  },
+  {
+    "questionNumber": 227,
+    "questionId": "130070",
+    "page": 49,
+    "group": "Grupo 13100 - Comunicação e relações interpessoais",
+    "question": "O que é a comunicação verbal?",
+    "options": {
+      "A": "Usar gestos e sinais para comunicar.",
+      "B": "Falar ou escrever para transmitir uma mensagem.",
+      "C": "Ficar em silêncio."
+    },
+    "correctResponseLetter": "",
+    "correctResponseText": "",
+    "imageUrl": "/images/question_227.png"
+  },
+  {
+    "questionNumber": 228,
+    "questionId": "130071",
+    "page": 49,
+    "group": "Grupo 13100 - Comunicação e relações interpessoais",
+    "question": "Uma das funções importantes da comunicação é transmitir conhecimento.",
+    "options": {
+      "A": "Verdadeiro",
+      "B": "Falso"
+    },
+    "correctResponseLetter": "",
+    "correctResponseText": "",
+    "imageUrl": "/images/question_228.png"
+  },
+  {
+    "questionNumber": 229,
+    "questionId": "130072",
+    "page": 49,
+    "group": "Grupo 13100 - Comunicação e relações interpessoais",
+    "question": "Um motorista deve comportar-se de forma?",
+    "options": {
+      "A": "Agressiva.",
+      "B": "Passiva.",
+      "C": "Assertiva."
+    },
+    "correctResponseLetter": "",
+    "correctResponseText": "",
+    "imageUrl": "/images/question_229.png"
+  },
+  {
+    "questionNumber": 230,
+    "questionId": "130073",
+    "page": 49,
+    "group": "Grupo 13100 - Comunicação e relações interpessoais",
+    "question": "Quando se pode dizer que a comunicação tem sucesso?",
+    "options": {
+      "A": "Quando se fala muito rápido.",
+      "B": "Quando a mensagem é compreendida.",
+      "C": "Quando ninguém responde."
+    },
+    "correctResponseLetter": "",
+    "correctResponseText": "",
+    "imageUrl": "/images/question_230.png"
+  },
+  {
+    "questionNumber": 231,
+    "questionId": "130074",
+    "page": 49,
+    "group": "Grupo 13100 - Comunicação e relações interpessoais",
+    "question": "Chamamos feedback:",
+    "options": {
+      "A": "À resposta ou reação da pessoa à mensagem.",
+      "B": "Ao início de uma conversa.",
+      "C": "À forma como utilizamos o tom de voz."
+    },
+    "correctResponseLetter": "",
+    "correctResponseText": "",
+    "imageUrl": "/images/question_231.png"
+  },
+  {
+    "questionNumber": 232,
+    "questionId": "130075",
+    "page": 50,
+    "group": "Grupo 13100 - Comunicação e relações interpessoais",
+    "question": "Um motorista tem um comportamento profissional quando:",
+    "options": {
+      "A": "É apressado e impaciente durante a condução.",
+      "B": "Ignora os pedidos dos passageiros.",
+      "C": "É educado, respeita os passageiros e atende às suas necessidades."
+    },
+    "correctResponseLetter": "",
+    "correctResponseText": "",
+    "imageUrl": "/images/question_232.png"
+  },
+  {
+    "questionNumber": 233,
+    "questionId": "130076",
+    "page": 50,
+    "group": "Grupo 13100 - Comunicação e relações interpessoais",
+    "question": "Qual a importância do tom de voz na comunicação?",
+    "options": {
+      "A": "Ajuda a transmitir a mensagem de forma clara.",
+      "B": "Dificulta a compreensão da mensagem."
+    },
+    "correctResponseLetter": "",
+    "correctResponseText": "",
+    "imageUrl": "/images/question_233.png"
+  },
+  {
+    "questionNumber": 234,
+    "questionId": "130077",
+    "page": 50,
+    "group": "Grupo 13100 - Comunicação e relações interpessoais",
+    "question": "Na comunicação com os passageiros é importante:",
+    "options": {
+      "A": "Fazer perguntas durante toda a conversa",
+      "B": "Ouvir para compreender.",
+      "C": "Falar rapidamente para terminar a conversa."
+    },
+    "correctResponseLetter": "",
+    "correctResponseText": "",
+    "imageUrl": "/images/question_234.png"
+  },
+  {
+    "questionNumber": 235,
+    "questionId": "130078",
+    "page": 50,
+    "group": "Grupo 13100 - Comunicação e relações interpessoais",
+    "question": "Quando é permitido ultrapassar pela direita?",
+    "options": {
+      "A": "Quando o veículo da frente circula lentamente.",
+      "B": "Quando o veículo da frente sinaliza que vai virar à esquerda.",
+      "C": "Em qualquer situação"
+    },
+    "correctResponseLetter": "",
+    "correctResponseText": "",
+    "imageUrl": "/images/question_235.png"
+  },
+  {
+    "questionNumber": 236,
+    "questionId": "130079",
+    "page": 50,
+    "group": "Grupo 13100 - Comunicação e relações interpessoais",
+    "question": "O que deve fazer antes de iniciar uma ultrapassagem?",
+    "options": {
+      "A": "Verificar se há espaço suficiente e visibilidade.",
+      "B": "Aumentar a velocidade.",
+      "C": "Aproximar-se ao máximo do veículo da frente."
+    },
+    "correctResponseLetter": "",
+    "correctResponseText": "",
+    "imageUrl": "/images/question_236.png"
+  },
+  {
+    "questionNumber": 237,
+    "questionId": "130080",
+    "page": 51,
+    "group": "Grupo 13210 - 2A Ultrapassagem",
+    "question": "É permitido ultrapassar em curvas com visibilidade reduzida?",
+    "options": {
+      "A": "Sim, é permitido.",
+      "B": "É proibido ultrapassar em curvas com visibilidade reduzida.",
+      "C": "Passar rapidamente antes que outro veículo chegue."
+    },
+    "correctResponseLetter": "",
+    "correctResponseText": "",
+    "imageUrl": "/images/question_237.png"
+  },
+  {
+    "questionNumber": 238,
+    "questionId": "130081",
+    "page": 51,
+    "group": "Grupo 13210 - 2A Ultrapassagem",
+    "question": "Numa ultrapassagem, o motorista deve voltar à sua via de trânsito:",
+    "options": {
+      "A": "Após aumentar a velocidade.",
+      "B": "Logo após concluir a manobra.",
+      "C": "Assim que o veículo ultrapassado fique visível no retrovisor."
+    },
+    "correctResponseLetter": "",
+    "correctResponseText": "",
+    "imageUrl": "/images/question_238.png"
+  },
+  {
+    "questionNumber": 239,
+    "questionId": "130082",
+    "page": 51,
+    "group": "Grupo 13210 - 2A Ultrapassagem",
+    "question": "É proibido ultrapassar:",
+    "options": {
+      "A": "Em lombas ou cruzamentos sem visibilidade.",
+      "B": "Quando o veículo é lento.",
+      "C": "Em autoestradas."
+    },
+    "correctResponseLetter": "",
+    "correctResponseText": "",
+    "imageUrl": "/images/question_239.png"
+  },
+  {
+    "questionNumber": 240,
+    "questionId": "130083",
+    "page": 51,
+    "group": "Grupo 13210 - 2A Ultrapassagem",
+    "question": "Ao ultrapassar uma bicicleta, deve manter uma distância mínima lateral?",
+    "options": {
+      "A": "Sim, de 1,5 metros.",
+      "B": "Sim, de 1 metro",
+      "C": "Não."
+    },
+    "correctResponseLetter": "",
+    "correctResponseText": "",
+    "imageUrl": "/images/question_240.png"
+  },
+  {
+    "questionNumber": 241,
+    "questionId": "130084",
+    "page": 51,
+    "group": "Grupo 13210 - 2A Ultrapassagem",
+    "question": "Este sinal significa que os automóveis pesados estão proibidos de ultrapassar.",
+    "options": {
+      "A": "Sim",
+      "B": "Não."
+    },
+    "correctResponseLetter": "",
+    "correctResponseText": "",
+    "imageUrl": "/images/question_241.png"
+  },
+  {
+    "questionNumber": 242,
+    "questionId": "130085",
+    "page": 52,
+    "group": "Grupo 13210 - 2A Ultrapassagem",
+    "question": "O sinal de mudança de direção para a esquerda, do veículo que segue à frente, pode indicar:",
+    "options": {
+      "A": "Diminuição de velocidade.",
+      "B": "Início de manobra de marcha atrás.",
+      "C": "Início de uma ultrapassagem."
+    },
+    "correctResponseLetter": "",
+    "correctResponseText": "",
+    "imageUrl": "/images/question_242.png"
+  },
+  {
+    "questionNumber": 243,
+    "questionId": "130086",
+    "page": 52,
+    "group": "Grupo 13210 - 2A Ultrapassagem",
+    "question": "Pode ultrapassar o veículo que circula à frente?",
+    "options": {
+      "A": "Sim, a manobra é permitida.",
+      "B": "Não, devo aguardar que o veículo termine a manobra."
+    },
+    "correctResponseLetter": "",
+    "correctResponseText": "",
+    "imageUrl": "/images/question_243.png"
+  },
+  {
+    "questionNumber": 244,
+    "questionId": "130087",
+    "page": 52,
+    "group": "Grupo 13210 - 2A Ultrapassagem",
+    "question": "Pode ultrapassar o veículo à sua frente?",
+    "options": {
+      "A": "Sim.",
+      "B": "Não."
+    },
+    "correctResponseLetter": "",
+    "correctResponseText": "",
+    "imageUrl": "/images/question_244.png"
+  },
+  {
+    "questionNumber": 245,
+    "questionId": "130088",
+    "page": 52,
+    "group": "Grupo 13210 - 2A Ultrapassagem",
+    "question": "É permitido ultrapassar neste local?",
+    "options": {
+      "A": "Sim.",
+      "B": "Não."
+    },
+    "correctResponseLetter": "",
+    "correctResponseText": "",
+    "imageUrl": "/images/question_245.png"
+  },
+  {
+    "questionNumber": 246,
+    "questionId": "7691",
+    "page": 52,
+    "group": "Grupo 13210 - 2A Ultrapassagem",
+    "question": "O motociclo que transita na rotunda deve:",
+    "options": {
+      "A": "Ceder a passagem.",
+      "B": "Avançar.",
+      "C": "Ceder a passagem apenas aos veículos com motor que pretendam entrar na rotunda."
+    },
+    "correctResponseLetter": "",
+    "correctResponseText": "",
+    "imageUrl": "/images/question_246.png"
+  },
+  {
+    "questionNumber": 247,
+    "questionId": "130089",
+    "page": 52,
+    "group": "Grupo 13210 - 2A Ultrapassagem",
+    "question": "Ao entrar numa rotunda deve:",
+    "options": {
+      "A": "Reduzir a velocidade e avançar sem parar.",
+      "B": "Avançar em primeiro lugar, porque tem prioridade de passagem.",
+      "C": "Ceder passagem aos veículos que já circulam na rotunda."
+    },
+    "correctResponseLetter": "",
+    "correctResponseText": "",
+    "imageUrl": "/images/question_247.png"
+  },
+  {
+    "questionNumber": 248,
+    "questionId": "130090",
+    "page": 53,
+    "group": "Grupo 13220 - 2B Circulação em rotundas",
+    "question": "O motorista deve sinalizar a saída de uma rotunda:",
+    "options": {
+      "A": "Ao aproximar-se da saída.",
+      "B": "Não é necessário sinalizar.",
+      "C": "Apenas se houver trânsito intenso."
+    },
+    "correctResponseLetter": "",
+    "correctResponseText": "",
+    "imageUrl": "/images/question_248.png"
+  },
+  {
+    "questionNumber": 249,
+    "questionId": "130091",
+    "page": 53,
+    "group": "Grupo 13220 - 2B Circulação em rotundas",
+    "question": "Para mudar de via de circulação dentro de uma rotunda, o motorista deve:",
+    "options": {
+      "A": "Mudar de via sem sinalizar.",
+      "B": "Sinalizar e garantir que a manobra é segura.",
+      "C": "Mudar rapidamente para sair mais depressa."
+    },
+    "correctResponseLetter": "",
+    "correctResponseText": "",
+    "imageUrl": "/images/question_249.png"
+  },
+  {
+    "questionNumber": 250,
+    "questionId": "130092",
+    "page": 53,
+    "group": "Grupo 13220 - 2B Circulação em rotundas",
+    "question": "Ao circular numa rotunda, o motorista deve saber que:",
+    "options": {
+      "A": "Todos os veículos entram ao mesmo tempo.",
+      "B": "Os veículos em serviço de urgência devem ceder a passagem aos veículos que circulam na rotunda.",
+      "C": "Deve ceder a passagem aos veículos em serviço de urgência que entram na rotunda."
+    },
+    "correctResponseLetter": "",
+    "correctResponseText": "",
+    "imageUrl": "/images/question_250.png"
+  },
+  {
+    "questionNumber": 251,
+    "questionId": "130093",
+    "page": 53,
+    "group": "Grupo 13220 - 2B Circulação em rotundas",
+    "question": "Em rotundas, pode circular na via mais à direita:",
+    "options": {
+      "A": "Apenas para sair na primeira saída.",
+      "B": "Sempre, independentemente da saída."
+    },
+    "correctResponseLetter": "",
+    "correctResponseText": "",
+    "imageUrl": "/images/question_251.png"
+  },
+  {
+    "questionNumber": 252,
+    "questionId": "130094",
+    "page": 53,
+    "group": "Grupo 13220 - 2B Circulação em rotundas",
+    "question": "O que deve fazer nesta situação?",
+    "options": {
+      "A": "Ceder a passagem ao veículo cinzento.",
+      "B": "Avançar em primeiro lugar, por se apresentar pela direita.",
+      "C": "Parar obrigatoriamente, porque pretendo entrar na rotunda."
+    },
+    "correctResponseLetter": "",
+    "correctResponseText": "",
+    "imageUrl": "/images/question_252.png"
+  },
+  {
+    "questionNumber": 253,
+    "questionId": "130095",
+    "page": 54,
+    "group": "Grupo 13220 - 2B Circulação em rotundas",
+    "question": "O condutor da bicicleta deve ceder a passagem?",
+    "options": {
+      "A": "Sim, porque a bicicleta se apresenta pela esquerda.",
+      "B": "Não, porque a bicicleta circula na rotunda.",
+      "C": "Apenas se houver veículos à sua frente."
+    },
+    "correctResponseLetter": "",
+    "correctResponseText": "",
+    "imageUrl": "/images/question_253.png"
+  },
+  {
+    "questionNumber": 254,
+    "questionId": "130096",
+    "page": 54,
+    "group": "Grupo 13220 - 2B Circulação em rotundas",
+    "question": "A velocidade deve ser ajustada:",
+    "options": {
+      "A": "Apenas ao limite máximo permitido.",
+      "B": "Às condições da estrada e do trânsito.",
+      "C": "À vontade do condutor."
+    },
+    "correctResponseLetter": "",
+    "correctResponseText": "",
+    "imageUrl": "/images/question_254.png"
+  },
+  {
+    "questionNumber": 255,
+    "questionId": "130097",
+    "page": 54,
+    "group": "Grupo 13220 - 2B Circulação em rotundas",
+    "question": "Quando o piso está escorregadio, o motorista deve:",
+    "options": {
+      "A": "Travar bruscamente.",
+      "B": "Reduzir a velocidade e evitar manobras bruscas.",
+      "C": "Aumentar a velocidade."
+    },
+    "correctResponseLetter": "",
+    "correctResponseText": "",
+    "imageUrl": "/images/question_255.png"
+  },
+  {
+    "questionNumber": 256,
+    "questionId": "130098",
+    "page": 54,
+    "group": "Grupo 13220 - 2B Circulação em rotundas",
+    "question": "Quando a visibilidade é reduzida, para além de utilizar as luzes, deve:",
+    "options": {
+      "A": "Continuar com a mesma velocidade.",
+      "B": "Parar o veículo.",
+      "C": "Reduzir a velocidade e aumentar a distância para o veículo da frente."
+    },
+    "correctResponseLetter": "",
+    "correctResponseText": "",
+    "imageUrl": "/images/question_256.png"
+  },
+  {
+    "questionNumber": 257,
+    "questionId": "130099",
+    "page": 54,
+    "group": "Grupo 13220 - 2B Circulação em rotundas",
+    "question": "Quando a intensidade do trânsito aumenta, a velocidade deve:",
+    "options": {
+      "A": "Diminuir.",
+      "B": "Aumentar.",
+      "C": "Ser mantida."
+    },
+    "correctResponseLetter": "",
+    "correctResponseText": "",
+    "imageUrl": "/images/question_257.png"
+  },
+  {
+    "questionNumber": 258,
+    "questionId": "130100",
+    "page": 55,
+    "group": "Grupo 13230 - 2C Velocidade",
+    "question": "Ao circular neste local, o motorista deve:",
+    "options": {
+      "A": "Manter a velocidade sem preocupações.",
+      "B": "Aumentar um pouco a velocidade para evitar parar.",
+      "C": "Moderar a velocidade e parar se necessário."
+    },
+    "correctResponseLetter": "",
+    "correctResponseText": "",
+    "imageUrl": "/images/question_258.png"
+  },
+  {
+    "questionNumber": 259,
+    "questionId": "130101",
+    "page": 55,
+    "group": "Grupo 13230 - 2C Velocidade",
+    "question": "Qual a velocidade máxima permitida a um automóvel ligeiro, dentro de uma localidade?",
+    "options": {
+      "A": "50 km/h",
+      "B": "60 km/h",
+      "C": "90 km/h"
+    },
+    "correctResponseLetter": "",
+    "correctResponseText": "",
+    "imageUrl": "/images/question_259.png"
+  },
+  {
+    "questionNumber": 260,
+    "questionId": "130102",
+    "page": 55,
+    "group": "Grupo 13230 - 2C Velocidade",
+    "question": "Neste local, posso transitar a 50 Km/h?",
+    "options": {
+      "A": "Não, porque a sinalização vertical o proíbe.",
+      "B": "Sim, porque dentro das localidades esta é a velocidade mínima obrigatória.",
+      "C": "Sim, porque o pavimento está em boas condições."
+    },
+    "correctResponseLetter": "",
+    "correctResponseText": "",
+    "imageUrl": "/images/question_260.png"
+  },
+  {
+    "questionNumber": 261,
+    "questionId": "130103",
+    "page": 55,
+    "group": "Grupo 13230 - 2C Velocidade",
+    "question": "O que deve fazer perante um sinal de STOP?",
+    "options": {
+      "A": "Parar apenas se vier outro veículo.",
+      "B": "Parar obrigatoriamente antes de avançar.",
+      "C": "Reduzir a velocidade"
+    },
+    "correctResponseLetter": "",
+    "correctResponseText": "",
+    "imageUrl": "/images/question_261.png"
+  },
+  {
+    "questionNumber": 262,
+    "questionId": "130104",
+    "page": 55,
+    "group": "Grupo 13230 - 2C Velocidade",
+    "question": "Os sinais de proibição indicam:",
+    "options": {
+      "A": "Informações úteis.",
+      "B": "Obrigações a cumprir.",
+      "C": "Restrições ou limites."
+    },
+    "correctResponseLetter": "",
+    "correctResponseText": "",
+    "imageUrl": "/images/question_262.png"
+  },
+  {
+    "questionNumber": 263,
+    "questionId": "130105",
+    "page": 56,
+    "group": "Grupo 13240 - 2D Sinalização",
+    "question": "A sinalização existente obriga o motorista a seguir em frente?",
+    "options": {
+      "A": "Sim.",
+      "B": "Não."
+    },
+    "correctResponseLetter": "",
+    "correctResponseText": "",
+    "imageUrl": "/images/question_263.png"
+  },
+  {
+    "questionNumber": 264,
+    "questionId": "130106",
+    "page": 56,
+    "group": "Grupo 13240 - 2D Sinalização",
+    "question": "O sinal indica:",
+    "options": {
+      "A": "Estacionamento autorizado.",
+      "B": "Estacionamento proibido.",
+      "C": "Apenas paragem permitida."
+    },
+    "correctResponseLetter": "",
+    "correctResponseText": "",
+    "imageUrl": "/images/question_264.png"
+  },
+  {
+    "questionNumber": 265,
+    "questionId": "130107",
+    "page": 56,
+    "group": "Grupo 13240 - 2D Sinalização",
+    "question": "O sinal indica:",
+    "options": {
+      "A": "Passagem de peões",
+      "B": "A existência de um túnel.",
+      "C": "Entrada num parque de estacionamento."
+    },
+    "correctResponseLetter": "",
+    "correctResponseText": "",
+    "imageUrl": "/images/question_265.png"
+  },
+  {
+    "questionNumber": 266,
+    "questionId": "130108",
+    "page": 56,
+    "group": "Grupo 13240 - 2D Sinalização",
+    "question": "O sinal com luz amarela está intermitente, pelo que o motorista:",
+    "options": {
+      "A": "Deve parar.",
+      "B": "Deve acelerar.",
+      "C": "Pode passar, mas com cuidado."
+    },
+    "correctResponseLetter": "",
+    "correctResponseText": "",
+    "imageUrl": "/images/question_266.png"
+  },
+  {
+    "questionNumber": 267,
+    "questionId": "130109",
+    "page": 56,
+    "group": "Grupo 13240 - 2D Sinalização",
+    "question": "O que deve respeitar em primeiro lugar?",
+    "options": {
+      "A": "Os sinais luminosos.",
+      "B": "As marcas rodoviárias.",
+      "C": "As ordens da polícia."
+    },
+    "correctResponseLetter": "",
+    "correctResponseText": "",
+    "imageUrl": "/images/question_267.png"
+  },
+  {
+    "questionNumber": 268,
+    "questionId": "130110",
+    "page": 57,
+    "group": "Grupo 13240 - 2D Sinalização",
+    "question": "Os sinais verticais de obrigação são:",
+    "options": {
+      "A": "Circulares com fundo azul.",
+      "B": "Retangulares com fundo verde.",
+      "C": "Triangulares com borda vermelha."
+    },
+    "correctResponseLetter": "",
+    "correctResponseText": "",
+    "imageUrl": "/images/question_268.png"
+  },
+  {
+    "questionNumber": 269,
+    "questionId": "130111",
+    "page": 57,
+    "group": "Grupo 13240 - 2D Sinalização",
+    "question": "O que deve fazer perante este sinal?",
+    "options": {
+      "A": "Ceder a passagem a todos os veículos.",
+      "B": "Avançar em primeiro lugar.",
+      "C": "Manter a velocidade."
+    },
+    "correctResponseLetter": "",
+    "correctResponseText": "",
+    "imageUrl": "/images/question_269.png"
+  },
+  {
+    "questionNumber": 270,
+    "questionId": "130112",
+    "page": 57,
+    "group": "Grupo 13240 - 2D Sinalização",
+    "question": "Quem deve avançar primeiro num cruzamento sem sinalização",
+    "options": {
+      "A": "O veículo mais rápido.",
+      "B": "O veículo que circula pela esquerda",
+      "C": "O veículo que circula pela direita."
+    },
+    "correctResponseLetter": "",
+    "correctResponseText": "",
+    "imageUrl": "/images/question_270.png"
+  },
+  {
+    "questionNumber": 271,
+    "questionId": "130113",
+    "page": 57,
+    "group": "Grupo 13240 - 2D Sinalização",
+    "question": "Quando um peão atravessa numa passagem para peões, o motorista deve:",
+    "options": {
+      "A": "Reduzir a velocidade, mas continuar.",
+      "B": "Acelerar para passar antes do peão",
+      "C": "Parar e deixar o peão atravessar."
+    },
+    "correctResponseLetter": "",
+    "correctResponseText": "",
+    "imageUrl": "/images/question_271.png"
+  },
+  {
+    "questionNumber": 272,
+    "questionId": "130114",
+    "page": 57,
+    "group": "Grupo 13240 - 2D Sinalização",
+    "question": "O que o motorista deve fazer ao sair de um caminho particular?",
+    "options": {
+      "A": "Ceder a passagem a todos os veículos e peões na via pública.",
+      "B": "Avançar sem ceder passagem."
+    },
+    "correctResponseLetter": "",
+    "correctResponseText": "",
+    "imageUrl": "/images/question_272.png"
+  },
+  {
+    "questionNumber": 273,
+    "questionId": "130115",
+    "page": 57,
+    "group": "Grupo 13240 - 2D Sinalização",
+    "question": "No próximo entroncamento, o motorista deve ceder a passagem?",
+    "options": {
+      "A": "Sim.",
+      "B": "Não."
+    },
+    "correctResponseLetter": "",
+    "correctResponseText": "",
+    "imageUrl": "/images/question_273.png"
+  },
+  {
+    "questionNumber": 274,
+    "questionId": "130116",
+    "page": 58,
+    "group": "Grupo 13250 - 2E Cedência de passagem",
+    "question": "Perante este sinal, o motorista deve:",
+    "options": {
+      "A": "Avançar em primeiro lugar.",
+      "B": "Ceder a passagem."
+    },
+    "correctResponseLetter": "",
+    "correctResponseText": "",
+    "imageUrl": "/images/question_274.png"
+  },
+  {
+    "questionNumber": 275,
+    "questionId": "130117",
+    "page": 58,
+    "group": "Grupo 13250 - 2E Cedência de passagem",
+    "question": "Qualquer veículo que saia de uma passagem de nível deve:",
+    "options": {
+      "A": "Passar antes dos outros.",
+      "B": "Deixar os outros passarem primeiro.",
+      "C": "Parar em cima da passagem de nível."
+    },
+    "correctResponseLetter": "",
+    "correctResponseText": "",
+    "imageUrl": "/images/question_275.png"
+  },
+  {
+    "questionNumber": 276,
+    "questionId": "130118",
+    "page": 58,
+    "group": "Grupo 13250 - 2E Cedência de passagem",
+    "question": "Ao encontrar este sinal, como deve proceder?",
+    "options": {
+      "A": "Ceder a passagem a todos os veículos que circulem na via em que vai entrar.",
+      "B": "Ceder a passagem apenas aos veículos vindos da direita.",
+      "C": "Ceder a passagem apenas aos veículos vindos da esquerda."
+    },
+    "correctResponseLetter": "",
+    "correctResponseText": "",
+    "imageUrl": "/images/question_276.png"
+  },
+  {
+    "questionNumber": 277,
+    "questionId": "130119",
+    "page": 58,
+    "group": "Grupo 13250 - 2E Cedência de passagem",
+    "question": "Uma condução defensiva é:",
+    "options": {
+      "A": "Estar atento aos outros condutores, antecipando situações de risco.",
+      "B": "Conduzir sempre a alta velocidade."
+    },
+    "correctResponseLetter": "",
+    "correctResponseText": "",
+    "imageUrl": "/images/question_277.png"
+  },
+  {
+    "questionNumber": 278,
+    "questionId": "130120",
+    "page": 58,
+    "group": "Grupo 13250 - 2E Cedência de passagem",
+    "question": "Ao conduzir à noite, o motorista deve:",
+    "options": {
+      "A": "Reduzir a velocidade apenas nas curvas.",
+      "B": "Manter os máximos ligados em todas as situações.",
+      "C": "Ver e ser visto, usando corretamente as luzes."
+    },
+    "correctResponseLetter": "",
+    "correctResponseText": "",
+    "imageUrl": "/images/question_278.png"
+  },
+  {
+    "questionNumber": 279,
+    "questionId": "130121",
+    "page": 58,
+    "group": "Grupo 13250 - 2E Cedência de passagem",
+    "question": "O que deve fazer em condições de nevoeiro?",
+    "options": {
+      "A": "Usar as luzes de nevoeiro e ajustar a velocidade.",
+      "B": "Aumentar a velocidade para sair da área com nevoeiro.",
+      "C": "Manter as luzes desligadas para economizar energia."
+    },
+    "correctResponseLetter": "",
+    "correctResponseText": "",
+    "imageUrl": "/images/question_279.png"
+  },
+  {
+    "questionNumber": 280,
+    "questionId": "130122",
+    "page": 59,
+    "group": "Grupo 13300 - Técnicas de condução",
+    "question": "O que significa ´manter a distância de segurança´?",
+    "options": {
+      "A": "Garantir a distância mínima entre veículos, de modo a evitar acidentes.",
+      "B": "Estar muito próximo do veículo da frente."
+    },
+    "correctResponseLetter": "",
+    "correctResponseText": "",
+    "imageUrl": "/images/question_280.png"
+  },
+  {
+    "questionNumber": 281,
+    "questionId": "130123",
+    "page": 59,
+    "group": "Grupo 13300 - Técnicas de condução",
+    "question": "O que significa ´eco condução´?",
+    "options": {
+      "A": "Utilizar apenas veículos elétricos.",
+      "B": "Conduzir de forma eficiente, reduzindo o consumo de combustível e poluição.",
+      "C": "Manter a velocidade máxima para chegar rapidamente ao destino."
+    },
+    "correctResponseLetter": "",
+    "correctResponseText": "",
+    "imageUrl": "/images/question_281.png"
+  },
+  {
+    "questionNumber": 282,
+    "questionId": "130124",
+    "page": 59,
+    "group": "Grupo 13300 - Técnicas de condução",
+    "question": "Como deve proceder ao conduzir com neve ou gelo?",
+    "options": {
+      "A": "Aumentar a velocidade para evitar derrapagens.",
+      "B": "Travar bruscamente.",
+      "C": "Colocar correntes nos pneus e circular devagar."
+    },
+    "correctResponseLetter": "",
+    "correctResponseText": "",
+    "imageUrl": "/images/question_282.png"
+  },
+  {
+    "questionNumber": 283,
+    "questionId": "130125",
+    "page": 59,
+    "group": "Grupo 13300 - Técnicas de condução",
+    "question": "A correta pressão dos pneus contribui para uma condução mais económica.",
+    "options": {
+      "A": "Verdadeiro",
+      "B": "Falso"
+    },
+    "correctResponseLetter": "",
+    "correctResponseText": "",
+    "imageUrl": "/images/question_283.png"
+  },
+  {
+    "questionNumber": 284,
+    "questionId": "130126",
+    "page": 59,
+    "group": "Grupo 13300 - Técnicas de condução",
+    "question": "A condução sob a influência do álcool provoca no condutor a diminuição dos reflexos.",
+    "options": {
+      "A": "Falso",
+      "B": "Verdadeiro"
+    },
+    "correctResponseLetter": "",
+    "correctResponseText": "",
+    "imageUrl": "/images/question_284.png"
+  },
+  {
+    "questionNumber": 285,
+    "questionId": "130127",
+    "page": 59,
+    "group": "Grupo 13300 - Técnicas de condução",
+    "question": "O que deve fazer para diminuir as emissões de poluentes?",
+    "options": {
+      "A": "Conduzir com o motor a altas rotações.",
+      "B": "Fazer a manutenção regular do veículo.",
+      "C": "Andar sempre com o ar condicionado ligado."
+    },
+    "correctResponseLetter": "",
+    "correctResponseText": "",
+    "imageUrl": "/images/question_285.png"
+  },
+  {
+    "questionNumber": 286,
+    "questionId": "130128",
+    "page": 60,
+    "group": "Grupo 13300 - Técnicas de condução",
+    "question": "Um motorista de TVDE pode conduzir com uma taxa de alcoolemia de 0,2 g/l.",
+    "options": {
+      "A": "Sim, se estiver em boas condições físicas.",
+      "B": "Não.",
+      "C": "Sim, porque é um valor permitido."
+    },
+    "correctResponseLetter": "",
+    "correctResponseText": "",
+    "imageUrl": "/images/question_286.png"
+  },
+  {
+    "questionNumber": 287,
+    "questionId": "130129",
+    "page": 60,
+    "group": "Grupo 13300 - Técnicas de condução",
+    "question": "Conduzir com chuva tem como resultado:",
+    "options": {
+      "A": "Maior aderência dos pneus ao piso.",
+      "B": "A redução da visibilidade."
+    },
+    "correctResponseLetter": "",
+    "correctResponseText": "",
+    "imageUrl": "/images/question_287.png"
+  },
+  {
+    "questionNumber": 288,
+    "questionId": "130130",
+    "page": 60,
+    "group": "Grupo 13300 - Técnicas de condução",
+    "question": "O que deve fazer ao conduzir em zonas de vento forte?",
+    "options": {
+      "A": "Virar o volante no sentido contrário ao do vento.",
+      "B": "Aumentar a velocidade para atravessar a zona rapidamente.",
+      "C": "Reduzir a velocidade e manter firme o controlo do volante."
+    },
+    "correctResponseLetter": "",
+    "correctResponseText": "",
+    "imageUrl": "/images/question_288.png"
+  },
+  {
+    "questionNumber": 289,
+    "questionId": "133347",
+    "page": 60,
+    "group": "Grupo 13300 - Técnicas de condução",
+    "question": "A distância de travagem varia com:",
+    "options": {
+      "A": "As condições atmosféricas.",
+      "B": "A largura da via.",
+      "C": "A sinalização vertical existente no local."
+    },
+    "correctResponseLetter": "",
+    "correctResponseText": "",
+    "imageUrl": "/images/question_289.png"
+  },
+  {
+    "questionNumber": 290,
+    "questionId": "130037",
+    "page": 60,
+    "group": "Grupo 13300 - Técnicas de condução",
+    "question": "Qual é o prazo de validade do certificado de motorista TVDE?",
+    "options": {
+      "A": "3 anos",
+      "B": "5 anos",
+      "C": "10 anos"
+    },
+    "correctResponseLetter": "",
+    "correctResponseText": "",
+    "imageUrl": "/images/question_290.png"
+  },
+  {
+    "questionNumber": 291,
+    "questionId": "130039",
+    "page": 61,
+    "group": "Grupo 13400 - Regulamentação da atividade",
+    "question": "Qual é a lotação máxima permitida para veículos utilizados no serviço TVDE?",
+    "options": {
+      "A": "7 lugares, incluindo o motorista",
+      "B": "9 lugares, incluindo o motorista",
+      "C": "12 lugares, incluindo o motorista"
+    },
+    "correctResponseLetter": "",
+    "correctResponseText": "",
+    "imageUrl": "/images/question_291.png"
+  },
+  {
+    "questionNumber": 292,
+    "questionId": "130041",
+    "page": 61,
+    "group": "Grupo 13400 - Regulamentação da atividade",
+    "question": "O que é obrigatório para o transporte de passageiros com mobilidade reduzida?",
+    "options": {
+      "A": "Um veículo com capacidade para transportar cadeiras de rodas",
+      "B": "Um veículo elétrico ou híbrido",
+      "C": "Um motorista com formação adicional"
+    },
+    "correctResponseLetter": "",
+    "correctResponseText": "",
+    "imageUrl": "/images/question_292.png"
+  },
+  {
+    "questionNumber": 293,
+    "questionId": "130051",
+    "page": 61,
+    "group": "Grupo 13400 - Regulamentação da atividade",
+    "question": "O tempo máximo permitido para condução de motoristas TVDE é de 10 horas num período de 24 horas.",
+    "options": {
+      "A": "Verdadeiro",
+      "B": "Falso"
+    },
+    "correctResponseLetter": "",
+    "correctResponseText": "",
+    "imageUrl": "/images/question_293.png"
+  },
+  {
+    "questionNumber": 294,
+    "questionId": "130054",
+    "page": 61,
+    "group": "Grupo 13400 - Regulamentação da atividade",
+    "question": "Os serviços de TVDE podem ser pagos em dinheiro ou cartão de crédito.",
+    "options": {
+      "A": "Verdadeiro",
+      "B": "Falso"
+    },
+    "correctResponseLetter": "",
+    "correctResponseText": "",
+    "imageUrl": "/images/question_294.png"
+  },
+  {
+    "questionNumber": 295,
+    "questionId": "130131",
+    "page": 61,
+    "group": "Grupo 13400 - Regulamentação da atividade",
+    "question": "Qual é a idade máxima permitida para veículos utilizados no serviço TVDE?",
+    "options": {
+      "A": "5 anos",
+      "B": "10 anos.",
+      "C": "7 anos."
+    },
+    "correctResponseLetter": "",
+    "correctResponseText": "",
+    "imageUrl": "/images/question_295.png"
+  },
+  {
+    "questionNumber": 296,
+    "questionId": "130132",
+    "page": 61,
+    "group": "Grupo 13400 - Regulamentação da atividade",
+    "question": "Para se tornar motorista TVDE, tem de ter carta de condução da categoria B há mais de:",
+    "options": {
+      "A": "1 ano.",
+      "B": "2 anos.",
+      "C": "3 anos."
+    },
+    "correctResponseLetter": "",
+    "correctResponseText": "",
+    "imageUrl": "/images/question_296.png"
+  },
+  {
+    "questionNumber": 297,
+    "questionId": "130133",
+    "page": 62,
+    "group": "Grupo 13400 - Regulamentação da atividade",
+    "question": "Os motoristas TVDE podem recolher passageiros diretamente na via pública, sem recurso a plataforma eletrónica?",
+    "options": {
+      "A": "Sim.",
+      "B": "Não."
+    },
+    "correctResponseLetter": "",
+    "correctResponseText": "",
+    "imageUrl": "/images/question_297.png"
+  },
+  {
+    "questionNumber": 298,
+    "questionId": "130134",
+    "page": 62,
+    "group": "Grupo 13400 - Regulamentação da atividade",
+    "question": "Quem é responsável pela fiscalização do cumprimento das normas no serviço TVDE?",
+    "options": {
+      "A": "GNR e IMT",
+      "B": "GNR e PSP",
+      "C": "PSP, GNR e IMT"
+    },
+    "correctResponseLetter": "",
+    "correctResponseText": "",
+    "imageUrl": "/images/question_298.png"
+  },
+  {
+    "questionNumber": 299,
+    "questionId": "130135",
+    "page": 62,
+    "group": "Grupo 13400 - Regulamentação da atividade",
+    "question": "Os motoristas TVDE devem possuir um curso de formação rodoviária inicial de 50 horas para exercerem a atividade.",
+    "options": {
+      "A": "Verdadeiro",
+      "B": "Falso"
+    },
+    "correctResponseLetter": "",
+    "correctResponseText": "",
+    "imageUrl": "/images/question_299.png"
+  },
+  {
+    "questionNumber": 300,
+    "questionId": "130136",
+    "page": 62,
+    "group": "Grupo 13400 - Regulamentação da atividade",
+    "question": "O serviço de TVDE só pode ser contratado através de plataforma eletrónica.",
+    "options": {
+      "A": "Verdadeiro",
+      "B": "Falso"
+    },
+    "correctResponseLetter": "",
+    "correctResponseText": "",
+    "imageUrl": "/images/question_300.png"
+  },
+  {
+    "questionNumber": 301,
+    "questionId": "130137",
+    "page": 62,
+    "group": "Grupo 13400 - Regulamentação da atividade",
+    "question": "Veículos usados no serviço TVDE podem ter matrícula estrangeira, desde que sejam autorizados pelo IMT.",
+    "options": {
+      "A": "Sim.",
+      "B": "Não."
+    },
+    "correctResponseLetter": "",
+    "correctResponseText": "",
+    "imageUrl": "/images/question_301.png"
+  },
+  {
+    "questionNumber": 302,
+    "questionId": "130138",
+    "page": 62,
+    "group": "Grupo 13400 - Regulamentação da atividade",
+    "question": "Um veículo usado no serviço TVDE deve passar por uma inspeção técnica:",
+    "options": {
+      "A": "1 ano após a matrícula e, depois, todos os anos.",
+      "B": "2 anos após a matrícula e, depois, de dois em dois anos.",
+      "C": "No prazo estipulado pelo IMT."
+    },
+    "correctResponseLetter": "",
+    "correctResponseText": "",
+    "imageUrl": "/images/question_302.png"
+  },
+  {
+    "questionNumber": 303,
+    "questionId": "130139",
+    "page": 63,
+    "group": "Grupo 13400 - Regulamentação da atividade",
+    "question": "O tempo de espera para passageiros com mobilidade reduzida deve ser:",
+    "options": {
+      "A": "Superior a 30 minutos",
+      "B": "Superior a 15 minutos.",
+      "C": "Inferior a 15 minutos."
+    },
+    "correctResponseLetter": "",
+    "correctResponseText": "",
+    "imageUrl": "/images/question_303.png"
+  },
+  {
+    "questionNumber": 304,
+    "questionId": "130140",
+    "page": 63,
+    "group": "Grupo 13400 - Regulamentação da atividade",
+    "question": "Os veículos TVDE podem circular nas vias reservadas a transportes públicos:",
+    "options": {
+      "A": "Sim.",
+      "B": "Não."
+    },
+    "correctResponseLetter": "",
+    "correctResponseText": "",
+    "imageUrl": "/images/question_304.png"
+  },
+  {
+    "questionNumber": 320,
+    "questionId": "130141",
+    "page": 63,
+    "group": "Grupo 13400 - Regulamentação da atividade",
+    "question": "A que distância deve colocar o triângulo de pré-sinalização de perigo em caso de avaria?",
+    "options": {
+      "A": "Pelo menos 10 metros.",
+      "B": "Pelo menos 50 metros.",
+      "C": "Pelo menos 30 metros."
+    },
+    "correctResponseLetter": "",
+    "correctResponseText": "",
+    "imageUrl": "/images/question_320.png"
+  },
+  {
+    "questionNumber": 321,
+    "questionId": "130142",
+    "page": 63,
+    "group": "Grupo 13400 - Regulamentação da atividade",
+    "question": "O que deve fazer ao encontrar um acidente com vítimas?",
+    "options": {
+      "A": "Tentar resolver a situação sozinho.",
+      "B": "Garantir a segurança e ligar para o 112.",
+      "C": "Seguir a viagem, sem parar."
+    },
+    "correctResponseLetter": "",
+    "correctResponseText": "",
+    "imageUrl": "/images/question_321.png"
+  },
+  {
+    "questionNumber": 322,
+    "questionId": "130143",
+    "page": 63,
+    "group": "Grupo 13400 - Regulamentação da atividade",
+    "question": "Em que situação deve ligar para o número de emergência 112?",
+    "options": {
+      "A": "Para pedir informações de trânsito.",
+      "B": "Para chamar um reboque.",
+      "C": "Sempre que houver necessidade de assistência urgente."
+    },
+    "correctResponseLetter": "",
+    "correctResponseText": "",
+    "imageUrl": "/images/question_322.png"
+  },
+  {
+    "questionNumber": 323,
+    "questionId": "130144",
+    "page": 64,
+    "group": "Grupo 13500 - Situações de emergência e primeiros socorros",
+    "question": "O que deve informar ao ligar para o 112, em caso de acidente?",
+    "options": {
+      "A": "Apenas o tipo de acidente.",
+      "B": "Localização exata, tipo de acidente e número de vítimas.",
+      "C": "A cor dos veículos envolvidos no acidente."
+    },
+    "correctResponseLetter": "",
+    "correctResponseText": "",
+    "imageUrl": "/images/question_323.png"
+  },
+  {
+    "questionNumber": 324,
+    "questionId": "130145",
+    "page": 64,
+    "group": "Grupo 13500 - Situações de emergência e primeiros socorros",
+    "question": "O que deve fazer se houver um incêndio no motor do veículo?",
+    "options": {
+      "A": "Abrir o capot rapidamente e apagar as chamas com água.",
+      "B": "Usar o extintor e apontar à base das chamas.",
+      "C": "Esperar que o fogo se apague."
+    },
+    "correctResponseLetter": "",
+    "correctResponseText": "",
+    "imageUrl": "/images/question_324.png"
+  },
+  {
+    "questionNumber": 325,
+    "questionId": "130146",
+    "page": 64,
+    "group": "Grupo 13500 - Situações de emergência e primeiros socorros",
+    "question": "O que deve fazer após utilizar um extintor?",
+    "options": {
+      "A": "Recarregá-lo ou substituí-lo por um novo.",
+      "B": "Guardá-lo no veículo, para a próxima utilização."
+    },
+    "correctResponseLetter": "",
+    "correctResponseText": "",
+    "imageUrl": "/images/question_325.png"
+  },
+  {
+    "questionNumber": 326,
+    "questionId": "130147",
+    "page": 64,
+    "group": "Grupo 13500 - Situações de emergência e primeiros socorros",
+    "question": "Quando deve usar o colete retrorrefletor?",
+    "options": {
+      "A": "Sempre que sair do veículo para sinalizar ou reparar.",
+      "B": "Somente em locais com pouca visibilidade.",
+      "C": "Apenas em estradas movimentadas."
+    },
+    "correctResponseLetter": "",
+    "correctResponseText": "",
+    "imageUrl": "/images/question_326.png"
+  },
+  {
+    "questionNumber": 327,
+    "questionId": "130148",
+    "page": 64,
+    "group": "Grupo 13500 - Situações de emergência e primeiros socorros",
+    "question": "No primeiro contacto com uma vitima de um acidente, o que deve fazer primeiro?",
+    "options": {
+      "A": "Verificar se respira e se tem pulsação.",
+      "B": "Retirar a vítima do veículo imediatamente.",
+      "C": "Procurar por ferimentos visíveis."
+    },
+    "correctResponseLetter": "",
+    "correctResponseText": "",
+    "imageUrl": "/images/question_327.png"
+  },
+  {
+    "questionNumber": 328,
+    "questionId": "130149",
+    "page": 65,
+    "group": "Grupo 13500 - Situações de emergência e primeiros socorros",
+    "question": "Em caso de acidente com o seu veículo, deve:",
+    "options": {
+      "A": "Sair rapidamente do veículo sem avisar outros condutores.",
+      "B": "Garantir a segurança no local, sinalizar e ligar para o 112.",
+      "C": "Resolver a situação sozinho, sem pedir ajuda."
+    },
+    "correctResponseLetter": "",
+    "correctResponseText": "",
+    "imageUrl": "/images/question_328.png"
+  },
+  {
+    "questionNumber": 329,
+    "questionId": "130150",
+    "page": 65,
+    "group": "Grupo 13500 - Situações de emergência e primeiros socorros",
+    "question": "Em caso de queimadura deve:",
+    "options": {
+      "A": "Lavar a zona afetada com água quente.",
+      "B": "Furar as bolhas existentes.",
+      "C": "Evitar tocar diretamente na área queimada."
+    },
+    "correctResponseLetter": "",
+    "correctResponseText": "",
+    "imageUrl": "/images/question_329.png"
+  },
+  {
+    "questionNumber": 330,
+    "questionId": "130151",
+    "page": 65,
+    "group": "Grupo 13500 - Situações de emergência e primeiros socorros",
+    "question": "Para sinalizar corretamente o local de um acidente, o motorista deve:",
+    "options": {
+      "A": "Ligar as luzes de perigo, vestir o colete refletor e colocar o triângulo de pré- sinalização de perigo.",
+      "B": "Abandonar o local do acidente."
+    },
+    "correctResponseLetter": "",
+    "correctResponseText": "",
+    "imageUrl": "/images/question_330.png"
+  },
+  {
+    "questionNumber": 331,
+    "questionId": "130152",
+    "page": 65,
+    "group": "Grupo 13500 - Situações de emergência e primeiros socorros",
+    "question": "Os princípios gerais do socorrismo são:",
+    "options": {
+      "A": "Prever, ajudar e socorrer.",
+      "B": "Parar, socorrer e alertar.",
+      "C": "Prevenir, alertar e socorrer ."
+    },
+    "correctResponseLetter": "",
+    "correctResponseText": "",
+    "imageUrl": "/images/question_331.png"
+  }
+]
