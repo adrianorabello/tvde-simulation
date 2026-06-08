@@ -30,7 +30,7 @@ export function Layout({ children, activePage, userName, onChangePage }: LayoutP
           {/* Page title area */}
           <div className="page-title-bar">
             <div className="page-title-bar__left">
-              <h1 className="page-title-bar__title">TVDE Validator</h1>
+              <h1 className="page-title-bar__title">{title}</h1>
               <p className="page-title-bar__subtitle">
                 Pratique e valide as suas respostas do exame TVDE
               </p>
@@ -40,7 +40,7 @@ export function Layout({ children, activePage, userName, onChangePage }: LayoutP
               <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
                 <polyline points="9 18 15 12 9 6" />
               </svg>
-              <span className="page-title-bar__breadcrumb-active">Simulado TVDE</span>
+              <span className="page-title-bar__breadcrumb-active">{title}</span>
             </div>
           </div>
 
