@@ -8,7 +8,9 @@
     "build": "tsc -b && vite build",
     "lint": "eslint .",
     "preview": "vite preview",
-    "format": "prettier --write \"src/**/*.{ts,tsx,css,json}\""
+    "format": "prettier --write \"src/**/*.{ts,tsx,css,json}\"",
+    "update-answers": "node scripts/update_from_xlsx.cjs",
+    "validate-answers": "node scripts/update_from_xlsx.cjs --validate-only"
   },
   "dependencies": {
     "react": "^19.2.6",

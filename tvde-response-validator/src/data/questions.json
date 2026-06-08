@@ -39,8 +39,8 @@
       "B": "É permitido o estacionamento a todos os veículos.",
       "C": "É permitida a paragem, mas não o estacionamento de automóveis."
     },
-    "correctResponseLetter": "C",
-    "correctResponseText": "É permitida a paragem, mas não o estacionamento de automóveis.",
+    "correctResponseLetter": "B",
+    "correctResponseText": "É permitido o estacionamento a todos os veículos.",
     "imageUrl": "/images/question_023.png"
   },
   {
@@ -128,8 +128,8 @@
       "B": "Sim, caso o condutor da frente mude de direcção à esquerda.",
       "C": "Não, em circunstância alguma."
     },
-    "correctResponseLetter": "B",
-    "correctResponseText": "Sim, caso o condutor da frente mude de direcção à esquerda.",
+    "correctResponseLetter": "C",
+    "correctResponseText": "Não, em circunstância alguma.",
     "imageUrl": "/images/question_029.png"
   },
   {
@@ -156,8 +156,8 @@
       "A": "Sim, posso.",
       "B": "Não, a ultrapassagem pela direita é proibida."
     },
-    "correctResponseLetter": "B",
-    "correctResponseText": "Não, a ultrapassagem pela direita é proibida.",
+    "correctResponseLetter": "A",
+    "correctResponseText": "Sim, posso.",
     "imageUrl": "/images/question_031.png"
   },
   {
@@ -186,8 +186,8 @@
       "B": "Sim, desde que o faça pela esquerda e não circulem veículos em sentido contrário.",
       "C": "Não, porque a sinalização existente no local proíbe-me."
     },
-    "correctResponseLetter": "C",
-    "correctResponseText": "Não, porque a sinalização existente no local proíbe-me.",
+    "correctResponseLetter": "B",
+    "correctResponseText": "Sim, desde que o faça pela esquerda e não circulem veículos em sentido contrário.",
     "imageUrl": "/images/question_033.png"
   },
   {
@@ -201,8 +201,8 @@
       "B": "Não, porque é proibido.",
       "C": "Sim, porque existem duas filas de trânsito no mesmo sentido."
     },
-    "correctResponseLetter": "C",
-    "correctResponseText": "Sim, porque existem duas filas de trânsito no mesmo sentido.",
+    "correctResponseLetter": "B",
+    "correctResponseText": "Não, porque é proibido.",
     "imageUrl": "/images/question_034.png"
   },
   {
@@ -230,8 +230,8 @@
       "A": "Certo.",
       "B": "Errado."
     },
-    "correctResponseLetter": "B",
-    "correctResponseText": "Errado.",
+    "correctResponseLetter": "A",
+    "correctResponseText": "Certo.",
     "imageUrl": "/images/question_036.png"
   },
   {
@@ -334,8 +334,8 @@
       "B": "Sim, caso o condutor da frente mude de direção à esquerda.",
       "C": "Não, em circunstância alguma."
     },
-    "correctResponseLetter": "B",
-    "correctResponseText": "Sim, caso o condutor da frente mude de direção à esquerda.",
+    "correctResponseLetter": "C",
+    "correctResponseText": "Não, em circunstância alguma.",
     "imageUrl": "/images/question_043.png"
   },
   {
@@ -566,8 +566,8 @@
       "B": "Não, apenas têm prioridade de passagem sobre os veículos sem motor.",
       "C": "Não, apenas têm prioridade se transitarem em missão urgente de socorro."
     },
-    "correctResponseLetter": "C",
-    "correctResponseText": "Não, apenas têm prioridade se transitarem em missão urgente de socorro.",
+    "correctResponseLetter": "A",
+    "correctResponseText": "Sim, têm sempre prioridade de passagem, mesmo que não transitem em missão urgente de socorro.",
     "imageUrl": "/images/question_059.png"
   },
   {
@@ -596,8 +596,8 @@
       "B": "Avançar em primeiro lugar, porque me apresento pela direita.",
       "C": "Parar obrigatoriamente, porque pretendo entrar na rotunda."
     },
-    "correctResponseLetter": "A",
-    "correctResponseText": "Ceder a passagem ao veículo cinzento.",
+    "correctResponseLetter": "C",
+    "correctResponseText": "Parar obrigatoriamente, porque pretendo entrar na rotunda.",
     "imageUrl": "/images/question_061.png"
   },
   {
@@ -670,8 +670,8 @@
       "B": "Sim, sempre.",
       "C": "Não nunca. Esse comportamento iria originar embaraço para o trânsito."
     },
-    "correctResponseLetter": "A",
-    "correctResponseText": "Sim porque as condições atmosféricas são desfavoráveis.",
+    "correctResponseLetter": "B",
+    "correctResponseText": "Sim, sempre.",
     "imageUrl": "/images/question_066.png"
   },
   {
@@ -685,8 +685,8 @@
       "B": "Não, devido às condições atmosféricas do momento.",
       "C": "Não, porque neste local nunca devo moderar a velocidade."
     },
-    "correctResponseLetter": "A",
-    "correctResponseText": "Sim, neste local é sempre obrigatório moderar a velocidade.",
+    "correctResponseLetter": "B",
+    "correctResponseText": "Não, devido às condições atmosféricas do momento.",
     "imageUrl": "/images/question_067.png"
   },
   {
@@ -745,8 +745,8 @@
       "B": "Aumentar a distância de segurança, adaptando a velocidade.",
       "C": "Diminuir a distância de segurança, moderando a velocidade."
     },
-    "correctResponseLetter": "B",
-    "correctResponseText": "Aumentar a distância de segurança, adaptando a velocidade.",
+    "correctResponseLetter": "C",
+    "correctResponseText": "Diminuir a distância de segurança, moderando a velocidade.",
     "imageUrl": "/images/question_071.png"
   },
   {
@@ -805,8 +805,8 @@
       "B": "A distância de travagem diminui.",
       "C": "A distância de paragem diminui."
     },
-    "correctResponseLetter": "B",
-    "correctResponseText": "A distância de travagem diminui.",
+    "correctResponseLetter": "A",
+    "correctResponseText": "A distância de paragem aumenta.",
     "imageUrl": "/images/question_075.png"
   },
   {
@@ -820,8 +820,8 @@
       "B": "Sim e também devo evitar travagens bruscas.",
       "C": "Sim, apesar de ser mais seguro o travão de estacionamento."
     },
-    "correctResponseLetter": "A",
-    "correctResponseText": "Não, devo utilizar apenas o travão de serviço.",
+    "correctResponseLetter": "B",
+    "correctResponseText": "Sim e também devo evitar travagens bruscas.",
     "imageUrl": "/images/question_076.png"
   },
   {
@@ -939,8 +939,8 @@
       "B": "Sim, sempre.",
       "C": "Não, nunca. Esse comportamento iria originar embaraço para o trânsito."
     },
-    "correctResponseLetter": "B",
-    "correctResponseText": "Sim, sempre.",
+    "correctResponseLetter": "A",
+    "correctResponseText": "Sim, porque as condições atmosféricas são desfavoráveis.",
     "imageUrl": "/images/question_084.png"
   },
   {
@@ -1013,8 +1013,8 @@
       "B": "Cruzamento com via sem prioridade.",
       "C": "Cruzamento com via com prioridade."
     },
-    "correctResponseLetter": "C",
-    "correctResponseText": "Cruzamento com via com prioridade.",
+    "correctResponseLetter": "B",
+    "correctResponseText": "Cruzamento com via sem prioridade.",
     "imageUrl": "/images/question_089.png"
   },
   {
@@ -1133,8 +1133,8 @@
       "B": "Aproxima-se uma curva perigosa à esquerda.",
       "C": "Tenho prioridade de passagem no próximo entroncamento ou cruzamento."
     },
-    "correctResponseLetter": "A",
-    "correctResponseText": "O trânsito apenas se faz num só sentido.",
+    "correctResponseLetter": "B",
+    "correctResponseText": "Aproxima-se uma curva perigosa à esquerda.",
     "imageUrl": "/images/question_097.png"
   },
   {
@@ -1296,8 +1296,8 @@
       "B": "Devo ceder a passagem ao veículo de tracção animal.",
       "C": "Posso avançar, depois de ceder a passagem ao motociclo."
     },
-    "correctResponseLetter": "B",
-    "correctResponseText": "Devo ceder a passagem ao veículo de tracção animal.",
+    "correctResponseLetter": "A",
+    "correctResponseText": "Posso avançar.",
     "imageUrl": "/images/question_108.png"
   },
   {
@@ -1310,8 +1310,8 @@
       "A": "Sim.",
       "B": "Não."
     },
-    "correctResponseLetter": "A",
-    "correctResponseText": "Sim.",
+    "correctResponseLetter": "B",
+    "correctResponseText": "Não.",
     "imageUrl": "/images/question_109.png"
   },
   {
@@ -1339,8 +1339,8 @@
       "A": "Ambulância, veículo pesado, veículo verde e por último o meu veículo.",
       "B": "Ambulância, o meu veículo, o veículo verde e por último o veículo pesado."
     },
-    "correctResponseLetter": "B",
-    "correctResponseText": "Ambulância, o meu veículo, o veículo verde e por último o veículo pesado.",
+    "correctResponseLetter": "A",
+    "correctResponseText": "Ambulância, veículo pesado, veículo verde e por último o meu veículo.",
     "imageUrl": "/images/question_111.png"
   },
   {
@@ -1353,8 +1353,8 @@
       "A": "Não tem que ceder passagem.",
       "B": "Deve ceder passagem."
     },
-    "correctResponseLetter": "B",
-    "correctResponseText": "Deve ceder passagem.",
+    "correctResponseLetter": "A",
+    "correctResponseText": "Não tem que ceder passagem.",
     "imageUrl": "/images/question_112.png"
   },
   {
@@ -1368,8 +1368,8 @@
       "B": "Parar.",
       "C": "Ceder passagem."
     },
-    "correctResponseLetter": "A",
-    "correctResponseText": "Avançar.",
+    "correctResponseLetter": "C",
+    "correctResponseText": "Ceder passagem.",
     "imageUrl": "/images/question_113.png"
   },
   {
@@ -1383,8 +1383,8 @@
       "B": "Devo ceder a passagem só aos veículos a motor.",
       "C": "Posso avançar."
     },
-    "correctResponseLetter": "A",
-    "correctResponseText": "Devo ceder a passagem aos veículos sem motor.",
+    "correctResponseLetter": "B",
+    "correctResponseText": "Devo ceder a passagem só aos veículos a motor.",
     "imageUrl": "/images/question_114.png"
   },
   {
@@ -1457,8 +1457,8 @@
       "B": "Sim, o outro condutor deve ceder-me a passagem.",
       "C": "Sim, porque desço."
     },
-    "correctResponseLetter": "A",
-    "correctResponseText": "Não, devo reduzir a velocidade e ceder a passagem.",
+    "correctResponseLetter": "C",
+    "correctResponseText": "Sim, porque desço.",
     "imageUrl": "/images/question_119.png"
   },
   {
@@ -1487,8 +1487,8 @@
       "B": "Posso prosseguir, pois o condutor da frente tem o dever de me ceder a passagem.",
       "C": "Devo buzinar, para o informar que lhe estou a ceder a passagem."
     },
-    "correctResponseLetter": "C",
-    "correctResponseText": "Devo buzinar, para o informar que lhe estou a ceder a passagem.",
+    "correctResponseLetter": "B",
+    "correctResponseText": "Posso prosseguir, pois o condutor da frente tem o dever de me ceder a passagem.",
     "imageUrl": "/images/question_121.png"
   },
   {
@@ -1502,8 +1502,8 @@
       "B": "Devo ceder a passagem ao veículo da frente, porque vai mudar de direcção.",
       "C": "Posso prosseguir a marcha."
     },
-    "correctResponseLetter": "A",
-    "correctResponseText": "Devo ceder a passagem ao veículo da frente, porque está a dificultar a circulação.",
+    "correctResponseLetter": "C",
+    "correctResponseText": "Posso prosseguir a marcha.",
     "imageUrl": "/images/question_122.png"
   },
   {
@@ -1517,8 +1517,8 @@
       "B": "Depois dos outros dois veículos.",
       "C": "Depois do veículo ligeiro e antes do velocípede."
     },
-    "correctResponseLetter": "A",
-    "correctResponseText": "Antes dos outros dois veículos.",
+    "correctResponseLetter": "B",
+    "correctResponseText": "Depois dos outros dois veículos.",
     "imageUrl": "/images/question_123.png"
   },
   {
@@ -1547,8 +1547,8 @@
       "B": "Passar em primeiro lugar.",
       "C": "Parar."
     },
-    "correctResponseLetter": "A",
-    "correctResponseText": "Ceder a passagem.",
+    "correctResponseLetter": "B",
+    "correctResponseText": "Passar em primeiro lugar.",
     "imageUrl": "/images/question_125.png"
   },
   {
@@ -1562,8 +1562,8 @@
       "B": "Devo ceder a passagem ao veículo de tração animal.",
       "C": "Posso avançar, depois de ceder a passagem ao motociclo."
     },
-    "correctResponseLetter": "B",
-    "correctResponseText": "Devo ceder a passagem ao veículo de tração animal.",
+    "correctResponseLetter": "A",
+    "correctResponseText": "Posso avançar.",
     "imageUrl": "/images/question_126.png"
   },
   {
@@ -1578,8 +1578,8 @@
       "C": "Evitar usar o ar condicionado do veículo, especialmente em percursos curtos.",
       "D": "As afirmações de R:1 e R:3 estão corretas."
     },
-    "correctResponseLetter": "A",
-    "correctResponseText": "Evitar colocar muita bagagem no porta bagagens.",
+    "correctResponseLetter": "D",
+    "correctResponseText": "As afirmações de R:1 e R:3 estão corretas.",
     "imageUrl": "/images/question_127.png"
   },
   {
@@ -1594,8 +1594,8 @@
       "C": "Conduzir com o veículo desembraiado nas descidas ingremes.",
       "D": "As afirmações de R:1 e R:2 estão corretas."
     },
-    "correctResponseLetter": "C",
-    "correctResponseText": "Conduzir com o veículo desembraiado nas descidas ingremes.",
+    "correctResponseLetter": "D",
+    "correctResponseText": "As afirmações de R:1 e R:2 estão corretas.",
     "imageUrl": "/images/question_128.png"
   },
   {
@@ -1624,8 +1624,8 @@
       "B": "Leva a um aumento significativo do número de veículos em circulação.",
       "C": "Contribui para o aumento do uso de energias renováveis no uso dos transportes rodoviários."
     },
-    "correctResponseLetter": "B",
-    "correctResponseText": "Leva a um aumento significativo do número de veículos em circulação.",
+    "correctResponseLetter": "C",
+    "correctResponseText": "Contribui para o aumento do uso de energias renováveis no uso dos transportes rodoviários.",
     "imageUrl": "/images/question_130.png"
   },
   {
@@ -1730,8 +1730,8 @@
       "B": "Utilizar uma rotação do motor alta, engrenando mudanças mais baixas.",
       "C": "Utilizar uma rotação do motor baixa, engrenando mudanças mais altas."
     },
-    "correctResponseLetter": "C",
-    "correctResponseText": "Utilizar uma rotação do motor baixa, engrenando mudanças mais altas.",
+    "correctResponseLetter": "A",
+    "correctResponseText": "Utilizar uma rotação constante do motor, engrenando a mudança adequada a esta rotação.",
     "imageUrl": "/images/question_137.png"
   },
   {
@@ -2252,8 +2252,8 @@
       "A": "Falso",
       "B": "Verdadeiro"
     },
-    "correctResponseLetter": "A",
-    "correctResponseText": "Falso",
+    "correctResponseLetter": "B",
+    "correctResponseText": "Verdadeiro",
     "imageUrl": "/images/question_172.png"
   },
   {
@@ -2294,8 +2294,8 @@
       "A": "Falso",
       "B": "Verdadeiro"
     },
-    "correctResponseLetter": "B",
-    "correctResponseText": "Verdadeiro",
+    "correctResponseLetter": "A",
+    "correctResponseText": "Falso",
     "imageUrl": "/images/question_175.png"
   },
   {
@@ -2308,8 +2308,8 @@
       "A": "Falso",
       "B": "Verdadeiro"
     },
-    "correctResponseLetter": "B",
-    "correctResponseText": "Verdadeiro",
+    "correctResponseLetter": "A",
+    "correctResponseText": "Falso",
     "imageUrl": "/images/question_176.png"
   },
   {
@@ -2350,8 +2350,8 @@
       "A": "Verdadeiro",
       "B": "Falso"
     },
-    "correctResponseLetter": "B",
-    "correctResponseText": "Falso",
+    "correctResponseLetter": "A",
+    "correctResponseText": "Verdadeiro",
     "imageUrl": "/images/question_179.png"
   },
   {
@@ -2366,8 +2366,8 @@
       "C": "Parar o motor do veículo, sinalizar o veículo e alertar as autoridades",
       "D": "Nenhuma das respostas anteriores está correta"
     },
-    "correctResponseLetter": "C",
-    "correctResponseText": "Parar o motor do veículo, sinalizar o veículo e alertar as autoridades",
+    "correctResponseLetter": "A",
+    "correctResponseText": "Sinalizar o veículo, alertar as autoridades e parar o motor do veículo",
     "imageUrl": "/images/question_180.png"
   },
   {
@@ -2382,8 +2382,8 @@
       "C": "Provocada por uma fonte de energia",
       "D": "Que ocorre em determinados materiais provocado pelo aumento da temperatura"
     },
-    "correctResponseLetter": "A",
-    "correctResponseText": "Que ocorre num determinado local, sempre que o calor seja em excesso",
+    "correctResponseLetter": "B",
+    "correctResponseText": "Entre o combustível e o oxigénio do ar (comburente), face a uma fonte de calor",
     "imageUrl": "/images/question_181.png"
   },
   {
@@ -2414,8 +2414,8 @@
       "C": "Prevenir a infecção",
       "D": "Todas as respostas anteriores estão corretas"
     },
-    "correctResponseLetter": "A",
-    "correctResponseText": "Aliviar a dor",
+    "correctResponseLetter": "D",
+    "correctResponseText": "Todas as respostas anteriores estão corretas",
     "imageUrl": "/images/question_183.png"
   },
   {
@@ -2430,8 +2430,8 @@
       "C": "Deve garantir a evacuação dos ocupantes do&nbsp;veículo para uma zona segura",
       "D": "Todas as respostas anteriores estão corretas"
     },
-    "correctResponseLetter": "B",
-    "correctResponseText": "Não deve parar, excepto se o incêndio for no motor",
+    "correctResponseLetter": "C",
+    "correctResponseText": "Deve garantir a evacuação dos ocupantes do&nbsp;veículo para uma zona segura",
     "imageUrl": "/images/question_184.png"
   },
   {
@@ -2446,8 +2446,8 @@
       "C": "Os atos do motorista devem basear-se em evitar sempre o confronto",
       "D": "O motorista deve reagir violentamente e se possível imobilizar o agressor"
     },
-    "correctResponseLetter": "A",
-    "correctResponseText": "Não deve ser contatada a autoridade para evitar problemas",
+    "correctResponseLetter": "C",
+    "correctResponseText": "Os atos do motorista devem basear-se em evitar sempre o confronto",
     "imageUrl": "/images/question_185.png"
   },
   {
@@ -2462,8 +2462,8 @@
       "C": "Descrever correctamente qual a situação e responder às perguntas que a central de emergência faz",
       "D": "Não desligar a ignição dos veículos acidentados"
     },
-    "correctResponseLetter": "B",
-    "correctResponseText": "Manter a calma",
+    "correctResponseLetter": "D",
+    "correctResponseText": "Não desligar a ignição dos veículos acidentados",
     "imageUrl": "/images/question_186.png"
   },
   {
@@ -2478,8 +2478,8 @@
       "C": "Efetuar uma rápida avaliação da vítima",
       "D": "Abandonar o local"
     },
-    "correctResponseLetter": "A",
-    "correctResponseText": "Manter a calma",
+    "correctResponseLetter": "D",
+    "correctResponseText": "Abandonar o local",
     "imageUrl": "/images/question_187.png"
   },
   {
@@ -2494,8 +2494,8 @@
       "C": "Chamar socorro",
       "D": "Manter o veículo em funcionamento"
     },
-    "correctResponseLetter": "C",
-    "correctResponseText": "Chamar socorro",
+    "correctResponseLetter": "D",
+    "correctResponseText": "Manter o veículo em funcionamento",
     "imageUrl": "/images/question_188.png"
   },
   {
@@ -2510,8 +2510,8 @@
       "C": "Saber identificar potencias agressores perante a autoridade",
       "D": "Tentar prever potenciais situações de conflito e identificar potenciais agressores, assim como controlar as emoções e tomar decisões"
     },
-    "correctResponseLetter": "B",
-    "correctResponseText": "Saber controlar as emoções e tomar decisões",
+    "correctResponseLetter": "D",
+    "correctResponseText": "Tentar prever potenciais situações de conflito e identificar potenciais agressores, assim como controlar as emoções e tomar decisões",
     "imageUrl": "/images/question_189.png"
   },
   {
@@ -2526,8 +2526,8 @@
       "C": "Parar o motor do veículo, sinalizar o veículo e alertar as autoridades",
       "D": "Nenhuma das respostas anteriores está correcta"
     },
-    "correctResponseLetter": "A",
-    "correctResponseText": "Sinalizar o veículo, alertar as autoridades e parar o motor do veículo",
+    "correctResponseLetter": "C",
+    "correctResponseText": "Parar o motor do veículo, sinalizar o veículo e alertar as autoridades",
     "imageUrl": "/images/question_190.png"
   },
   {
@@ -2541,8 +2541,8 @@
       "B": "112",
       "C": "116"
     },
-    "correctResponseLetter": "C",
-    "correctResponseText": "116",
+    "correctResponseLetter": "B",
+    "correctResponseText": "112",
     "imageUrl": "/images/question_191.png"
   },
   {
@@ -2573,8 +2573,8 @@
       "C": "Promover a recuperação",
       "D": "Todas as respostas anteriores estão correctas"
     },
-    "correctResponseLetter": "B",
-    "correctResponseText": "Prevenir o aparecimento de novas lesões",
+    "correctResponseLetter": "D",
+    "correctResponseText": "Todas as respostas anteriores estão correctas",
     "imageUrl": "/images/question_193.png"
   },
   {
@@ -2589,8 +2589,8 @@
       "C": "30 compressões para 2 insuflações (30:2)",
       "D": "10 compressões para 1 insuflação (10:1)"
     },
-    "correctResponseLetter": "A",
-    "correctResponseText": "15 compressões para 3 insuflações (15:3)",
+    "correctResponseLetter": "C",
+    "correctResponseText": "30 compressões para 2 insuflações (30:2)",
     "imageUrl": "/images/question_194.png"
   },
   {
@@ -2605,8 +2605,8 @@
       "C": "Crianças com mais de 1 ano",
       "D": "Idosos com mais de 70 anos"
     },
-    "correctResponseLetter": "C",
-    "correctResponseText": "Crianças com mais de 1 ano",
+    "correctResponseLetter": "A",
+    "correctResponseText": "Mulheres grávidas",
     "imageUrl": "/images/question_195.png"
   },
   {
@@ -2620,8 +2620,8 @@
       "B": "Deve ser provocada nas vítimas que não respiram",
       "C": "Não é necessário confirmar regularmente a eficácia da respiração para provocar a posição referida"
     },
-    "correctResponseLetter": "B",
-    "correctResponseText": "Deve ser provocada nas vítimas que não respiram",
+    "correctResponseLetter": "A",
+    "correctResponseText": "Deve ser provocada nas vítimas que respiram normalmente",
     "imageUrl": "/images/question_196.png"
   },
   {
@@ -2636,8 +2636,8 @@
       "C": "Furar as bolhas existentes",
       "D": "Colocar sobre a lesão soluções ou pomadas"
     },
-    "correctResponseLetter": "A",
-    "correctResponseText": "Lavar o local com água quente durante aproximadamente 15 minutos",
+    "correctResponseLetter": "B",
+    "correctResponseText": "Não tocar na lesão",
     "imageUrl": "/images/question_197.png"
   },
   {
@@ -2668,8 +2668,8 @@
       "C": "Avaliação em primeiro lugar da existência de pulsação.",
       "D": "Avaliação em primeiro lugar do estado de consciência da vítima"
     },
-    "correctResponseLetter": "A",
-    "correctResponseText": "Observação do diâmetro das pupilas, da coloração, temperatura e grau de humidade da pele.",
+    "correctResponseLetter": "D",
+    "correctResponseText": "Avaliação em primeiro lugar do estado de consciência da vítima",
     "imageUrl": "/images/question_199.png"
   },
   {
@@ -2700,8 +2700,8 @@
       "C": "Socorrer e ligar 112",
       "D": "Prevenir, alertar e socorrer"
     },
-    "correctResponseLetter": "A",
-    "correctResponseText": "Prever, ajudar e socorrer",
+    "correctResponseLetter": "D",
+    "correctResponseText": "Prevenir, alertar e socorrer",
     "imageUrl": "/images/question_201.png"
   },
   {
@@ -2748,8 +2748,8 @@
       "C": "Desobstruir as vias aéreas, fazer a extensão da cabeça, pedir ajuda e verificar se está a respirar",
       "D": "Colocar em decúbito dorsal"
     },
-    "correctResponseLetter": "A",
-    "correctResponseText": "Colocar de imediato em posição lateral de segurança",
+    "correctResponseLetter": "C",
+    "correctResponseText": "Desobstruir as vias aéreas, fazer a extensão da cabeça, pedir ajuda e verificar se está a respirar",
     "imageUrl": "/images/question_204.png"
   },
   {
@@ -2764,8 +2764,8 @@
       "C": "O topo das chamas",
       "D": "O topo e o meio das chamas alternadamente"
     },
-    "correctResponseLetter": "B",
-    "correctResponseText": "O meio das chamas",
+    "correctResponseLetter": "A",
+    "correctResponseText": "A base das chamas",
     "imageUrl": "/images/question_205.png"
   },
   {
@@ -2775,7 +2775,7 @@
     "group": "Grupo 13050 - Disabled:13500~Situações de emergência e primeiros socorros",
     "question": "Numa situação de epistaxis (hemorragia pelo nariz), o socorrista deve:",
     "options": {},
-    "correctResponseLetter": "",
+    "correctResponseLetter": "A",
     "correctResponseText": "",
     "imageUrl": "/images/question_206.png"
   },
@@ -2807,8 +2807,8 @@
       "C": "Fornecer o número de telefone de onde se está a efectuar o pedido de socorro",
       "D": "Devem ser referidas todas as informações anteriores"
     },
-    "correctResponseLetter": "C",
-    "correctResponseText": "Fornecer o número de telefone de onde se está a efectuar o pedido de socorro",
+    "correctResponseLetter": "A",
+    "correctResponseText": "Indicar o local da ocorrência",
     "imageUrl": "/images/question_208.png"
   },
   {
@@ -2823,8 +2823,8 @@
       "C": "Deve-se esperar durante 10 segundos para ver se a vítima respira ou não",
       "D": "Nenhuma das respostas anteriores está correcta"
     },
-    "correctResponseLetter": "A",
-    "correctResponseText": "Não se deve fazer nada até que a vítima responda",
+    "correctResponseLetter": "C",
+    "correctResponseText": "Deve-se esperar durante 10 segundos para ver se a vítima respira ou não",
     "imageUrl": "/images/question_209.png"
   },
   {
@@ -2839,8 +2839,8 @@
       "C": "Deve-se ligar imediatamente 112 e não fazer nada",
       "D": "Uma hemorragia não é grave e por isso não é necessário fazer nada"
     },
-    "correctResponseLetter": "B",
-    "correctResponseText": "Deve-se aplicar sempre um garrote",
+    "correctResponseLetter": "A",
+    "correctResponseText": "O melhor método é fazer compressão directa",
     "imageUrl": "/images/question_210.png"
   },
   {
@@ -2855,8 +2855,8 @@
       "C": "Prevenir a infecção",
       "D": "Todas as respostas anteriores estão correctas"
     },
-    "correctResponseLetter": "C",
-    "correctResponseText": "Prevenir a infecção",
+    "correctResponseLetter": "D",
+    "correctResponseText": "Todas as respostas anteriores estão correctas",
     "imageUrl": "/images/question_211.png"
   },
   {
@@ -3041,8 +3041,8 @@
       "A": "Verdadeiro",
       "B": "Falso"
     },
-    "correctResponseLetter": "A",
-    "correctResponseText": "Verdadeiro",
+    "correctResponseLetter": "",
+    "correctResponseText": "",
     "imageUrl": "/images/question_223.png"
   },
   {
@@ -3086,8 +3086,8 @@
       "B": "Algo que dificulta a compreensão da mensagem.",
       "C": "O som do rádio."
     },
-    "correctResponseLetter": "A",
-    "correctResponseText": "Uma conversa entre duas pessoas.",
+    "correctResponseLetter": "B",
+    "correctResponseText": "Algo que dificulta a compreensão da mensagem.",
     "imageUrl": "/images/question_226.png"
   },
   {
@@ -3101,8 +3101,8 @@
       "B": "Falar ou escrever para transmitir uma mensagem.",
       "C": "Ficar em silêncio."
     },
-    "correctResponseLetter": "C",
-    "correctResponseText": "Ficar em silêncio.",
+    "correctResponseLetter": "B",
+    "correctResponseText": "Falar ou escrever para transmitir uma mensagem.",
     "imageUrl": "/images/question_227.png"
   },
   {
@@ -3115,8 +3115,8 @@
       "A": "Verdadeiro",
       "B": "Falso"
     },
-    "correctResponseLetter": "B",
-    "correctResponseText": "Falso",
+    "correctResponseLetter": "",
+    "correctResponseText": "",
     "imageUrl": "/images/question_228.png"
   },
   {
@@ -3145,8 +3145,8 @@
       "B": "Quando a mensagem é compreendida.",
       "C": "Quando ninguém responde."
     },
-    "correctResponseLetter": "C",
-    "correctResponseText": "Quando ninguém responde.",
+    "correctResponseLetter": "B",
+    "correctResponseText": "Quando a mensagem é compreendida.",
     "imageUrl": "/images/question_230.png"
   },
   {
@@ -3160,8 +3160,8 @@
       "B": "Ao início de uma conversa.",
       "C": "À forma como utilizamos o tom de voz."
     },
-    "correctResponseLetter": "B",
-    "correctResponseText": "Ao início de uma conversa.",
+    "correctResponseLetter": "A",
+    "correctResponseText": "À resposta ou reação da pessoa à mensagem.",
     "imageUrl": "/images/question_231.png"
   },
   {
@@ -3175,8 +3175,8 @@
       "B": "Ignora os pedidos dos passageiros.",
       "C": "É educado, respeita os passageiros e atende às suas necessidades."
     },
-    "correctResponseLetter": "A",
-    "correctResponseText": "É apressado e impaciente durante a condução.",
+    "correctResponseLetter": "C",
+    "correctResponseText": "É educado, respeita os passageiros e atende às suas necessidades.",
     "imageUrl": "/images/question_232.png"
   },
   {
@@ -3219,8 +3219,8 @@
       "B": "Quando o veículo da frente sinaliza que vai virar à esquerda.",
       "C": "Em qualquer situação"
     },
-    "correctResponseLetter": "A",
-    "correctResponseText": "Quando o veículo da frente circula lentamente.",
+    "correctResponseLetter": "B",
+    "correctResponseText": "Quando o veículo da frente sinaliza que vai virar à esquerda.",
     "imageUrl": "/images/question_235.png"
   },
   {
@@ -3234,8 +3234,8 @@
       "B": "Aumentar a velocidade.",
       "C": "Aproximar-se ao máximo do veículo da frente."
     },
-    "correctResponseLetter": "C",
-    "correctResponseText": "Aproximar-se ao máximo do veículo da frente.",
+    "correctResponseLetter": "A",
+    "correctResponseText": "Verificar se há espaço suficiente e visibilidade.",
     "imageUrl": "/images/question_236.png"
   },
   {
@@ -3264,8 +3264,8 @@
       "B": "Logo após concluir a manobra.",
       "C": "Assim que o veículo ultrapassado fique visível no retrovisor."
     },
-    "correctResponseLetter": "A",
-    "correctResponseText": "Após aumentar a velocidade.",
+    "correctResponseLetter": "C",
+    "correctResponseText": "Assim que o veículo ultrapassado fique visível no retrovisor.",
     "imageUrl": "/images/question_238.png"
   },
   {
@@ -3279,8 +3279,8 @@
       "B": "Quando o veículo é lento.",
       "C": "Em autoestradas."
     },
-    "correctResponseLetter": "C",
-    "correctResponseText": "Em autoestradas.",
+    "correctResponseLetter": "A",
+    "correctResponseText": "Em lombas ou cruzamentos sem visibilidade.",
     "imageUrl": "/images/question_239.png"
   },
   {
@@ -3294,8 +3294,8 @@
       "B": "Sim, de 1 metro",
       "C": "Não."
     },
-    "correctResponseLetter": "B",
-    "correctResponseText": "Sim, de 1 metro",
+    "correctResponseLetter": "A",
+    "correctResponseText": "Sim, de 1,5 metros.",
     "imageUrl": "/images/question_240.png"
   },
   {
@@ -3308,8 +3308,8 @@
       "A": "Sim",
       "B": "Não."
     },
-    "correctResponseLetter": "A",
-    "correctResponseText": "Sim",
+    "correctResponseLetter": "",
+    "correctResponseText": "",
     "imageUrl": "/images/question_241.png"
   },
   {
@@ -3351,8 +3351,8 @@
       "A": "Sim.",
       "B": "Não."
     },
-    "correctResponseLetter": "A",
-    "correctResponseText": "Sim.",
+    "correctResponseLetter": "B",
+    "correctResponseText": "Não.",
     "imageUrl": "/images/question_244.png"
   },
   {
@@ -3395,8 +3395,8 @@
       "B": "Avançar em primeiro lugar, porque tem prioridade de passagem.",
       "C": "Ceder passagem aos veículos que já circulam na rotunda."
     },
-    "correctResponseLetter": "A",
-    "correctResponseText": "Reduzir a velocidade e avançar sem parar.",
+    "correctResponseLetter": "C",
+    "correctResponseText": "Ceder passagem aos veículos que já circulam na rotunda.",
     "imageUrl": "/images/question_247.png"
   },
   {
@@ -3410,8 +3410,8 @@
       "B": "Não é necessário sinalizar.",
       "C": "Apenas se houver trânsito intenso."
     },
-    "correctResponseLetter": "C",
-    "correctResponseText": "Apenas se houver trânsito intenso.",
+    "correctResponseLetter": "A",
+    "correctResponseText": "Ao aproximar-se da saída.",
     "imageUrl": "/images/question_248.png"
   },
   {
@@ -3440,8 +3440,8 @@
       "B": "Os veículos em serviço de urgência devem ceder a passagem aos veículos que circulam na rotunda.",
       "C": "Deve ceder a passagem aos veículos em serviço de urgência que entram na rotunda."
     },
-    "correctResponseLetter": "A",
-    "correctResponseText": "Todos os veículos entram ao mesmo tempo.",
+    "correctResponseLetter": "C",
+    "correctResponseText": "Deve ceder a passagem aos veículos em serviço de urgência que entram na rotunda.",
     "imageUrl": "/images/question_250.png"
   },
   {
@@ -3454,8 +3454,8 @@
       "A": "Apenas para sair na primeira saída.",
       "B": "Sempre, independentemente da saída."
     },
-    "correctResponseLetter": "B",
-    "correctResponseText": "Sempre, independentemente da saída.",
+    "correctResponseLetter": "A",
+    "correctResponseText": "Apenas para sair na primeira saída.",
     "imageUrl": "/images/question_251.png"
   },
   {
@@ -3469,8 +3469,8 @@
       "B": "Avançar em primeiro lugar, por se apresentar pela direita.",
       "C": "Parar obrigatoriamente, porque pretendo entrar na rotunda."
     },
-    "correctResponseLetter": "C",
-    "correctResponseText": "Parar obrigatoriamente, porque pretendo entrar na rotunda.",
+    "correctResponseLetter": "A",
+    "correctResponseText": "Ceder a passagem ao veículo cinzento.",
     "imageUrl": "/images/question_252.png"
   },
   {
@@ -3484,8 +3484,8 @@
       "B": "Não, porque a bicicleta circula na rotunda.",
       "C": "Apenas se houver veículos à sua frente."
     },
-    "correctResponseLetter": "A",
-    "correctResponseText": "Sim, porque a bicicleta se apresenta pela esquerda.",
+    "correctResponseLetter": "B",
+    "correctResponseText": "Não, porque a bicicleta circula na rotunda.",
     "imageUrl": "/images/question_253.png"
   },
   {
@@ -3514,8 +3514,8 @@
       "B": "Reduzir a velocidade e evitar manobras bruscas.",
       "C": "Aumentar a velocidade."
     },
-    "correctResponseLetter": "C",
-    "correctResponseText": "Aumentar a velocidade.",
+    "correctResponseLetter": "B",
+    "correctResponseText": "Reduzir a velocidade e evitar manobras bruscas.",
     "imageUrl": "/images/question_255.png"
   },
   {
@@ -3529,8 +3529,8 @@
       "B": "Parar o veículo.",
       "C": "Reduzir a velocidade e aumentar a distância para o veículo da frente."
     },
-    "correctResponseLetter": "A",
-    "correctResponseText": "Continuar com a mesma velocidade.",
+    "correctResponseLetter": "C",
+    "correctResponseText": "Reduzir a velocidade e aumentar a distância para o veículo da frente.",
     "imageUrl": "/images/question_256.png"
   },
   {
@@ -3544,8 +3544,8 @@
       "B": "Aumentar.",
       "C": "Ser mantida."
     },
-    "correctResponseLetter": "B",
-    "correctResponseText": "Aumentar.",
+    "correctResponseLetter": "A",
+    "correctResponseText": "Diminuir.",
     "imageUrl": "/images/question_257.png"
   },
   {
@@ -3589,8 +3589,8 @@
       "B": "Sim, porque dentro das localidades esta é a velocidade mínima obrigatória.",
       "C": "Sim, porque o pavimento está em boas condições."
     },
-    "correctResponseLetter": "B",
-    "correctResponseText": "Sim, porque dentro das localidades esta é a velocidade mínima obrigatória.",
+    "correctResponseLetter": "A",
+    "correctResponseText": "Não, porque a sinalização vertical o proíbe.",
     "imageUrl": "/images/question_260.png"
   },
   {
@@ -3619,8 +3619,8 @@
       "B": "Obrigações a cumprir.",
       "C": "Restrições ou limites."
     },
-    "correctResponseLetter": "A",
-    "correctResponseText": "Informações úteis.",
+    "correctResponseLetter": "C",
+    "correctResponseText": "Restrições ou limites.",
     "imageUrl": "/images/question_262.png"
   },
   {
@@ -3633,8 +3633,8 @@
       "A": "Sim.",
       "B": "Não."
     },
-    "correctResponseLetter": "A",
-    "correctResponseText": "Sim.",
+    "correctResponseLetter": "B",
+    "correctResponseText": "Não.",
     "imageUrl": "/images/question_263.png"
   },
   {
@@ -3648,8 +3648,8 @@
       "B": "Estacionamento proibido.",
       "C": "Apenas paragem permitida."
     },
-    "correctResponseLetter": "B",
-    "correctResponseText": "Estacionamento proibido.",
+    "correctResponseLetter": "A",
+    "correctResponseText": "Estacionamento autorizado.",
     "imageUrl": "/images/question_264.png"
   },
   {
@@ -3663,8 +3663,8 @@
       "B": "A existência de um túnel.",
       "C": "Entrada num parque de estacionamento."
     },
-    "correctResponseLetter": "A",
-    "correctResponseText": "Passagem de peões",
+    "correctResponseLetter": "B",
+    "correctResponseText": "A existência de um túnel.",
     "imageUrl": "/images/question_265.png"
   },
   {
@@ -3781,8 +3781,8 @@
       "A": "Sim.",
       "B": "Não."
     },
-    "correctResponseLetter": "A",
-    "correctResponseText": "Sim.",
+    "correctResponseLetter": "B",
+    "correctResponseText": "Não.",
     "imageUrl": "/images/question_273.png"
   },
   {
@@ -4118,8 +4118,8 @@
       "B": "2 anos.",
       "C": "3 anos."
     },
-    "correctResponseLetter": "C",
-    "correctResponseText": "3 anos.",
+    "correctResponseLetter": "B",
+    "correctResponseText": "2 anos.",
     "imageUrl": "/images/question_296.png"
   },
   {

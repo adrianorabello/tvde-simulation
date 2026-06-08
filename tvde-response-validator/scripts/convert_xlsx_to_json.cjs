@@ -3,7 +3,7 @@ const path = require('path');
 const xlsx = require('xlsx');
 
 // Adjust paths relative to project root
-const INPUT_XLSX = path.resolve(__dirname, '../../tvde_questions_with_images_answer_key.xlsx');
+const INPUT_XLSX = path.resolve(__dirname, '../../tvde_questions_with_images_answer_key_updated.xlsx');
 const OUTPUT_JSON = path.resolve(__dirname, '../src/data/answer_key.json');
 
 function main() {
