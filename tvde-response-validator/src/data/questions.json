@@ -2774,9 +2774,14 @@
     "page": 41,
     "group": "Grupo 13050 - Disabled:13500~Situações de emergência e primeiros socorros",
     "question": "Numa situação de epistaxis (hemorragia pelo nariz), o socorrista deve:",
-    "options": {},
+    "options": {
+      "A": "Colocar a vítima sentada com a cabeça inclinada para a frente e fazer compressão com o polegar e o indicador em pinça apertando as extremidades do nariz",
+      "B": "Colocar a vítima deitada com a cabeça para trás e fazer compressão com o polegar e o indicador em pinça apertando as extremidades do nariz",
+      "C": "Colocar a vítima sentada com a cabeça inclinada para trás e fazer compressão com o polegar e o indicador em pinça apertando as extremidades do nariz",
+      "D": "Colocar a vítima sentada com a cabeça direita e fazer compressão com o polegar e o indicador em pinça apertando as extremidades do nariz"
+    },
     "correctResponseLetter": "A",
-    "correctResponseText": "",
+    "correctResponseText": "Colocar a vítima sentada com a cabeça inclinada para a frente e fazer compressão com o polegar e o indicador em pinça apertando as extremidades do nariz",
     "imageUrl": "/images/question_206.png"
   },
   {
@@ -2871,8 +2876,8 @@
       "C": "Deve garantir a evacuação dos ocupantes do&nbsp;veículo para uma zona segura",
       "D": "Todas as respostas anteriores estão correctas"
     },
-    "correctResponseLetter": "A",
-    "correctResponseText": "Tem de conseguir extinguir o incêndio antes de garantir a evacuação dos ocupantes do veículo",
+    "correctResponseLetter": "C",
+    "correctResponseText": "Deve garantir a evacuação dos ocupantes do&nbsp;veículo para uma zona segura",
     "imageUrl": "/images/question_212.png"
   },
   {
@@ -2887,8 +2892,8 @@
       "C": "Os actos do motorista devem basear-se em evitar sempre o confronto",
       "D": "O motorista deve reagir violentamente e se possível imobilizar o agressor"
     },
-    "correctResponseLetter": "B",
-    "correctResponseText": "Deve adoptar-se uma atitude de confronto",
+    "correctResponseLetter": "C",
+    "correctResponseText": "Os actos do motorista devem basear-se em evitar sempre o confronto",
     "imageUrl": "/images/question_213.png"
   },
   {
@@ -2903,8 +2908,8 @@
       "C": "Descrever correctamente qual a situação e responder às perguntas que a central de emergência faz",
       "D": "Não desligar a ignição dos veículos acidentados"
     },
-    "correctResponseLetter": "C",
-    "correctResponseText": "Descrever correctamente qual a situação e responder às perguntas que a central de emergência faz",
+    "correctResponseLetter": "D",
+    "correctResponseText": "Não desligar a ignição dos veículos acidentados",
     "imageUrl": "/images/question_214.png"
   },
   {
@@ -2919,8 +2924,8 @@
       "C": "Efectuar uma rápida avaliação da vítima",
       "D": "Abandonar o local"
     },
-    "correctResponseLetter": "A",
-    "correctResponseText": "Manter a calma",
+    "correctResponseLetter": "D",
+    "correctResponseText": "Abandonar o local",
     "imageUrl": "/images/question_215.png"
   },
   {
@@ -2930,10 +2935,13 @@
     "group": "Grupo 13050 - Disabled:13500~Situações de emergência e primeiros socorros",
     "question": "Quando ocorre um incêndio num veículo, o motorista deve adoptar certos procedimentos. Das seguintes hipóteses, qual é aquela que não deve ser adoptada:",
     "options": {
-      "A": "Ligar os 4 indicadores de mudança de direcção"
+      "A": "Ligar os 4 indicadores de mudança de direcção",
+      "B": "Encostar à berma",
+      "C": "Chamar socorro",
+      "D": "Manter o veículo em funcionamento"
     },
-    "correctResponseLetter": "A",
-    "correctResponseText": "Ligar os 4 indicadores de mudança de direcção",
+    "correctResponseLetter": "D",
+    "correctResponseText": "Manter o veículo em funcionamento",
     "imageUrl": "/images/question_216.png"
   },
   {
@@ -2948,8 +2956,8 @@
       "C": "Observar mais detalhadamente e em interroga-la",
       "D": "Avaliar somente a circulação e temperatura"
     },
-    "correctResponseLetter": "B",
-    "correctResponseText": "Avaliar somente a ventilação",
+    "correctResponseLetter": "A",
+    "correctResponseText": "Avaliar se a vítima está consciente/inconsciente",
     "imageUrl": "/images/question_217.png"
   },
   {
@@ -2964,8 +2972,8 @@
       "C": "Saber identificar potencias agressores perante a autoridade",
       "D": "Tentar prever potenciais situações de conflito e identificar potenciais agressores, assim como controlar as emoções e tomar decisões"
     },
-    "correctResponseLetter": "A",
-    "correctResponseText": "Tentar prever potenciais situações de conflito e identificar potenciais agressores",
+    "correctResponseLetter": "D",
+    "correctResponseText": "Tentar prever potenciais situações de conflito e identificar potenciais agressores, assim como controlar as emoções e tomar decisões",
     "imageUrl": "/images/question_218.png"
   },
   {
@@ -2980,8 +2988,8 @@
       "C": "Na avaliação em primeiro lugar da existência de pulsação",
       "D": "Na avaliação em primeiro lugar do estado de consciência da vítima"
     },
-    "correctResponseLetter": "C",
-    "correctResponseText": "Na avaliação em primeiro lugar da existência de pulsação",
+    "correctResponseLetter": "D",
+    "correctResponseText": "Na avaliação em primeiro lugar do estado de consciência da vítima",
     "imageUrl": "/images/question_219.png"
   },
   {
@@ -2996,8 +3004,8 @@
       "C": "Alerta, Transporte e Socorro",
       "D": "Detecção Alerta e Pré-socorro"
     },
-    "correctResponseLetter": "B",
-    "correctResponseText": "Detecção, Pré socorro e Transporte",
+    "correctResponseLetter": "D",
+    "correctResponseText": "Detecção Alerta e Pré-socorro",
     "imageUrl": "/images/question_220.png"
   },
   {
@@ -3011,8 +3019,8 @@
       "B": "Utilizar água para lavar os olhos",
       "C": "Dirigir-se à localidade mais próxima para consultar o médico"
     },
-    "correctResponseLetter": "A",
-    "correctResponseText": "Proteger os olhos do sol com recurso a óculos escuros",
+    "correctResponseLetter": "B",
+    "correctResponseText": "Utilizar água para lavar os olhos",
     "imageUrl": "/images/question_221.png"
   },
   {
@@ -3027,8 +3035,8 @@
       "C": "Envolver a vítima com um cobertor ou rolá-la pelo chão",
       "D": "Chamar de imediato o 112"
     },
-    "correctResponseLetter": "B",
-    "correctResponseText": "Apagar o fogo com extintor de pó químico",
+    "correctResponseLetter": "C",
+    "correctResponseText": "Envolver a vítima com um cobertor ou rolá-la pelo chão",
     "imageUrl": "/images/question_222.png"
   },
   {
@@ -3041,8 +3049,8 @@
       "A": "Verdadeiro",
       "B": "Falso"
     },
-    "correctResponseLetter": "",
-    "correctResponseText": "",
+    "correctResponseLetter": "A",
+    "correctResponseText": "Verdadeiro",
     "imageUrl": "/images/question_223.png"
   },
   {
@@ -3115,8 +3123,8 @@
       "A": "Verdadeiro",
       "B": "Falso"
     },
-    "correctResponseLetter": "",
-    "correctResponseText": "",
+    "correctResponseLetter": "A",
+    "correctResponseText": "Verdadeiro",
     "imageUrl": "/images/question_228.png"
   },
   {
@@ -3308,8 +3316,8 @@
       "A": "Sim",
       "B": "Não."
     },
-    "correctResponseLetter": "",
-    "correctResponseText": "",
+    "correctResponseLetter": "A",
+    "correctResponseText": "Sim",
     "imageUrl": "/images/question_241.png"
   },
   {

@@ -14,22 +14,46 @@ import { QuestionCard } from './components/QuestionCard';
 import { ResultSummary } from './components/ResultSummary';
 import { ReviewTable } from './components/ReviewTable';
 import { NameModal } from './components/NameModal';
+import { QuestionsList } from './components/QuestionsList';
+import { ConfirmModal } from './components/ConfirmModal';
+import { DashboardInfo } from './components/DashboardInfo';
 
 const questions: Question[] = questionsData as Question[];
 
 function App() {
   const [userName, setUserName] = useState(() => localStorage.getItem('tvde_username') || '');
   const [activePage, setActivePage] = useState('simulados');
-  const [currentIndex, setCurrentIndex] = useState(0);
+  const [currentIndex, setCurrentIndex] = useState(() => {
+    const params = new URLSearchParams(window.location.search);
+    const q = params.get('q');
+    if (q) {
+      const idx = parseInt(q, 10) - 1;
+      if (idx >= 0 && idx < questions.length) {
+        return idx;
+      }
+    }
+    return 0;
+  });
   const [userAnswers, setUserAnswers] = useState<UserAnswers>(() => {
     return loadAnswers() ?? {};
   });
   const [isFinished, setIsFinished] = useState(false);
+  const [isConfirmModalOpen, setIsConfirmModalOpen] = useState(false);
+  const [isFinishModalOpen, setIsFinishModalOpen] = useState(false);
+  const [searchTerm, setSearchTerm] = useState('');
+  const [showCorrectAnswers, setShowCorrectAnswers] = useState(false);
 
   // Auto-save answers to localStorage on every change
   useEffect(() => {
     saveAnswers(userAnswers);
   }, [userAnswers]);
+
+  // Sync currentIndex to URL
+  useEffect(() => {
+    const url = new URL(window.location.href);
+    url.searchParams.set('q', (currentIndex + 1).toString());
+    window.history.replaceState({}, '', url.toString());
+  }, [currentIndex]);
 
   const handleSaveName = (name: string) => {
     setUserName(name);
@@ -41,6 +65,12 @@ function App() {
     () => calculateResult(questions, userAnswers),
     [userAnswers],
   );
+
+  const filteredQuestions = useMemo(() => {
+    if (!searchTerm.trim()) return questions;
+    const lower = searchTerm.toLowerCase();
+    return questions.filter(q => q.question.toLowerCase().includes(lower));
+  }, [searchTerm]);
 
   const currentQuestion = questions[currentIndex];
   const isFirstQuestion = currentIndex === 0;
@@ -67,24 +97,35 @@ function App() {
   }
 
   function handleFinish() {
+    setIsFinishModalOpen(true);
+  }
+
+  function executeFinish() {
     setIsFinished(true);
+    setIsFinishModalOpen(false);
   }
 
   function handleReset() {
-    const confirmed = window.confirm(
-      'Tem a certeza que deseja recomeçar o teste? Todo o progresso será perdido.',
-    );
-    if (confirmed) {
-      setUserAnswers({});
-      setCurrentIndex(0);
-      setIsFinished(false);
-      clearAnswers();
-    }
+    setIsConfirmModalOpen(true);
+  }
+
+  function executeReset() {
+    setUserAnswers({});
+    setCurrentIndex(0);
+    setIsFinished(false);
+    clearAnswers();
+    setIsConfirmModalOpen(false);
+    setActivePage('simulados');
   }
 
   function handleBackToQuiz() {
     setIsFinished(false);
     setCurrentIndex(0);
+  }
+
+  function handleReviewQuestion(index: number) {
+    setIsFinished(false);
+    setCurrentIndex(index);
   }
 
   // Render placeholder for non-implemented pages
@@ -101,20 +142,110 @@ function App() {
   return (
     <>
       <NameModal isOpen={!userName} onSave={handleSaveName} />
+      <ConfirmModal
+        isOpen={isConfirmModalOpen}
+        title="Reiniciar Teste"
+        message="Tem a certeza que deseja recomeçar o teste? Todo o progresso será perdido."
+        onConfirm={executeReset}
+        onCancel={() => setIsConfirmModalOpen(false)}
+      />
+      <ConfirmModal
+        isOpen={isFinishModalOpen}
+        title="Terminar Teste"
+        message="Tem a certeza que deseja terminar o teste agora? Será reencaminhado para os resultados."
+        onConfirm={executeFinish}
+        onCancel={() => setIsFinishModalOpen(false)}
+      />
       
-      <Layout activePage={activePage} userName={userName} onChangePage={setActivePage}>
+      <Layout 
+        activePage={activePage} 
+        userName={userName} 
+        onChangePage={(page) => {
+          setActivePage(page);
+          if (page !== 'questoes') setSearchTerm('');
+        }}
+        showSearch={activePage === 'questoes'}
+        searchTerm={searchTerm}
+        onSearchChange={setSearchTerm}
+        actions={
+          activePage === 'simulados' && answeredCount > 0 && !isFinished ? (
+            <button
+              type="button"
+              className="btn btn--danger"
+              onClick={handleReset}
+              style={{ padding: '6px 12px', fontSize: '13px' }}
+            >
+              <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
+                <polyline points="1 4 1 10 7 10" /><path d="M3.51 15a9 9 0 1 0 2.13-9.36L1 10" />
+              </svg>
+              Recomeçar Teste
+            </button>
+          ) : activePage === 'questoes' ? (
+            <button
+              type="button"
+              className={`btn ${showCorrectAnswers ? 'btn--secondary' : 'btn--primary'}`}
+              onClick={() => setShowCorrectAnswers(!showCorrectAnswers)}
+              style={{ padding: '6px 12px', fontSize: '13px' }}
+            >
+              <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" style={{ marginRight: '6px' }}>
+                {showCorrectAnswers ? (
+                  <><path d="M1 12s4-8 11-8 11 8 11 8-4 8-11 8-11-8-11-8z" /><line x1="3" y1="3" x2="21" y2="21" /></>
+                ) : (
+                  <><path d="M1 12s4-8 11-8 11 8 11 8-4 8-11 8-11-8-11-8z" /><circle cx="12" cy="12" r="3" /></>
+                )}
+              </svg>
+              {showCorrectAnswers ? 'Ocultar Respostas' : 'Mostrar Respostas'}
+            </button>
+          ) : null
+        }
+      >
         <DashboardCards
           total={questions.length}
           answered={answeredCount}
           result={result}
         />
 
-        {activePage !== 'simulados' ? (
+        {activePage === 'dashboard' ? (
+          <>
+            <div style={{ display: 'flex', gap: '16px', marginTop: '32px' }}>
+              <button
+                type="button"
+                className="btn btn--primary"
+                onClick={() => {
+                  setActivePage('simulados');
+                }}
+                style={{ padding: '12px 24px', fontSize: '16px' }}
+              >
+                <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" style={{ marginRight: '8px' }}>
+                  <polygon points="5 3 19 12 5 21 5 3" />
+                </svg>
+                Retomar teste
+              </button>
+              <button
+                type="button"
+                className="btn btn--danger"
+                onClick={handleReset}
+                style={{ padding: '12px 24px', fontSize: '16px' }}
+              >
+                <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" style={{ marginRight: '8px' }}>
+                  <polyline points="1 4 1 10 7 10" /><path d="M3.51 15a9 9 0 1 0 2.13-9.36L1 10" />
+                </svg>
+                Reiniciar
+              </button>
+            </div>
+          </>
+        ) : activePage === 'informacoes' ? (
+          <DashboardInfo />
+        ) : activePage === 'questoes' ? (
+          <div className="quiz-section">
+             <QuestionsList questions={filteredQuestions} showCorrectAnswers={showCorrectAnswers} />
+          </div>
+        ) : activePage !== 'simulados' ? (
           renderPlaceholder()
         ) : isFinished ? (
           <>
             <ResultSummary result={result} />
-            <ReviewTable questions={questions} userAnswers={userAnswers} />
+            <ReviewTable questions={questions} userAnswers={userAnswers} onReviewQuestion={handleReviewQuestion} />
             <div className="results-actions">
               <button
                 type="button"

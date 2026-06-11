@@ -4,6 +4,7 @@ import { getResultStatus } from '../utils/quiz.utils';
 type ReviewTableProps = {
   questions: Question[];
   userAnswers: UserAnswers;
+  onReviewQuestion: (index: number) => void;
 };
 
 const STATUS_CONFIG: Record<
@@ -32,7 +33,7 @@ const STATUS_CONFIG: Record<
   },
 };
 
-export function ReviewTable({ questions, userAnswers }: ReviewTableProps) {
+export function ReviewTable({ questions, userAnswers, onReviewQuestion }: ReviewTableProps) {
   return (
     <div className="review-table-container">
       <h2 className="review-table-container__title">Revisão de Respostas</h2>
@@ -45,10 +46,11 @@ export function ReviewTable({ questions, userAnswers }: ReviewTableProps) {
               <th scope="col">Sua Resposta</th>
               <th scope="col">Resposta Correta</th>
               <th scope="col">Estado</th>
+              <th scope="col">Ações</th>
             </tr>
           </thead>
           <tbody>
-            {questions.map((question) => {
+            {questions.map((question, index) => {
               const userAnswer = userAnswers[question.questionNumber];
               const status = getResultStatus(question, userAnswer);
               const config = STATUS_CONFIG[status];
@@ -93,6 +95,16 @@ export function ReviewTable({ questions, userAnswers }: ReviewTableProps) {
                       <span aria-hidden="true">{config.icon}</span>
                       {config.label}
                     </span>
+                  </td>
+                  <td>
+                    <button 
+                      type="button" 
+                      className="btn btn--secondary" 
+                      style={{ padding: '4px 8px', fontSize: '12px' }}
+                      onClick={() => onReviewQuestion(index)}
+                    >
+                      Visualizar
+                    </button>
                   </td>
                 </tr>
               );

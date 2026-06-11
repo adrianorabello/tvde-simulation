@@ -1,14 +1,18 @@
 type TopHeaderProps = {
   userName: string;
+  showSearch?: boolean;
+  searchTerm?: string;
+  onSearchChange?: (term: string) => void;
 };
 
-export function TopHeader({ userName }: TopHeaderProps) {
+export function TopHeader({ userName, showSearch, searchTerm = '', onSearchChange }: TopHeaderProps) {
   return (
     <header className="top-header">
       <div className="top-header__left">
-        <div className="top-header__search">
-          <svg
-            className="top-header__search-icon"
+        {showSearch && (
+          <div className="top-header__search">
+            <svg
+              className="top-header__search-icon"
             width="18"
             height="18"
             viewBox="0 0 24 24"
@@ -21,13 +25,16 @@ export function TopHeader({ userName }: TopHeaderProps) {
             <circle cx="11" cy="11" r="8" />
             <line x1="21" y1="21" x2="16.65" y2="16.65" />
           </svg>
-          <input
-            type="text"
-            className="top-header__search-input"
-            placeholder="Pesquisar perguntas..."
-            aria-label="Pesquisar perguntas"
-          />
-        </div>
+            <input
+              type="text"
+              className="top-header__search-input"
+              placeholder="Pesquisar perguntas..."
+              aria-label="Pesquisar perguntas"
+              value={searchTerm}
+              onChange={(e) => onSearchChange?.(e.target.value)}
+            />
+          </div>
+        )}
       </div>
 
       <div className="top-header__right">
