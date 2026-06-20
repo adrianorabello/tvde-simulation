@@ -3,7 +3,7 @@
  * TVDE Answer Key Migration Script
  *
  * Reads the official IMT simulator answer key from
- * `tvde_questions_with_images_answer_key_updated.xlsx`
+ * `tvde_questions_with_images_answer_key_updated_v2.xlsx`
  * and updates `questions.json` and `answer_key.json` accordingly.
  *
  * Usage:
@@ -23,7 +23,7 @@ const xlsx = require('xlsx');
 
 const XLSX_PATH = path.resolve(
   __dirname,
-  '../../tvde_questions_with_images_answer_key_updated.xlsx',
+  '../../tvde_questions_with_images_answer_key_updated_v2.xlsx',
 );
 const QUESTIONS_PATH = path.resolve(__dirname, '../src/data/questions.json');
 const ANSWER_KEY_PATH = path.resolve(__dirname, '../src/data/answer_key.json');
@@ -286,7 +286,7 @@ function main() {
     `> Generated at: ${new Date().toISOString()}`,
   );
   reportLines.push(
-    `> Source: \`tvde_questions_with_images_answer_key_updated.xlsx\``,
+    `> Source: \`tvde_questions_with_images_answer_key_updated_v2.xlsx\``,
   );
   reportLines.push(
     `> Mode: ${VALIDATE_ONLY ? 'Validate Only (dry run)' : 'Full Update'}`,

@@ -3,7 +3,7 @@
  *
  * This file previously contained an AI-inferred answer key for TVDE exam
  * questions. The answer key has been replaced by the official IMT simulator
- * results imported from `tvde_questions_with_images_answer_key_updated.xlsx`.
+ * results imported from `tvde_questions_with_images_answer_key_updated_v2.xlsx`.
  *
  * To update answers, run:
  *   node scripts/update_from_xlsx.cjs

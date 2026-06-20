@@ -1353,8 +1353,8 @@
       "A": "Não tem que ceder passagem.",
       "B": "Deve ceder passagem."
     },
-    "correctResponseLetter": "A",
-    "correctResponseText": "Não tem que ceder passagem.",
+    "correctResponseLetter": "B",
+    "correctResponseText": "Deve ceder passagem.",
     "imageUrl": "/images/question_112.png"
   },
   {
@@ -1368,8 +1368,8 @@
       "B": "Parar.",
       "C": "Ceder passagem."
     },
-    "correctResponseLetter": "C",
-    "correctResponseText": "Ceder passagem.",
+    "correctResponseLetter": "A",
+    "correctResponseText": "Avançar.",
     "imageUrl": "/images/question_113.png"
   },
   {
@@ -1383,8 +1383,8 @@
       "B": "Devo ceder a passagem só aos veículos a motor.",
       "C": "Posso avançar."
     },
-    "correctResponseLetter": "B",
-    "correctResponseText": "Devo ceder a passagem só aos veículos a motor.",
+    "correctResponseLetter": "C",
+    "correctResponseText": "Devo ceder a passagem a todos os veículos que circulem na via.",
     "imageUrl": "/images/question_114.png"
   },
   {
@@ -1457,8 +1457,8 @@
       "B": "Sim, o outro condutor deve ceder-me a passagem.",
       "C": "Sim, porque desço."
     },
-    "correctResponseLetter": "C",
-    "correctResponseText": "Sim, porque desço.",
+    "correctResponseLetter": "A",
+    "correctResponseText": "Não, devo reduzir a velocidade e ceder a passagem.",
     "imageUrl": "/images/question_119.png"
   },
   {
@@ -1472,8 +1472,8 @@
       "B": "Depois do velocípede e antes do veículo da direita.",
       "C": "Depois de ceder a passagem a todos os veículos."
     },
-    "correctResponseLetter": "C",
-    "correctResponseText": "Depois de ceder a passagem a todos os veículos.",
+    "correctResponseLetter": "B",
+    "correctResponseText": "Depois do velocípede e antes do veículo da direita.",
     "imageUrl": "/images/question_120.png"
   },
   {
@@ -1487,8 +1487,8 @@
       "B": "Posso prosseguir, pois o condutor da frente tem o dever de me ceder a passagem.",
       "C": "Devo buzinar, para o informar que lhe estou a ceder a passagem."
     },
-    "correctResponseLetter": "B",
-    "correctResponseText": "Posso prosseguir, pois o condutor da frente tem o dever de me ceder a passagem.",
+    "correctResponseLetter": "A",
+    "correctResponseText": "Devo reduzir a velocidade e ceder a passagem ao condutor da frente.",
     "imageUrl": "/images/question_121.png"
   },
   {
@@ -1502,8 +1502,8 @@
       "B": "Devo ceder a passagem ao veículo da frente, porque vai mudar de direcção.",
       "C": "Posso prosseguir a marcha."
     },
-    "correctResponseLetter": "C",
-    "correctResponseText": "Posso prosseguir a marcha.",
+    "correctResponseLetter": "A",
+    "correctResponseText": "Devo ceder a passagem ao veículo da frente, porque está a dificultar a circulação.",
     "imageUrl": "/images/question_122.png"
   },
   {
@@ -2877,7 +2877,7 @@
       "D": "Todas as respostas anteriores estão correctas"
     },
     "correctResponseLetter": "C",
-    "correctResponseText": "Deve garantir a evacuação dos ocupantes do&nbsp;veículo para uma zona segura",
+    "correctResponseText": "Deve garantir a evacuação dos ocupantes do veículo para uma zona segura",
     "imageUrl": "/images/question_212.png"
   },
   {
@@ -3049,8 +3049,8 @@
       "A": "Verdadeiro",
       "B": "Falso"
     },
-    "correctResponseLetter": "A",
-    "correctResponseText": "Verdadeiro",
+    "correctResponseLetter": "",
+    "correctResponseText": "",
     "imageUrl": "/images/question_223.png"
   },
   {
@@ -3064,8 +3064,8 @@
       "B": "Um recetor.",
       "C": "Um emissor e um recetor."
     },
-    "correctResponseLetter": "A",
-    "correctResponseText": "Um emissor.",
+    "correctResponseLetter": "C",
+    "correctResponseText": "Um emissor e um recetor.",
     "imageUrl": "/images/question_224.png"
   },
   {
@@ -3123,8 +3123,8 @@
       "A": "Verdadeiro",
       "B": "Falso"
     },
-    "correctResponseLetter": "A",
-    "correctResponseText": "Verdadeiro",
+    "correctResponseLetter": "",
+    "correctResponseText": "",
     "imageUrl": "/images/question_228.png"
   },
   {
@@ -3138,8 +3138,8 @@
       "B": "Passiva.",
       "C": "Assertiva."
     },
-    "correctResponseLetter": "A",
-    "correctResponseText": "Agressiva.",
+    "correctResponseLetter": "C",
+    "correctResponseText": "Assertiva.",
     "imageUrl": "/images/question_229.png"
   },
   {
@@ -3316,8 +3316,8 @@
       "A": "Sim",
       "B": "Não."
     },
-    "correctResponseLetter": "A",
-    "correctResponseText": "Sim",
+    "correctResponseLetter": "",
+    "correctResponseText": "",
     "imageUrl": "/images/question_241.png"
   },
   {
@@ -4038,8 +4038,8 @@
       "B": "5 anos",
       "C": "10 anos"
     },
-    "correctResponseLetter": "B",
-    "correctResponseText": "5 anos",
+    "correctResponseLetter": "A",
+    "correctResponseText": "3 anos",
     "imageUrl": "/images/question_290.png"
   },
   {
@@ -4256,8 +4256,8 @@
       "B": "Pelo menos 50 metros.",
       "C": "Pelo menos 30 metros."
     },
-    "correctResponseLetter": "C",
-    "correctResponseText": "Pelo menos 30 metros.",
+    "correctResponseLetter": "B",
+    "correctResponseText": "Pelo menos 50 metros.",
     "imageUrl": "/images/question_320.png"
   },
   {
